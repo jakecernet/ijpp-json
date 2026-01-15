@@ -1,5 +1,119 @@
 [
     {
+        "gtfs_id": "Brezice:1",
+        "name": "Brežice AP",
+        "lat": 45.9076,
+        "lon": 15.60089
+    },
+    {
+        "gtfs_id": "Brezice:10",
+        "name": "Brežice Občina",
+        "lat": 45.90402,
+        "lon": 15.59293
+    },
+    {
+        "gtfs_id": "Brezice:11",
+        "name": "Brežice gimnazija",
+        "lat": 45.90772,
+        "lon": 15.59136
+    },
+    {
+        "gtfs_id": "Brezice:12",
+        "name": "Brežice stadion",
+        "lat": 45.91177,
+        "lon": 15.59061
+    },
+    {
+        "gtfs_id": "Brezice:13",
+        "name": "Brežice Intermarket",
+        "lat": 45.91846,
+        "lon": 15.59663
+    },
+    {
+        "gtfs_id": "Brezice:14",
+        "name": "Cesta bratov Milavcev",
+        "lat": 45.91584,
+        "lon": 15.59099
+    },
+    {
+        "gtfs_id": "Brezice:15",
+        "name": "Brežice stadion",
+        "lat": 45.9119,
+        "lon": 15.59051
+    },
+    {
+        "gtfs_id": "Brezice:16",
+        "name": "Brežice gimnazija",
+        "lat": 45.90775,
+        "lon": 15.59126
+    },
+    {
+        "gtfs_id": "Brezice:17",
+        "name": "Brežice Zdravstveni dom",
+        "lat": 45.90773,
+        "lon": 15.59464
+    },
+    {
+        "gtfs_id": "Brezice:18",
+        "name": "Maistrova",
+        "lat": 45.90789,
+        "lon": 15.59748
+    },
+    {
+        "gtfs_id": "Brezice:19",
+        "name": "Brežice AP",
+        "lat": 45.9076,
+        "lon": 15.60089
+    },
+    {
+        "gtfs_id": "Brezice:2",
+        "name": "Murnova",
+        "lat": 45.90693,
+        "lon": 15.60921
+    },
+    {
+        "gtfs_id": "Brezice:3",
+        "name": "Kregarjeva",
+        "lat": 45.90557,
+        "lon": 15.60901
+    },
+    {
+        "gtfs_id": "Brezice:4",
+        "name": "Prežihova 1",
+        "lat": 45.90448,
+        "lon": 15.60618
+    },
+    {
+        "gtfs_id": "Brezice:5",
+        "name": "Prežihova 2",
+        "lat": 45.90573,
+        "lon": 15.60522
+    },
+    {
+        "gtfs_id": "Brezice:6",
+        "name": "Trdinova",
+        "lat": 45.90426,
+        "lon": 15.60141
+    },
+    {
+        "gtfs_id": "Brezice:7",
+        "name": "Pokopališče",
+        "lat": 45.9003,
+        "lon": 15.59657
+    },
+    {
+        "gtfs_id": "Brezice:8",
+        "name": "Cankarjeva",
+        "lat": 45.90211,
+        "lon": 15.59702
+    },
+    {
+        "gtfs_id": "Brezice:9",
+        "name": "Brežice Market",
+        "lat": 45.9046,
+        "lon": 15.59692
+    },
+    {
         "gtfs_id": "CELEBUS:1000039713",
         "name": "Celje Stari Grad",
         "lat": 46.219115,
@@ -64320,12 +64434,6 @@
         "lon": 14.535752
     },
     {
-        "gtfs_id": "MARPROM:1",
-        "name": "Akvarij",
-        "lat": 46.564961,
-        "lon": 15.649886
-    },
-    {
         "gtfs_id": "MARPROM:10",
         "name": "Betnavska - Knafelčeva",
         "lat": 46.537849,
@@ -64456,18 +64564,6 @@
         "name": "Kavčičeva",
         "lat": 46.527143,
         "lon": 15.672036
-    },
-    {
-        "gtfs_id": "MARPROM:122",
-        "name": "Kliček",
-        "lat": 46.568597,
-        "lon": 15.648833
-    },
-    {
-        "gtfs_id": "MARPROM:123",
-        "name": "Kliček",
-        "lat": 46.568654,
-        "lon": 15.648871
     },
     {
         "gtfs_id": "MARPROM:124",
@@ -64675,13 +64771,13 @@
     },
     {
         "gtfs_id": "MARPROM:157",
-        "name": "Limbuš - Marof",
+        "name": "Limbuš",
         "lat": 46.553939,
         "lon": 15.582293
     },
     {
         "gtfs_id": "MARPROM:158",
-        "name": "Limbuš - Marof",
+        "name": "Limbuš",
         "lat": 46.553985,
         "lon": 15.582052
     },
@@ -64890,12 +64986,6 @@
         "lon": 15.708238
     },
     {
-        "gtfs_id": "MARPROM:19",
-        "name": "Bresternica - pošta",
-        "lat": 46.566912,
-        "lon": 15.578258
-    },
-    {
         "gtfs_id": "MARPROM:190",
         "name": "Malečnik - trgovina",
         "lat": 46.552497,
@@ -64948,12 +65038,6 @@
         "name": "Belokranjska",
         "lat": 46.542928,
         "lon": 15.654167
-    },
-    {
-        "gtfs_id": "MARPROM:20",
-        "name": "Bresternica - pošta",
-        "lat": 46.566852,
-        "lon": 15.578428
     },
     {
         "gtfs_id": "MARPROM:200",
@@ -65176,12 +65260,6 @@
         "name": "Osojnikova - TVD Partizan",
         "lat": 46.554105,
         "lon": 15.665806
-    },
-    {
-        "gtfs_id": "MARPROM:237",
-        "name": "OŠ bratov Polančičev",
-        "lat": 46.564297,
-        "lon": 15.651606
     },
     {
         "gtfs_id": "MARPROM:238",
@@ -65634,28 +65712,10 @@
         "lon": 15.635159
     },
     {
-        "gtfs_id": "MARPROM:309",
-        "name": "Ribnik 1",
-        "lat": 46.573695,
-        "lon": 15.644586
-    },
-    {
         "gtfs_id": "MARPROM:31",
         "name": "Cesta v Rošpoh 65",
         "lat": 46.57899,
         "lon": 15.613401
-    },
-    {
-        "gtfs_id": "MARPROM:310",
-        "name": "Ribnik 1",
-        "lat": 46.573789,
-        "lon": 15.644017
-    },
-    {
-        "gtfs_id": "MARPROM:311",
-        "name": "Ribniško selo",
-        "lat": 46.576067,
-        "lon": 15.641971
     },
     {
         "gtfs_id": "MARPROM:312",
@@ -65700,40 +65760,16 @@
         "lon": 15.729293
     },
     {
-        "gtfs_id": "MARPROM:319",
-        "name": "Rušnikova žaga",
-        "lat": 46.590991,
-        "lon": 15.55646
-    },
-    {
         "gtfs_id": "MARPROM:32",
         "name": "Cesta v Rošpoh 65",
         "lat": 46.579404,
         "lon": 15.613768
     },
     {
-        "gtfs_id": "MARPROM:320",
-        "name": "Rušnikova žaga",
-        "lat": 46.590903,
-        "lon": 15.556379
-    },
-    {
         "gtfs_id": "MARPROM:322",
         "name": "Smetanova - Teh. fakul.",
         "lat": 46.559391,
         "lon": 15.640427
-    },
-    {
-        "gtfs_id": "MARPROM:323",
-        "name": "Smolnikov mlin",
-        "lat": 46.606638,
-        "lon": 15.551653
-    },
-    {
-        "gtfs_id": "MARPROM:324",
-        "name": "Smolnikov mlin",
-        "lat": 46.606682,
-        "lon": 15.551517
     },
     {
         "gtfs_id": "MARPROM:326",
@@ -65838,30 +65874,6 @@
         "lon": 15.662691
     },
     {
-        "gtfs_id": "MARPROM:342",
-        "name": "Šober - dvor",
-        "lat": 46.585389,
-        "lon": 15.568522
-    },
-    {
-        "gtfs_id": "MARPROM:343",
-        "name": "Šober - dvor",
-        "lat": 46.585282,
-        "lon": 15.568568
-    },
-    {
-        "gtfs_id": "MARPROM:344",
-        "name": "Šober - Žunko",
-        "lat": 46.572741,
-        "lon": 15.568531
-    },
-    {
-        "gtfs_id": "MARPROM:345",
-        "name": "Šober - Žunko",
-        "lat": 46.572307,
-        "lon": 15.56845
-    },
-    {
         "gtfs_id": "MARPROM:346",
         "name": "Šubičeva - vrtec",
         "lat": 46.568791,
@@ -65932,12 +65944,6 @@
         "name": "Titova - Nasipna",
         "lat": 46.544594,
         "lon": 15.648782
-    },
-    {
-        "gtfs_id": "MARPROM:357",
-        "name": "Tomšičev drevored",
-        "lat": 46.56561,
-        "lon": 15.650571
     },
     {
         "gtfs_id": "MARPROM:358",
@@ -66444,12 +66450,6 @@
         "lon": 15.667511
     },
     {
-        "gtfs_id": "MARPROM:439",
-        "name": "Pekre",
-        "lat": 46.547465,
-        "lon": 15.594024
-    },
-    {
         "gtfs_id": "MARPROM:44",
         "name": "Dogoše - Gasilski dom",
         "lat": 46.523351,
@@ -66726,106 +66726,16 @@
         "lon": 15.631009
     },
     {
-        "gtfs_id": "MARPROM:548",
-        "name": "Gaj Gorjup - Ročič",
-        "lat": 46.60857,
-        "lon": 15.51951
-    },
-    {
-        "gtfs_id": "MARPROM:549",
-        "name": "Hojnik - Hojč",
-        "lat": 46.6137,
-        "lon": 15.526
-    },
-    {
         "gtfs_id": "MARPROM:55",
         "name": "Dravograjska - Sokolska",
         "lat": 46.557368,
         "lon": 15.625449
     },
     {
-        "gtfs_id": "MARPROM:550",
-        "name": "Vdovič",
-        "lat": 46.615772,
-        "lon": 15.520358
-    },
-    {
-        "gtfs_id": "MARPROM:551",
-        "name": "Šerbinek",
-        "lat": 46.619835,
-        "lon": 15.525343
-    },
-    {
-        "gtfs_id": "MARPROM:552",
-        "name": "Pipuš - Žunko",
-        "lat": 46.621822,
-        "lon": 15.53804
-    },
-    {
-        "gtfs_id": "MARPROM:553",
-        "name": "Robič",
-        "lat": 46.608463,
-        "lon": 15.56844
-    },
-    {
-        "gtfs_id": "MARPROM:554",
-        "name": "Log",
-        "lat": 46.61788,
-        "lon": 15.57847
-    },
-    {
-        "gtfs_id": "MARPROM:555",
-        "name": "Gert",
-        "lat": 46.617931,
-        "lon": 15.585551
-    },
-    {
-        "gtfs_id": "MARPROM:556",
-        "name": "Hlade Križišče",
-        "lat": 46.61079,
-        "lon": 15.59614
-    },
-    {
-        "gtfs_id": "MARPROM:557",
-        "name": "Krampl - Janč",
-        "lat": 46.606472,
-        "lon": 15.602551
-    },
-    {
-        "gtfs_id": "MARPROM:558",
-        "name": "Hrastnik",
-        "lat": 46.60206,
-        "lon": 15.605136
-    },
-    {
         "gtfs_id": "MARPROM:56",
         "name": "Dravograjska - Sokolska",
         "lat": 46.557532,
         "lon": 15.624998
-    },
-    {
-        "gtfs_id": "MARPROM:560",
-        "name": "Pod Urbanom 15",
-        "lat": 46.597517,
-        "lon": 15.60728
-    },
-    {
-        "gtfs_id": "MARPROM:561",
-        "name": "Tenis Hrastnik",
-        "lat": 46.59532,
-        "lon": 15.613774
-    },
-    {
-        "gtfs_id": "MARPROM:562",
-        "name": "Oš Kamnica",
-        "lat": 46.573495,
-        "lon": 15.617011
-    },
-    {
-        "gtfs_id": "MARPROM:563",
-        "name": "Oš Kamnica",
-        "lat": 46.573562,
-        "lon": 15.615887
     },
     {
         "gtfs_id": "MARPROM:564",
@@ -66840,166 +66750,16 @@
         "lon": 15.694953
     },
     {
-        "gtfs_id": "MARPROM:574",
-        "name": "Rošpoh - del 38a (Savič)",
-        "lat": 46.592156,
-        "lon": 15.639567
-    },
-    {
-        "gtfs_id": "MARPROM:575",
-        "name": "Rošpoh - del 53",
-        "lat": 46.58471,
-        "lon": 15.63645
-    },
-    {
-        "gtfs_id": "MARPROM:576",
-        "name": "Rošpoh - del odcep Vinarje",
-        "lat": 46.58258,
-        "lon": 15.636069
-    },
-    {
-        "gtfs_id": "MARPROM:577",
-        "name": "Rošpoh - del 15-18",
-        "lat": 46.58135,
-        "lon": 15.631824
-    },
-    {
-        "gtfs_id": "MARPROM:578",
-        "name": "Rošpoh - del 10",
-        "lat": 46.57968,
-        "lon": 15.6277
-    },
-    {
-        "gtfs_id": "MARPROM:579",
-        "name": "Oš Malečnik",
-        "lat": 46.554811,
-        "lon": 15.700671
-    },
-    {
         "gtfs_id": "MARPROM:58",
         "name": "Dupleška - Jarčeva",
         "lat": 46.532254,
         "lon": 15.694671
     },
     {
-        "gtfs_id": "MARPROM:580",
-        "name": "Malečnik 23",
-        "lat": 46.556428,
-        "lon": 15.70416
-    },
-    {
-        "gtfs_id": "MARPROM:581",
-        "name": "Hrenca 11b",
-        "lat": 46.56237,
-        "lon": 15.70506
-    },
-    {
-        "gtfs_id": "MARPROM:582",
-        "name": "Hrenca 14a",
-        "lat": 46.567559,
-        "lon": 15.704568
-    },
-    {
-        "gtfs_id": "MARPROM:583",
-        "name": "Hrenca obračališče",
-        "lat": 46.563815,
-        "lon": 15.71877
-    },
-    {
-        "gtfs_id": "MARPROM:584",
-        "name": "Bračko K",
-        "lat": 46.570213,
-        "lon": 15.702362
-    },
-    {
-        "gtfs_id": "MARPROM:585",
-        "name": "Vodole Gorca K",
-        "lat": 46.572039,
-        "lon": 15.701743
-    },
-    {
-        "gtfs_id": "MARPROM:586",
-        "name": "Markuš K",
-        "lat": 46.571704,
-        "lon": 15.695422
-    },
-    {
-        "gtfs_id": "MARPROM:587",
-        "name": "Vodole 47",
-        "lat": 46.56895,
-        "lon": 15.700114
-    },
-    {
-        "gtfs_id": "MARPROM:588",
-        "name": "Malečnik 247",
-        "lat": 46.564084,
-        "lon": 15.700145
-    },
-    {
-        "gtfs_id": "MARPROM:589",
-        "name": "Malečnik 240",
-        "lat": 46.56338,
-        "lon": 15.695506
-    },
-    {
         "gtfs_id": "MARPROM:59",
         "name": "Dupleška - kanal",
         "lat": 46.525898,
         "lon": 15.700396
-    },
-    {
-        "gtfs_id": "MARPROM:590",
-        "name": "Malečnik 235",
-        "lat": 46.56134,
-        "lon": 15.692625
-    },
-    {
-        "gtfs_id": "MARPROM:591",
-        "name": "Malečnik 200",
-        "lat": 46.55791,
-        "lon": 15.689964
-    },
-    {
-        "gtfs_id": "MARPROM:593",
-        "name": "Kmečki turizem Mak",
-        "lat": 46.572731,
-        "lon": 15.681898
-    },
-    {
-        "gtfs_id": "MARPROM:594",
-        "name": "Stolni vrh 9",
-        "lat": 46.57287,
-        "lon": 15.67416
-    },
-    {
-        "gtfs_id": "MARPROM:595",
-        "name": "Križišče Anderlič",
-        "lat": 46.572695,
-        "lon": 15.672769
-    },
-    {
-        "gtfs_id": "MARPROM:596",
-        "name": "Meljski hrib 25",
-        "lat": 46.565175,
-        "lon": 15.66835
-    },
-    {
-        "gtfs_id": "MARPROM:597",
-        "name": "Meljski dol K",
-        "lat": 46.566865,
-        "lon": 15.660609
-    },
-    {
-        "gtfs_id": "MARPROM:598",
-        "name": "Vrtec Šubičeva",
-        "lat": 46.568755,
-        "lon": 15.657125
-    },
-    {
-        "gtfs_id": "MARPROM:599",
-        "name": "Oš Franc Rozman Stane",
-        "lat": 46.564307,
-        "lon": 15.654941
     },
     {
         "gtfs_id": "MARPROM:6",
@@ -67014,106 +66774,10 @@
         "lon": 15.701311
     },
     {
-        "gtfs_id": "MARPROM:600",
-        "name": "Počehovska ulica 19",
-        "lat": 46.57741,
-        "lon": 15.65462
-    },
-    {
-        "gtfs_id": "MARPROM:601",
-        "name": "Počehovska elektroinštalacije",
-        "lat": 46.579811,
-        "lon": 15.65281
-    },
-    {
-        "gtfs_id": "MARPROM:602",
-        "name": "Počehova 33b",
-        "lat": 46.582779,
-        "lon": 15.652578
-    },
-    {
-        "gtfs_id": "MARPROM:603",
-        "name": "Počehova 59c",
-        "lat": 46.59205,
-        "lon": 15.650655
-    },
-    {
-        "gtfs_id": "MARPROM:604",
-        "name": "Počehova 64f",
-        "lat": 46.592515,
-        "lon": 15.655686
-    },
-    {
-        "gtfs_id": "MARPROM:605",
-        "name": "Počehova 62",
-        "lat": 46.591355,
-        "lon": 15.655575
-    },
-    {
-        "gtfs_id": "MARPROM:606",
-        "name": "Vinotoč Rožman",
-        "lat": 46.588746,
-        "lon": 15.65557
-    },
-    {
-        "gtfs_id": "MARPROM:607",
-        "name": "Oš Franc Rozman Stane - podružnica",
-        "lat": 46.57226,
-        "lon": 15.65794
-    },
-    {
-        "gtfs_id": "MARPROM:609",
-        "name": "Trdinova 18",
-        "lat": 46.562611,
-        "lon": 15.667151
-    },
-    {
         "gtfs_id": "MARPROM:61",
         "name": "Dupleška - kanal",
         "lat": 46.526891,
         "lon": 15.700068
-    },
-    {
-        "gtfs_id": "MARPROM:610",
-        "name": "Prisojna 8a",
-        "lat": 46.564543,
-        "lon": 15.662697
-    },
-    {
-        "gtfs_id": "MARPROM:614",
-        "name": "Hrastje 20a",
-        "lat": 46.540041,
-        "lon": 15.582721
-    },
-    {
-        "gtfs_id": "MARPROM:615",
-        "name": "Cotičeva križišče",
-        "lat": 46.538921,
-        "lon": 15.578881
-    },
-    {
-        "gtfs_id": "MARPROM:616",
-        "name": "Cotičeva Stegenškova",
-        "lat": 46.546839,
-        "lon": 15.589334
-    },
-    {
-        "gtfs_id": "MARPROM:617",
-        "name": "Hrastje 9",
-        "lat": 46.547902,
-        "lon": 15.58951
-    },
-    {
-        "gtfs_id": "MARPROM:618",
-        "name": "ulica 30 maja križišče",
-        "lat": 46.549671,
-        "lon": 15.588751
-    },
-    {
-        "gtfs_id": "MARPROM:619",
-        "name": "Hrastje 52b",
-        "lat": 46.549226,
-        "lon": 15.585889
     },
     {
         "gtfs_id": "MARPROM:62",
@@ -67122,88 +66786,10 @@
         "lon": 15.683486
     },
     {
-        "gtfs_id": "MARPROM:620",
-        "name": "Oš Rada Robiča",
-        "lat": 46.556741,
-        "lon": 15.578241
-    },
-    {
-        "gtfs_id": "MARPROM:621",
-        "name": "Meranovo obračališče",
-        "lat": 46.535841,
-        "lon": 15.560961
-    },
-    {
-        "gtfs_id": "MARPROM:622",
-        "name": "Vrhov dol 9",
-        "lat": 46.537381,
-        "lon": 15.563971
-    },
-    {
-        "gtfs_id": "MARPROM:623",
-        "name": "Vrhov dol - Ob Blažovnici",
-        "lat": 46.539021,
-        "lon": 15.566381
-    },
-    {
-        "gtfs_id": "MARPROM:624",
-        "name": "Vrhodolska pot križišče",
-        "lat": 46.544952,
-        "lon": 15.568626
-    },
-    {
-        "gtfs_id": "MARPROM:625",
-        "name": "Gostišče Vnukec",
-        "lat": 46.547808,
-        "lon": 15.571499
-    },
-    {
-        "gtfs_id": "MARPROM:626",
-        "name": "Ob Blažovici Biplast",
-        "lat": 46.550381,
-        "lon": 15.576041
-    },
-    {
-        "gtfs_id": "MARPROM:627",
-        "name": "Ob Blažovici 56a",
-        "lat": 46.552223,
-        "lon": 15.578468
-    },
-    {
-        "gtfs_id": "MARPROM:628",
-        "name": "Kamniška Graba 6",
-        "lat": 46.573275,
-        "lon": 15.6107
-    },
-    {
-        "gtfs_id": "MARPROM:629",
-        "name": "Kamniška Graba 50",
-        "lat": 46.575303,
-        "lon": 15.605232
-    },
-    {
         "gtfs_id": "MARPROM:63",
         "name": "Dupleška - Tezenska",
         "lat": 46.541218,
         "lon": 15.683419
-    },
-    {
-        "gtfs_id": "MARPROM:630",
-        "name": "Kamniška Graba 80b",
-        "lat": 46.58001,
-        "lon": 15.598889
-    },
-    {
-        "gtfs_id": "MARPROM:631",
-        "name": "Kamniška Graba 101",
-        "lat": 46.582697,
-        "lon": 15.597376
-    },
-    {
-        "gtfs_id": "MARPROM:632",
-        "name": "Kamniška Graba 141 - SOLNIK",
-        "lat": 46.586329,
-        "lon": 15.595967
     },
     {
         "gtfs_id": "MARPROM:633",
@@ -67476,40 +67062,10 @@
         "lon": 15.616999
     },
     {
-        "gtfs_id": "MARPROM:79",
-        "name": "Gaj nad Mariborom",
-        "lat": 46.619008,
-        "lon": 15.565002
-    },
-    {
         "gtfs_id": "MARPROM:8",
         "name": "Betnavska - Goriška",
         "lat": 46.540358,
         "lon": 15.637294
-    },
-    {
-        "gtfs_id": "MARPROM:80",
-        "name": "Gaj nad MB - Šiker",
-        "lat": 46.611834,
-        "lon": 15.546949
-    },
-    {
-        "gtfs_id": "MARPROM:81",
-        "name": "Gaj nad MB - Šiker",
-        "lat": 46.611832,
-        "lon": 15.546845
-    },
-    {
-        "gtfs_id": "MARPROM:82",
-        "name": "Gaj nad MB - transform.",
-        "lat": 46.616707,
-        "lon": 15.553091
-    },
-    {
-        "gtfs_id": "MARPROM:83",
-        "name": "Gaj nad MB - transform.",
-        "lat": 46.616856,
-        "lon": 15.553231
     },
     {
         "gtfs_id": "MARPROM:84",
@@ -67698,6 +67254,12 @@
         "lon": 14.32946
     },
     {
+        "gtfs_id": "MOKranj:114",
+        "name": "Babni vrt vas",
+        "lat": 46.32032,
+        "lon": 14.38204
+    },
+    {
         "gtfs_id": "MOKranj:115",
         "name": "Srakovlje",
         "lat": 46.28066,
@@ -67830,10 +67392,22 @@
         "lon": 14.38059
     },
     {
+        "gtfs_id": "MOKranj:136",
+        "name": "Žablje",
+        "lat": 46.30692,
+        "lon": 14.38355
+    },
+    {
         "gtfs_id": "MOKranj:137",
         "name": "Kranj Stražišče Š",
         "lat": 46.23364,
         "lon": 14.34503
+    },
+    {
+        "gtfs_id": "MOKranj:138",
+        "name": "Kranj AP",
+        "lat": 46.2458,
+        "lon": 14.35486
     },
     {
         "gtfs_id": "MOKranj:139",
@@ -68106,6 +67680,12 @@
         "lon": 14.33321
     },
     {
+        "gtfs_id": "MOKranj:42",
+        "name": "Žabnica",
+        "lat": 46.19658,
+        "lon": 14.33209
+    },
+    {
         "gtfs_id": "MOKranj:43",
         "name": "Kokrica",
         "lat": 46.26628,
@@ -68128,6 +67708,18 @@
         "name": "Kokrica",
         "lat": 46.26635,
         "lon": 14.35603
+    },
+    {
+        "gtfs_id": "MOKranj:47",
+        "name": "Čadovlje/Golniku K",
+        "lat": 46.30859,
+        "lon": 14.37651
+    },
+    {
+        "gtfs_id": "MOKranj:48",
+        "name": "Povlje",
+        "lat": 46.32259,
+        "lon": 14.37775
     },
     {
         "gtfs_id": "MOKranj:49",
@@ -68172,10 +67764,22 @@
         "lon": 14.37071
     },
     {
+        "gtfs_id": "MOKranj:51",
+        "name": "Zalog/Goriče",
+        "lat": 46.32652,
+        "lon": 14.35307
+    },
+    {
         "gtfs_id": "MOKranj:52",
         "name": "Kokrica žaga",
         "lat": 46.26192,
         "lon": 14.3602
+    },
+    {
+        "gtfs_id": "MOKranj:53",
+        "name": "Srednja vas/Goriče",
+        "lat": 46.31905,
+        "lon": 14.34741
     },
     {
         "gtfs_id": "MOKranj:54",
@@ -68218,6 +67822,12 @@
         "name": "Kranj Iskra sp.",
         "lat": 46.23567,
         "lon": 14.35313
+    },
+    {
+        "gtfs_id": "MOKranj:60",
+        "name": "Hraše/Tatinec",
+        "lat": 46.29317,
+        "lon": 14.37403
     },
     {
         "gtfs_id": "MOKranj:61",
@@ -68454,219 +68064,1719 @@
         "lon": 14.33259
     },
     {
+        "gtfs_id": "MOKranj:98",
+        "name": "Tatinec vas",
+        "lat": 46.28859,
+        "lon": 14.36812
+    },
+    {
+        "gtfs_id": "MOKranj:99",
+        "name": "Svarje",
+        "lat": 46.33207,
+        "lon": 14.35085
+    },
+    {
         "gtfs_id": "MOKrsko:1",
         "name": "Krško A. postaja",
-        "lat": 45.9568186,
-        "lon": 15.4937053
+        "lat": 45.956818,
+        "lon": 15.493705
     },
     {
         "gtfs_id": "MOKrsko:10",
         "name": "Krško Društvo gluhih",
-        "lat": 45.9606716,
+        "lat": 45.96067,
         "lon": 15.485296
     },
     {
         "gtfs_id": "MOKrsko:11",
         "name": "Krško Zaton",
-        "lat": 45.9609975,
-        "lon": 15.4860084
+        "lat": 45.960999,
+        "lon": 15.486009
     },
     {
         "gtfs_id": "MOKrsko:12",
         "name": "Krško Šinkovec",
-        "lat": 45.9534964,
-        "lon": 15.4864547
+        "lat": 45.953495,
+        "lon": 15.486455
     },
     {
         "gtfs_id": "MOKrsko:13",
         "name": "Krško Spodnji Grič pokopališča",
-        "lat": 45.947484,
-        "lon": 15.4871736
+        "lat": 45.947483,
+        "lon": 15.487173
     },
     {
         "gtfs_id": "MOKrsko:14",
         "name": "Leskovec pri Krškem K. Voglar",
-        "lat": 45.9394431,
-        "lon": 15.4759587
+        "lat": 45.939442,
+        "lon": 15.475959
     },
     {
         "gtfs_id": "MOKrsko:15",
         "name": "Krško Grič Plut",
-        "lat": 45.9458055,
-        "lon": 15.4833326
+        "lat": 45.945805,
+        "lon": 15.483333
     },
     {
         "gtfs_id": "MOKrsko:16",
         "name": "Krško Zdravstveni dom",
-        "lat": 45.9426214,
-        "lon": 15.4835998
+        "lat": 45.942623,
+        "lon": 15.4836
     },
     {
         "gtfs_id": "MOKrsko:17",
         "name": "Krško Kovinarska",
         "lat": 45.941177,
-        "lon": 15.4852982
+        "lon": 15.485298
     },
     {
         "gtfs_id": "MOKrsko:18",
         "name": "Krško Trgovski center",
-        "lat": 45.9352856,
-        "lon": 15.4843304
+        "lat": 45.935287,
+        "lon": 15.48433
     },
     {
         "gtfs_id": "MOKrsko:19",
         "name": "Leskovec pri Krškem pokopališče",
-        "lat": 45.9372107,
-        "lon": 15.4795775
+        "lat": 45.93721,
+        "lon": 15.479577
     },
     {
         "gtfs_id": "MOKrsko:2",
         "name": "Krško Šumi",
         "lat": 45.953979,
-        "lon": 15.5004119
+        "lon": 15.500412
     },
     {
         "gtfs_id": "MOKrsko:20",
         "name": "Leskovec pri Krškem pošta",
-        "lat": 45.9418365,
-        "lon": 15.4781506
+        "lat": 45.941837,
+        "lon": 15.47815
     },
     {
         "gtfs_id": "MOKrsko:21",
         "name": "Leskovec pri Krškem cerkev",
-        "lat": 45.9426699,
-        "lon": 15.4777794
+        "lat": 45.942669,
+        "lon": 15.477779
     },
     {
         "gtfs_id": "MOKrsko:22",
         "name": "Leskovec pri Krškem Gmajna",
-        "lat": 45.9394789,
-        "lon": 15.4704366
+        "lat": 45.93948,
+        "lon": 15.470436
     },
     {
         "gtfs_id": "MOKrsko:23",
         "name": "Narpel AP",
-        "lat": 45.9527109,
-        "lon": 15.4829668
+        "lat": 45.952709,
+        "lon": 15.482966
     },
     {
         "gtfs_id": "MOKrsko:24",
         "name": "Trška Gora 49",
-        "lat": 45.9550106,
+        "lat": 45.955009,
         "lon": 15.475683
     },
     {
         "gtfs_id": "MOKrsko:25",
         "name": "Narpel kontejnerji",
-        "lat": 45.9546317,
-        "lon": 15.4846834
+        "lat": 45.954632,
+        "lon": 15.484683
     },
     {
         "gtfs_id": "MOKrsko:26",
         "name": "Krško Resa",
-        "lat": 45.9585475,
-        "lon": 15.4990547
+        "lat": 45.958546,
+        "lon": 15.499055
     },
     {
         "gtfs_id": "MOKrsko:27",
         "name": "Kremen odcep",
-        "lat": 45.9579433,
-        "lon": 15.5048643
+        "lat": 45.957943,
+        "lon": 15.504865
     },
     {
         "gtfs_id": "MOKrsko:28",
         "name": "Kremen 9A",
-        "lat": 45.9624451,
-        "lon": 15.5066099
+        "lat": 45.962444,
+        "lon": 15.50661
     },
     {
         "gtfs_id": "MOKrsko:29",
         "name": "Kremen - Loke",
-        "lat": 45.9660114,
-        "lon": 15.5100796
+        "lat": 45.966011,
+        "lon": 15.510079
     },
     {
         "gtfs_id": "MOKrsko:30",
         "name": "Bučerca",
-        "lat": 45.971892,
-        "lon": 15.5144806
+        "lat": 45.971893,
+        "lon": 15.514481
     },
     {
         "gtfs_id": "MOKrsko:31",
         "name": "Bučerca odcep",
-        "lat": 45.973443,
-        "lon": 15.5154891
+        "lat": 45.973442,
+        "lon": 15.515489
     },
     {
         "gtfs_id": "MOKrsko:32",
         "name": "Sremič",
-        "lat": 45.9833413,
+        "lat": 45.983341,
         "lon": 15.491169
     },
     {
         "gtfs_id": "MOKrsko:33",
         "name": "Sremič Radej",
-        "lat": 45.9845967,
-        "lon": 15.4881306
+        "lat": 45.984596,
+        "lon": 15.488131
     },
     {
         "gtfs_id": "MOKrsko:34",
         "name": "Tri lučke",
-        "lat": 45.9729151,
-        "lon": 15.4922762
+        "lat": 45.972916,
+        "lon": 15.492276
     },
     {
         "gtfs_id": "MOKrsko:35",
         "name": "Sremič gozd",
-        "lat": 45.9643752,
-        "lon": 15.4938598
+        "lat": 45.964375,
+        "lon": 15.493859
     },
     {
         "gtfs_id": "MOKrsko:36",
         "name": "Krško Apolon",
-        "lat": 45.9635206,
-        "lon": 15.4863539
+        "lat": 45.96352,
+        "lon": 15.486354
     },
     {
         "gtfs_id": "MOKrsko:37",
         "name": "Sremič Božič",
-        "lat": 45.9797508,
-        "lon": 15.4869847
+        "lat": 45.979752,
+        "lon": 15.486984
     },
     {
         "gtfs_id": "MOKrsko:4",
         "name": "Krško Osnovna šola Jurija Dalmatina",
-        "lat": 45.9591203,
-        "lon": 15.4945014
+        "lat": 45.959122,
+        "lon": 15.494501
     },
     {
         "gtfs_id": "MOKrsko:5",
         "name": "Krško Cankarjeva",
-        "lat": 45.9569849,
-        "lon": 15.4972898
+        "lat": 45.956985,
+        "lon": 15.49729
     },
     {
         "gtfs_id": "MOKrsko:6",
         "name": "Krško Most",
-        "lat": 45.9584565,
-        "lon": 15.4913042
+        "lat": 45.958458,
+        "lon": 15.491304
     },
     {
         "gtfs_id": "MOKrsko:7",
         "name": "Krško Hočevarjev trg",
-        "lat": 45.9679801,
-        "lon": 15.4837296
+        "lat": 45.967979,
+        "lon": 15.483729
     },
     {
         "gtfs_id": "MOKrsko:8",
         "name": "Mestna občina Krško",
-        "lat": 45.966775,
-        "lon": 15.4851222
+        "lat": 45.966774,
+        "lon": 15.485122
     },
     {
         "gtfs_id": "MOKrsko:9",
         "name": "Krško Avtoline",
-        "lat": 45.9632595,
-        "lon": 15.4845665
+        "lat": 45.963261,
+        "lon": 15.484567
+    },
+    {
+        "gtfs_id": "MOMS:1122433",
+        "name": "Murska Sobota AP",
+        "lat": 46.6587909,
+        "lon": 16.1651404
+    },
+    {
+        "gtfs_id": "MOMS:1122442",
+        "name": "Murska Sobota Ekonom. Š",
+        "lat": 46.6653123,
+        "lon": 16.1810928
+    },
+    {
+        "gtfs_id": "MOMS:1122443",
+        "name": "Prežihova ulica",
+        "lat": 46.6601884,
+        "lon": 16.1568467
+    },
+    {
+        "gtfs_id": "MOMS:1122445",
+        "name": "Slovenska ulica I/Blagovnica",
+        "lat": 46.6589472,
+        "lon": 16.1665811
+    },
+    {
+        "gtfs_id": "MOMS:1122447",
+        "name": "Slovenska ulica II/MO MS",
+        "lat": 46.6630667,
+        "lon": 16.1649054
+    },
+    {
+        "gtfs_id": "MOMS:1122448",
+        "name": "Tomšičeva ulica I",
+        "lat": 46.6523049,
+        "lon": 16.157084
+    },
+    {
+        "gtfs_id": "MOMS:1122449",
+        "name": "Tomšičeva ulica I",
+        "lat": 46.6530291,
+        "lon": 16.1575306
+    },
+    {
+        "gtfs_id": "MOMS:1122450",
+        "name": "Tomšičeva ulica II/dijaški dom",
+        "lat": 46.6550993,
+        "lon": 16.1592209
+    },
+    {
+        "gtfs_id": "MOMS:1122451",
+        "name": "Tomšičeva ulica II/dijaški dom",
+        "lat": 46.6549933,
+        "lon": 16.1590227
+    },
+    {
+        "gtfs_id": "MOMS:1122453",
+        "name": "Trstenjakova ulica I/trgovina",
+        "lat": 46.6553542,
+        "lon": 16.1624798
+    },
+    {
+        "gtfs_id": "MOMS:1122454",
+        "name": "Trstenjakova ulica I/trgovina",
+        "lat": 46.6553575,
+        "lon": 16.1621532
+    },
+    {
+        "gtfs_id": "MOMS:1122455",
+        "name": "Trstenjakova ulica II/OŠ III",
+        "lat": 46.6542518,
+        "lon": 16.1682704
+    },
+    {
+        "gtfs_id": "MOMS:1122456",
+        "name": "Trstenjakova ulica II/OŠ III",
+        "lat": 46.6541503,
+        "lon": 16.1685164
+    },
+    {
+        "gtfs_id": "MOMS:1122457",
+        "name": "Ul.Mikloša Kuzmiča I",
+        "lat": 46.6600185,
+        "lon": 16.1540598
+    },
+    {
+        "gtfs_id": "MOMS:1122458",
+        "name": "Ul.Mikloša Kuzmiča I",
+        "lat": 46.6599453,
+        "lon": 16.154189
+    },
+    {
+        "gtfs_id": "MOMS:1122459",
+        "name": "Ul.Mikloša Kuzmiča II",
+        "lat": 46.6570602,
+        "lon": 16.1539056
+    },
+    {
+        "gtfs_id": "MOMS:1122460",
+        "name": "Ul.Mikloša Kuzmiča II",
+        "lat": 46.6578233,
+        "lon": 16.1540655
+    },
+    {
+        "gtfs_id": "MOMS:1122461",
+        "name": "Ulica Štefana Kuzmiča",
+        "lat": 46.6605251,
+        "lon": 16.1555733
+    },
+    {
+        "gtfs_id": "MOMS:1122462",
+        "name": "Ulica Zorana Velnarja",
+        "lat": 46.6548341,
+        "lon": 16.1534011
+    },
+    {
+        "gtfs_id": "MOMS:1122463",
+        "name": "Ulica Zorana Velnarja",
+        "lat": 46.6549848,
+        "lon": 16.1536264
+    },
+    {
+        "gtfs_id": "MOMS:1123983",
+        "name": "Černelavci",
+        "lat": 46.6683266,
+        "lon": 16.1364791
+    },
+    {
+        "gtfs_id": "MOMS:1123986",
+        "name": "Černelavci Liškova",
+        "lat": 46.6648778,
+        "lon": 16.1398286
+    },
+    {
+        "gtfs_id": "MOMS:1127728",
+        "name": "Murska Sobota Bakša",
+        "lat": 46.6554918,
+        "lon": 16.1821402
+    },
+    {
+        "gtfs_id": "MOMS:1127729",
+        "name": "Murska Sobota Bakša",
+        "lat": 46.6548894,
+        "lon": 16.1830696
+    },
+    {
+        "gtfs_id": "MOMS:1127732",
+        "name": "Murska Sobota CPŠ",
+        "lat": 46.6613579,
+        "lon": 16.1520218
+    },
+    {
+        "gtfs_id": "MOMS:1127733",
+        "name": "Murska Sobota CPŠ",
+        "lat": 46.6614934,
+        "lon": 16.1520478
+    },
+    {
+        "gtfs_id": "MOMS:1127738",
+        "name": "Murska Sobota Indus.",
+        "lat": 46.6643348,
+        "lon": 16.1749599
+    },
+    {
+        "gtfs_id": "MOMS:1127739",
+        "name": "Murska Sobota Indus.",
+        "lat": 46.6642538,
+        "lon": 16.1747543
+    },
+    {
+        "gtfs_id": "MOMS:1127740",
+        "name": "Murska Sobota Mura",
+        "lat": 46.6587408,
+        "lon": 16.1767095
+    },
+    {
+        "gtfs_id": "MOMS:1127742",
+        "name": "Murska Sobota Polanič",
+        "lat": 46.655805,
+        "lon": 16.1550835
+    },
+    {
+        "gtfs_id": "MOMS:1127744",
+        "name": "Murska Sobota Polanič",
+        "lat": 46.6558503,
+        "lon": 16.1546588
+    },
+    {
+        "gtfs_id": "MOMS:1127818",
+        "name": "Nemčavci kapela",
+        "lat": 46.6797189,
+        "lon": 16.1764256
+    },
+    {
+        "gtfs_id": "MOMS:1129190",
+        "name": "Rakičan",
+        "lat": 46.6503781,
+        "lon": 16.192324
+    },
+    {
+        "gtfs_id": "MOMS:1129191",
+        "name": "Rakičan",
+        "lat": 46.6497683,
+        "lon": 16.1936203
+    },
+    {
+        "gtfs_id": "MOMS:1129192",
+        "name": "Rakičan bol.",
+        "lat": 46.6502855,
+        "lon": 16.1873737
+    },
+    {
+        "gtfs_id": "MOMS:1150473",
+        "name": "Rakičan Gmajna",
+        "lat": 46.6490149,
+        "lon": 16.2041121
+    },
+    {
+        "gtfs_id": "MOMS:1150752",
+        "name": "Murska Sobota Mura",
+        "lat": 46.6587831,
+        "lon": 16.1767355
+    },
+    {
+        "gtfs_id": "MOMS:1150869",
+        "name": "Rakičan GD",
+        "lat": 46.6507593,
+        "lon": 16.1957948
+    },
+    {
+        "gtfs_id": "MOMS:1151665",
+        "name": "Murska Sobota Mol",
+        "lat": 46.656099,
+        "lon": 16.174662
+    },
+    {
+        "gtfs_id": "MOMS:1151666",
+        "name": "Mursk Sobota trg.Pomurske mlekarne",
+        "lat": 46.662215,
+        "lon": 16.174196
+    },
+    {
+        "gtfs_id": "MOMS:1151667",
+        "name": "Mursk Sobota trg.Pomurske mlekarne",
+        "lat": 46.661873,
+        "lon": 16.173883
+    },
+    {
+        "gtfs_id": "MOMS:1151668",
+        "name": "Černelavci Ledavska 30",
+        "lat": 46.67053,
+        "lon": 16.139868
+    },
+    {
+        "gtfs_id": "MOMS:1151669",
+        "name": "Černelavci Dolga ul.54",
+        "lat": 46.666327,
+        "lon": 16.14167
+    },
+    {
+        "gtfs_id": "MOMS:1151670",
+        "name": "BTC trgovina",
+        "lat": 46.669374,
+        "lon": 16.1775655
+    },
+    {
+        "gtfs_id": "MOMS:1151672",
+        "name": "Nemčavci hiš.št.3",
+        "lat": 46.675128,
+        "lon": 16.174999
+    },
+    {
+        "gtfs_id": "MOMS:1167054",
+        "name": "Ul. Staneta Rozmana",
+        "lat": 46.66135,
+        "lon": 16.166021
+    },
+    {
+        "gtfs_id": "MOMS:1167055",
+        "name": "Slovenska ulica II/MO MS",
+        "lat": 46.6630867,
+        "lon": 16.1647098
+    },
+    {
+        "gtfs_id": "MOMS:1167086",
+        "name": "Murska Sobota Žuta kuča",
+        "lat": 46.65874,
+        "lon": 16.16906
+    },
+    {
+        "gtfs_id": "MOMS:1167518",
+        "name": "M. Sobota Lendavska ul. II",
+        "lat": 46.6678053,
+        "lon": 16.1776579
+    },
+    {
+        "gtfs_id": "MOMS:1167519",
+        "name": "M. Sobota Lendavska ul. II",
+        "lat": 46.6675346,
+        "lon": 16.1774953
+    },
+    {
+        "gtfs_id": "MOMS:1167530",
+        "name": "Jakobovo naselje",
+        "lat": 46.6515173,
+        "lon": 16.1513187
+    },
+    {
+        "gtfs_id": "MOMS:1167531",
+        "name": "Jakobovo naselje",
+        "lat": 46.6514601,
+        "lon": 16.1516311
+    },
+    {
+        "gtfs_id": "MOMS:1167534",
+        "name": "M. Sobota Lendavska ul. I",
+        "lat": 46.6642114,
+        "lon": 16.1675607
+    },
+    {
+        "gtfs_id": "MOMS:1167535",
+        "name": "M. Sobota Lendavska ul. I",
+        "lat": 46.664115,
+        "lon": 16.1676621
+    },
+    {
+        "gtfs_id": "MOMS:1167980",
+        "name": "Murska Sobota Maximus trg.",
+        "lat": 46.660438,
+        "lon": 16.146028
+    },
+    {
+        "gtfs_id": "MONM:1",
+        "name": "Adria",
+        "lat": 45.813763,
+        "lon": 15.13214
+    },
+    {
+        "gtfs_id": "MONM:10",
+        "name": "Bučna vas",
+        "lat": 45.82497,
+        "lon": 15.156574
+    },
+    {
+        "gtfs_id": "MONM:100",
+        "name": "Čefidelj",
+        "lat": 45.814636,
+        "lon": 15.147804
+    },
+    {
+        "gtfs_id": "MONM:101",
+        "name": "Čefidelj",
+        "lat": 45.814705,
+        "lon": 15.148178
+    },
+    {
+        "gtfs_id": "MONM:102",
+        "name": "Šegova",
+        "lat": 45.800026,
+        "lon": 15.157665
+    },
+    {
+        "gtfs_id": "MONM:103",
+        "name": "Šmihel",
+        "lat": 45.792789,
+        "lon": 15.16422
+    },
+    {
+        "gtfs_id": "MONM:104",
+        "name": "Šukljetova",
+        "lat": 45.791393,
+        "lon": 15.162555
+    },
+    {
+        "gtfs_id": "MONM:105",
+        "name": "ŽP Kandija",
+        "lat": 45.800419,
+        "lon": 15.161262
+    },
+    {
+        "gtfs_id": "MONM:106",
+        "name": "ŽP Kandija",
+        "lat": 45.799576,
+        "lon": 15.160999
+    },
+    {
+        "gtfs_id": "MONM:107",
+        "name": "Žabja vas",
+        "lat": 45.79985,
+        "lon": 15.182411
+    },
+    {
+        "gtfs_id": "MONM:108",
+        "name": "Žabja vas",
+        "lat": 45.799713,
+        "lon": 15.181652
+    },
+    {
+        "gtfs_id": "MONM:109",
+        "name": "Župnca",
+        "lat": 45.834057,
+        "lon": 15.155773
+    },
+    {
+        "gtfs_id": "MONM:11",
+        "name": "Cankarjeva",
+        "lat": 45.810749,
+        "lon": 15.164508
+    },
+    {
+        "gtfs_id": "MONM:12",
+        "name": "Cesarjeva",
+        "lat": 45.796753,
+        "lon": 15.158556
+    },
+    {
+        "gtfs_id": "MONM:13",
+        "name": "Cesta brigad",
+        "lat": 45.821251,
+        "lon": 15.160042
+    },
+    {
+        "gtfs_id": "MONM:14",
+        "name": "Cikava",
+        "lat": 45.80344,
+        "lon": 15.192078
+    },
+    {
+        "gtfs_id": "MONM:15",
+        "name": "Cikava",
+        "lat": 45.804001,
+        "lon": 15.19403
+    },
+    {
+        "gtfs_id": "MONM:16",
+        "name": "Drgančevje",
+        "lat": 45.802132,
+        "lon": 15.185509
+    },
+    {
+        "gtfs_id": "MONM:17",
+        "name": "Drgančevje",
+        "lat": 45.80146,
+        "lon": 15.186952
+    },
+    {
+        "gtfs_id": "MONM:18",
+        "name": "Drska",
+        "lat": 45.800556,
+        "lon": 15.153556
+    },
+    {
+        "gtfs_id": "MONM:19",
+        "name": "Drska",
+        "lat": 45.800144,
+        "lon": 15.152662
+    },
+    {
+        "gtfs_id": "MONM:2",
+        "name": "BTC",
+        "lat": 45.817287,
+        "lon": 15.15495
+    },
+    {
+        "gtfs_id": "MONM:20",
+        "name": "Finžgarjeva",
+        "lat": 45.789692,
+        "lon": 15.16474
+    },
+    {
+        "gtfs_id": "MONM:21",
+        "name": "Gimnazija",
+        "lat": 45.808392,
+        "lon": 15.164564
+    },
+    {
+        "gtfs_id": "MONM:22",
+        "name": "Gimnazija",
+        "lat": 45.80862,
+        "lon": 15.164429
+    },
+    {
+        "gtfs_id": "MONM:23",
+        "name": "Gotna vas",
+        "lat": 45.78883,
+        "lon": 15.179424
+    },
+    {
+        "gtfs_id": "MONM:24",
+        "name": "Gotna vas",
+        "lat": 45.790173,
+        "lon": 15.178829
+    },
+    {
+        "gtfs_id": "MONM:25",
+        "name": "Hedera",
+        "lat": 45.815147,
+        "lon": 15.154975
+    },
+    {
+        "gtfs_id": "MONM:26",
+        "name": "Jakčeva",
+        "lat": 45.801556,
+        "lon": 15.172837
+    },
+    {
+        "gtfs_id": "MONM:27",
+        "name": "Jedinščica",
+        "lat": 45.786243,
+        "lon": 15.178863
+    },
+    {
+        "gtfs_id": "MONM:28",
+        "name": "Kamence I",
+        "lat": 45.827667,
+        "lon": 15.150291
+    },
+    {
+        "gtfs_id": "MONM:29",
+        "name": "Kamence II",
+        "lat": 45.829334,
+        "lon": 15.154331
+    },
+    {
+        "gtfs_id": "MONM:3",
+        "name": "BTC",
+        "lat": 45.816383,
+        "lon": 15.154297
+    },
+    {
+        "gtfs_id": "MONM:30",
+        "name": "Kandija",
+        "lat": 45.801163,
+        "lon": 15.171487
+    },
+    {
+        "gtfs_id": "MONM:31",
+        "name": "Kandija",
+        "lat": 45.80043,
+        "lon": 15.172506
+    },
+    {
+        "gtfs_id": "MONM:32",
+        "name": "Knezova",
+        "lat": 45.785488,
+        "lon": 15.171267
+    },
+    {
+        "gtfs_id": "MONM:33",
+        "name": "Košenice",
+        "lat": 45.783222,
+        "lon": 15.158979
+    },
+    {
+        "gtfs_id": "MONM:34",
+        "name": "Krallova",
+        "lat": 45.788078,
+        "lon": 15.160784
+    },
+    {
+        "gtfs_id": "MONM:35",
+        "name": "Krallova",
+        "lat": 45.788136,
+        "lon": 15.160218
+    },
+    {
+        "gtfs_id": "MONM:36",
+        "name": "Krka",
+        "lat": 45.816383,
+        "lon": 15.179001
+    },
+    {
+        "gtfs_id": "MONM:37",
+        "name": "Krka",
+        "lat": 45.815617,
+        "lon": 15.177707
+    },
+    {
+        "gtfs_id": "MONM:38",
+        "name": "Krka tehnični pregledi",
+        "lat": 45.822903,
+        "lon": 15.183827
+    },
+    {
+        "gtfs_id": "MONM:39",
+        "name": "Lekarna",
+        "lat": 45.801319,
+        "lon": 15.163793
+    },
+    {
+        "gtfs_id": "MONM:4",
+        "name": "Belokranjska",
+        "lat": 45.799061,
+        "lon": 15.180003
+    },
+    {
+        "gtfs_id": "MONM:40",
+        "name": "Lekarna",
+        "lat": 45.801697,
+        "lon": 15.16308
+    },
+    {
+        "gtfs_id": "MONM:41",
+        "name": "Livada",
+        "lat": 45.820129,
+        "lon": 15.147985
+    },
+    {
+        "gtfs_id": "MONM:42",
+        "name": "Ljubljanska",
+        "lat": 45.805084,
+        "lon": 15.162407
+    },
+    {
+        "gtfs_id": "MONM:43",
+        "name": "Ločna",
+        "lat": 45.819836,
+        "lon": 15.181899
+    },
+    {
+        "gtfs_id": "MONM:44",
+        "name": "Ločna",
+        "lat": 45.82003,
+        "lon": 15.182232
+    },
+    {
+        "gtfs_id": "MONM:45",
+        "name": "Mali Slatnik",
+        "lat": 45.808735,
+        "lon": 15.204292
+    },
+    {
+        "gtfs_id": "MONM:46",
+        "name": "Mali Slatnik obračališče",
+        "lat": 45.81115,
+        "lon": 15.208839
+    },
+    {
+        "gtfs_id": "MONM:47",
+        "name": "Mačkovec",
+        "lat": 45.824268,
+        "lon": 15.188701
+    },
+    {
+        "gtfs_id": "MONM:48",
+        "name": "Mačkovec",
+        "lat": 45.824589,
+        "lon": 15.189006
+    },
+    {
+        "gtfs_id": "MONM:49",
+        "name": "Mestne njive",
+        "lat": 45.811459,
+        "lon": 15.164428
+    },
+    {
+        "gtfs_id": "MONM:5",
+        "name": "Brod",
+        "lat": 45.797199,
+        "lon": 15.150571
+    },
+    {
+        "gtfs_id": "MONM:50",
+        "name": "Mrzla dolina",
+        "lat": 45.79686,
+        "lon": 15.15583
+    },
+    {
+        "gtfs_id": "MONM:51",
+        "name": "Livada",
+        "lat": 45.819283,
+        "lon": 15.147336
+    },
+    {
+        "gtfs_id": "MONM:52",
+        "name": "Nad mlini",
+        "lat": 45.801052,
+        "lon": 15.168787
+    },
+    {
+        "gtfs_id": "MONM:53",
+        "name": "Novi most",
+        "lat": 45.804611,
+        "lon": 15.162569
+    },
+    {
+        "gtfs_id": "MONM:54",
+        "name": "Novoteks",
+        "lat": 45.813679,
+        "lon": 15.152063
+    },
+    {
+        "gtfs_id": "MONM:55",
+        "name": "Ob Težki vodi",
+        "lat": 45.788754,
+        "lon": 15.172014
+    },
+    {
+        "gtfs_id": "MONM:56",
+        "name": "Podbevškova",
+        "lat": 45.804489,
+        "lon": 15.196499
+    },
+    {
+        "gtfs_id": "MONM:57",
+        "name": "Podbreznik",
+        "lat": 45.8064,
+        "lon": 15.129763
+    },
+    {
+        "gtfs_id": "MONM:58",
+        "name": "Poganci",
+        "lat": 45.778301,
+        "lon": 15.179167
+    },
+    {
+        "gtfs_id": "MONM:59",
+        "name": "Pokopališče Ločna",
+        "lat": 45.811939,
+        "lon": 15.170826
+    },
+    {
+        "gtfs_id": "MONM:6",
+        "name": "Brod",
+        "lat": 45.797894,
+        "lon": 15.151999
+    },
+    {
+        "gtfs_id": "MONM:60",
+        "name": "Pokopališče Ločna",
+        "lat": 45.812439,
+        "lon": 15.172596
+    },
+    {
+        "gtfs_id": "MONM:61",
+        "name": "Pokopališče Srebrniče",
+        "lat": 45.792423,
+        "lon": 15.136899
+    },
+    {
+        "gtfs_id": "MONM:62",
+        "name": "Pokopališče Srebrniče",
+        "lat": 45.79258,
+        "lon": 15.138176
+    },
+    {
+        "gtfs_id": "MONM:63",
+        "name": "Pokopališče Šmihel",
+        "lat": 45.79599,
+        "lon": 15.162442
+    },
+    {
+        "gtfs_id": "MONM:64",
+        "name": "Pokopališče Šmihel",
+        "lat": 45.795559,
+        "lon": 15.163005
+    },
+    {
+        "gtfs_id": "MONM:65",
+        "name": "Potočna vas",
+        "lat": 45.825848,
+        "lon": 15.145905
+    },
+    {
+        "gtfs_id": "MONM:66",
+        "name": "Prečna",
+        "lat": 45.812939,
+        "lon": 15.125668
+    },
+    {
+        "gtfs_id": "MONM:67",
+        "name": "Qlandia",
+        "lat": 45.826057,
+        "lon": 15.184699
+    },
+    {
+        "gtfs_id": "MONM:68",
+        "name": "Ragovo",
+        "lat": 45.812145,
+        "lon": 15.178227
+    },
+    {
+        "gtfs_id": "MONM:69",
+        "name": "Ragovo",
+        "lat": 45.810776,
+        "lon": 15.17955
+    },
+    {
+        "gtfs_id": "MONM:7",
+        "name": "Bršljin",
+        "lat": 45.812538,
+        "lon": 15.156161
+    },
+    {
+        "gtfs_id": "MONM:70",
+        "name": "Ragovska",
+        "lat": 45.803383,
+        "lon": 15.174101
+    },
+    {
+        "gtfs_id": "MONM:71",
+        "name": "Ragovska",
+        "lat": 45.803753,
+        "lon": 15.174479
+    },
+    {
+        "gtfs_id": "MONM:72",
+        "name": "Regrča vas",
+        "lat": 45.789703,
+        "lon": 15.168938
+    },
+    {
+        "gtfs_id": "MONM:73",
+        "name": "Revoz",
+        "lat": 45.796577,
+        "lon": 15.181121
+    },
+    {
+        "gtfs_id": "MONM:74",
+        "name": "Revoz",
+        "lat": 45.796169,
+        "lon": 15.179786
+    },
+    {
+        "gtfs_id": "MONM:75",
+        "name": "Salon Kolpa",
+        "lat": 45.782211,
+        "lon": 15.17773
+    },
+    {
+        "gtfs_id": "MONM:76",
+        "name": "Seidlova",
+        "lat": 45.805202,
+        "lon": 15.163373
+    },
+    {
+        "gtfs_id": "MONM:77",
+        "name": "Sevno",
+        "lat": 45.832668,
+        "lon": 15.18896
+    },
+    {
+        "gtfs_id": "MONM:78",
+        "name": "Sevno",
+        "lat": 45.832664,
+        "lon": 15.188842
+    },
+    {
+        "gtfs_id": "MONM:79",
+        "name": "Slavka Gruma",
+        "lat": 45.798733,
+        "lon": 15.154854
+    },
+    {
+        "gtfs_id": "MONM:8",
+        "name": "Bršljin",
+        "lat": 45.812691,
+        "lon": 15.155662
+    },
+    {
+        "gtfs_id": "MONM:80",
+        "name": "Slavka Gruma",
+        "lat": 45.79924,
+        "lon": 15.154459
+    },
+    {
+        "gtfs_id": "MONM:81",
+        "name": "Slavka Gruma",
+        "lat": 45.798801,
+        "lon": 15.154316
+    },
+    {
+        "gtfs_id": "MONM:82",
+        "name": "Srebrniče",
+        "lat": 45.79298,
+        "lon": 15.125823
+    },
+    {
+        "gtfs_id": "MONM:83",
+        "name": "Srebrniče",
+        "lat": 45.793041,
+        "lon": 15.126464
+    },
+    {
+        "gtfs_id": "MONM:84",
+        "name": "Stopiče",
+        "lat": 45.76981,
+        "lon": 15.209964
+    },
+    {
+        "gtfs_id": "MONM:85",
+        "name": "Stražna",
+        "lat": 45.826351,
+        "lon": 15.190119
+    },
+    {
+        "gtfs_id": "MONM:86",
+        "name": "Stražna",
+        "lat": 45.826767,
+        "lon": 15.18906
+    },
+    {
+        "gtfs_id": "MONM:87",
+        "name": "Stražna",
+        "lat": 45.828312,
+        "lon": 15.190342
+    },
+    {
+        "gtfs_id": "MONM:88",
+        "name": "Sveti Rok",
+        "lat": 45.783188,
+        "lon": 15.170107
+    },
+    {
+        "gtfs_id": "MONM:89",
+        "name": "TPV",
+        "lat": 45.800152,
+        "lon": 15.174639
+    },
+    {
+        "gtfs_id": "MONM:9",
+        "name": "Bršljin OŠ",
+        "lat": 45.816528,
+        "lon": 15.156634
+    },
+    {
+        "gtfs_id": "MONM:90",
+        "name": "TPV",
+        "lat": 45.799946,
+        "lon": 15.175306
+    },
+    {
+        "gtfs_id": "MONM:91",
+        "name": "Topliška",
+        "lat": 45.802353,
+        "lon": 15.160952
+    },
+    {
+        "gtfs_id": "MONM:92",
+        "name": "Topliška",
+        "lat": 45.802238,
+        "lon": 15.160666
+    },
+    {
+        "gtfs_id": "MONM:93",
+        "name": "Turkova",
+        "lat": 45.828869,
+        "lon": 15.157353
+    },
+    {
+        "gtfs_id": "MONM:94",
+        "name": "Viadukt Bezgavec",
+        "lat": 45.822197,
+        "lon": 15.1561
+    },
+    {
+        "gtfs_id": "MONM:95",
+        "name": "Vojašnica",
+        "lat": 45.814053,
+        "lon": 15.146115
+    },
+    {
+        "gtfs_id": "MONM:96",
+        "name": "Vojašnica",
+        "lat": 45.813725,
+        "lon": 15.14438
+    },
+    {
+        "gtfs_id": "MONM:97",
+        "name": "Vrtec Bršljin",
+        "lat": 45.817989,
+        "lon": 15.157727
+    },
+    {
+        "gtfs_id": "MONM:98",
+        "name": "Zdravstveni dom",
+        "lat": 45.801983,
+        "lon": 15.161655
+    },
+    {
+        "gtfs_id": "MONM:99",
+        "name": "Zobčeva",
+        "lat": 45.823475,
+        "lon": 15.144948
+    },
+    {
+        "gtfs_id": "MOVelenje:1",
+        "name": "AC Prapotnik",
+        "lat": 46.360374,
+        "lon": 15.125
+    },
+    {
+        "gtfs_id": "MOVelenje:10",
+        "name": "Kavče",
+        "lat": 46.348667,
+        "lon": 15.108654
+    },
+    {
+        "gtfs_id": "MOVelenje:11",
+        "name": "Kavče",
+        "lat": 46.348736,
+        "lon": 15.10873
+    },
+    {
+        "gtfs_id": "MOVelenje:12",
+        "name": "Konovo K",
+        "lat": 46.369904,
+        "lon": 15.123009
+    },
+    {
+        "gtfs_id": "MOVelenje:13",
+        "name": "Konovo K",
+        "lat": 46.370148,
+        "lon": 15.122954
+    },
+    {
+        "gtfs_id": "MOVelenje:14",
+        "name": "Laze Vrbenjak",
+        "lat": 46.343472,
+        "lon": 15.13104
+    },
+    {
+        "gtfs_id": "MOVelenje:15",
+        "name": "Laze pri Velenju",
+        "lat": 46.345352,
+        "lon": 15.113383
+    },
+    {
+        "gtfs_id": "MOVelenje:16",
+        "name": "Laze pri Velenju",
+        "lat": 46.345291,
+        "lon": 15.113394
+    },
+    {
+        "gtfs_id": "MOVelenje:17",
+        "name": "Ljubljanska cesta 41",
+        "lat": 46.352421,
+        "lon": 15.111995
+    },
+    {
+        "gtfs_id": "MOVelenje:18",
+        "name": "Ljubljanska cesta 41",
+        "lat": 46.351524,
+        "lon": 15.11151
+    },
+    {
+        "gtfs_id": "MOVelenje:19",
+        "name": "Mestni stadion",
+        "lat": 46.372589,
+        "lon": 15.101889
+    },
+    {
+        "gtfs_id": "MOVelenje:2",
+        "name": "AP Velenje",
+        "lat": 46.358589,
+        "lon": 15.118189
+    },
+    {
+        "gtfs_id": "MOVelenje:20",
+        "name": "NC Interspar",
+        "lat": 46.368919,
+        "lon": 15.130338
+    },
+    {
+        "gtfs_id": "MOVelenje:21",
+        "name": "NC Jager",
+        "lat": 46.365864,
+        "lon": 15.100227
+    },
+    {
+        "gtfs_id": "MOVelenje:22",
+        "name": "NC Merkur",
+        "lat": 46.367821,
+        "lon": 15.094583
+    },
+    {
+        "gtfs_id": "MOVelenje:23",
+        "name": "PC Efenkova",
+        "lat": 46.363171,
+        "lon": 15.123764
+    },
+    {
+        "gtfs_id": "MOVelenje:24",
+        "name": "Pesje",
+        "lat": 46.367943,
+        "lon": 15.081788
+    },
+    {
+        "gtfs_id": "MOVelenje:25",
+        "name": "Pesje - Dom krajanov",
+        "lat": 46.367729,
+        "lon": 15.082906
+    },
+    {
+        "gtfs_id": "MOVelenje:26",
+        "name": "Pesje - Hartl",
+        "lat": 46.365246,
+        "lon": 15.088624
+    },
+    {
+        "gtfs_id": "MOVelenje:27",
+        "name": "Pesje - Hartl",
+        "lat": 46.365475,
+        "lon": 15.088269
+    },
+    {
+        "gtfs_id": "MOVelenje:28",
+        "name": "Pesje - podhod",
+        "lat": 46.368511,
+        "lon": 15.083503
+    },
+    {
+        "gtfs_id": "MOVelenje:29",
+        "name": "Pirešica",
+        "lat": 46.345535,
+        "lon": 15.160653
+    },
+    {
+        "gtfs_id": "MOVelenje:3",
+        "name": "Gorenje",
+        "lat": 46.360195,
+        "lon": 15.097909
+    },
+    {
+        "gtfs_id": "MOVelenje:30",
+        "name": "Pirešica",
+        "lat": 46.345165,
+        "lon": 15.161681
+    },
+    {
+        "gtfs_id": "MOVelenje:31",
+        "name": "Podkraj pri Vel.Pokop.",
+        "lat": 46.360249,
+        "lon": 15.082938
+    },
+    {
+        "gtfs_id": "MOVelenje:32",
+        "name": "Podlubela",
+        "lat": 46.385689,
+        "lon": 15.106005
+    },
+    {
+        "gtfs_id": "MOVelenje:33",
+        "name": "Podlubela",
+        "lat": 46.385773,
+        "lon": 15.106051
+    },
+    {
+        "gtfs_id": "MOVelenje:34",
+        "name": "Pošta",
+        "lat": 46.361046,
+        "lon": 15.118186
+    },
+    {
+        "gtfs_id": "MOVelenje:35",
+        "name": "Pošta",
+        "lat": 46.360275,
+        "lon": 15.118345
+    },
+    {
+        "gtfs_id": "MOVelenje:36",
+        "name": "Rudarski dom",
+        "lat": 46.368713,
+        "lon": 15.1041
+    },
+    {
+        "gtfs_id": "MOVelenje:37",
+        "name": "Sp. Laze",
+        "lat": 46.338375,
+        "lon": 15.141947
+    },
+    {
+        "gtfs_id": "MOVelenje:38",
+        "name": "Spodnja Črnova",
+        "lat": 46.322571,
+        "lon": 15.183176
+    },
+    {
+        "gtfs_id": "MOVelenje:39",
+        "name": "Spodnje Arnače",
+        "lat": 46.338676,
+        "lon": 15.111625
+    },
+    {
+        "gtfs_id": "MOVelenje:4",
+        "name": "Gorenje",
+        "lat": 46.359722,
+        "lon": 15.09897
+    },
+    {
+        "gtfs_id": "MOVelenje:40",
+        "name": "Spodnje Laze K",
+        "lat": 46.33234,
+        "lon": 15.13077
+    },
+    {
+        "gtfs_id": "MOVelenje:41",
+        "name": "Spodnje Laze transformator",
+        "lat": 46.341679,
+        "lon": 15.143052
+    },
+    {
+        "gtfs_id": "MOVelenje:42",
+        "name": "Stari jašek",
+        "lat": 46.371052,
+        "lon": 15.098846
+    },
+    {
+        "gtfs_id": "MOVelenje:43",
+        "name": "Tomšičeva",
+        "lat": 46.362392,
+        "lon": 15.114025
+    },
+    {
+        "gtfs_id": "MOVelenje:44",
+        "name": "Tomšičeva",
+        "lat": 46.362514,
+        "lon": 15.113976
+    },
+    {
+        "gtfs_id": "MOVelenje:45",
+        "name": "Tržnica",
+        "lat": 46.364784,
+        "lon": 15.109779
+    },
+    {
+        "gtfs_id": "MOVelenje:46",
+        "name": "Tržnica",
+        "lat": 46.364605,
+        "lon": 15.110682
+    },
+    {
+        "gtfs_id": "MOVelenje:47",
+        "name": "Tržnica krožišče",
+        "lat": 46.3657,
+        "lon": 15.106587
+    },
+    {
+        "gtfs_id": "MOVelenje:48",
+        "name": "Turn K",
+        "lat": 46.379173,
+        "lon": 15.112604
+    },
+    {
+        "gtfs_id": "MOVelenje:49",
+        "name": "Turn K",
+        "lat": 46.379322,
+        "lon": 15.11237
+    },
+    {
+        "gtfs_id": "MOVelenje:5",
+        "name": "Gorica",
+        "lat": 46.356476,
+        "lon": 15.134859
+    },
+    {
+        "gtfs_id": "MOVelenje:50",
+        "name": "Velenjka",
+        "lat": 46.353287,
+        "lon": 15.125671
+    },
+    {
+        "gtfs_id": "MOVelenje:51",
+        "name": "Velenjka",
+        "lat": 46.352798,
+        "lon": 15.127112
+    },
+    {
+        "gtfs_id": "MOVelenje:52",
+        "name": "Vila Bianca",
+        "lat": 46.357147,
+        "lon": 15.112221
+    },
+    {
+        "gtfs_id": "MOVelenje:53",
+        "name": "Vinska Gora",
+        "lat": 46.340851,
+        "lon": 15.172384
+    },
+    {
+        "gtfs_id": "MOVelenje:54",
+        "name": "Vinska Gora",
+        "lat": 46.341625,
+        "lon": 15.171864
+    },
+    {
+        "gtfs_id": "MOVelenje:55",
+        "name": "Zgornja Črnova",
+        "lat": 46.347862,
+        "lon": 15.14553
+    },
+    {
+        "gtfs_id": "MOVelenje:56",
+        "name": "Zgornja Črnova",
+        "lat": 46.348091,
+        "lon": 15.144043
+    },
+    {
+        "gtfs_id": "MOVelenje:57",
+        "name": "Šalek K",
+        "lat": 46.360703,
+        "lon": 15.124344
+    },
+    {
+        "gtfs_id": "MOVelenje:58",
+        "name": "Šalek K",
+        "lat": 46.360779,
+        "lon": 15.12525
+    },
+    {
+        "gtfs_id": "MOVelenje:59",
+        "name": "Šalek Skalca",
+        "lat": 46.366367,
+        "lon": 15.128058
+    },
+    {
+        "gtfs_id": "MOVelenje:6",
+        "name": "Gorica K",
+        "lat": 46.356789,
+        "lon": 15.129714
+    },
+    {
+        "gtfs_id": "MOVelenje:60",
+        "name": "Šalek Skalca",
+        "lat": 46.366486,
+        "lon": 15.128305
+    },
+    {
+        "gtfs_id": "MOVelenje:61",
+        "name": "Škale Brezovo",
+        "lat": 46.383907,
+        "lon": 15.100166
+    },
+    {
+        "gtfs_id": "MOVelenje:62",
+        "name": "Škale Hrastovec K",
+        "lat": 46.382954,
+        "lon": 15.109656
+    },
+    {
+        "gtfs_id": "MOVelenje:63",
+        "name": "Škale Hrastovec K",
+        "lat": 46.382935,
+        "lon": 15.109825
+    },
+    {
+        "gtfs_id": "MOVelenje:64",
+        "name": "Škale K",
+        "lat": 46.38596,
+        "lon": 15.094571
+    },
+    {
+        "gtfs_id": "MOVelenje:65",
+        "name": "Škale pokopališče",
+        "lat": 46.385242,
+        "lon": 15.098698
+    },
+    {
+        "gtfs_id": "MOVelenje:66",
+        "name": "Železniška postaja",
+        "lat": 46.361938,
+        "lon": 15.106481
+    },
+    {
+        "gtfs_id": "MOVelenje:67",
+        "name": "Železniška postaja",
+        "lat": 46.362495,
+        "lon": 15.106669
+    },
+    {
+        "gtfs_id": "MOVelenje:7",
+        "name": "Gorica K",
+        "lat": 46.356503,
+        "lon": 15.130836
+    },
+    {
+        "gtfs_id": "MOVelenje:8",
+        "name": "Gornje Arnače",
+        "lat": 46.336029,
+        "lon": 15.12143
+    },
+    {
+        "gtfs_id": "MOVelenje:9",
+        "name": "Iris",
+        "lat": 46.359371,
+        "lon": 15.110661
+    },
+    {
+        "gtfs_id": "Sevnica:1",
+        "name": "Sevnica - ŽELEZNIŠKA POSTAJA",
+        "lat": 46.0099124,
+        "lon": 15.3012739
+    },
+    {
+        "gtfs_id": "Sevnica:10",
+        "name": "Sevnica - ŠMARJE RONDO",
+        "lat": 46.0130383,
+        "lon": 15.2977978
+    },
+    {
+        "gtfs_id": "Sevnica:11",
+        "name": "Boštanj - INPOS",
+        "lat": 46.0122164,
+        "lon": 15.288291
+    },
+    {
+        "gtfs_id": "Sevnica:12",
+        "name": "Boštanj - POD NOVIM NASELJEM",
+        "lat": 46.0111583,
+        "lon": 15.2873576
+    },
+    {
+        "gtfs_id": "Sevnica:13",
+        "name": "Boštanj - CERKEV",
+        "lat": 46.0134741,
+        "lon": 15.2815543
+    },
+    {
+        "gtfs_id": "Sevnica:14",
+        "name": "Boštanj - OSNOVNA ŠOLA",
+        "lat": 46.0104169,
+        "lon": 15.2837956
+    },
+    {
+        "gtfs_id": "Sevnica:15",
+        "name": "Boštanj - ŽELEZNIŠKA POSTAJA",
+        "lat": 46.0073677,
+        "lon": 15.2902286
+    },
+    {
+        "gtfs_id": "Sevnica:16",
+        "name": "Boštanj - POD SILIKOM",
+        "lat": 46.0056053,
+        "lon": 15.2906417
+    },
+    {
+        "gtfs_id": "Sevnica:17",
+        "name": "Boštanj - HOFER",
+        "lat": 46.0075391,
+        "lon": 15.2942305
+    },
+    {
+        "gtfs_id": "Sevnica:2",
+        "name": "Sevnica - AVTOBUSNA POSTAJA",
+        "lat": 46.0075711,
+        "lon": 15.303968
+    },
+    {
+        "gtfs_id": "Sevnica:3",
+        "name": "Sevnica - GLAVNI TRG",
+        "lat": 46.0062163,
+        "lon": 15.3150176
+    },
+    {
+        "gtfs_id": "Sevnica:4",
+        "name": "Sevnica - POD VRTAČO",
+        "lat": 46.0057506,
+        "lon": 15.3190248
+    },
+    {
+        "gtfs_id": "Sevnica:5",
+        "name": "Sevnica - OSNOVNA ŠOLA",
+        "lat": 46.0098156,
+        "lon": 15.3041171
+    },
+    {
+        "gtfs_id": "Sevnica:6",
+        "name": "Sevnica - ZDRAVSTVENI DOM",
+        "lat": 46.0107507,
+        "lon": 15.3021376
+    },
+    {
+        "gtfs_id": "Sevnica:7",
+        "name": "Sevnica - NHM (VRTEC)",
+        "lat": 46.0125837,
+        "lon": 15.3006248
+    },
+    {
+        "gtfs_id": "Sevnica:8",
+        "name": "Sevnica - PLANINSKA C. - ZGOR. PAR.",
+        "lat": 46.0160745,
+        "lon": 15.2991765
+    },
+    {
+        "gtfs_id": "Sevnica:9",
+        "name": "Sevnica - PLANINSKA C. - SPOD. PAR.",
+        "lat": 46.0148958,
+        "lon": 15.2994082
     }
 ]
