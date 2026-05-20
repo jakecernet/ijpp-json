@@ -387,7 +387,8 @@
 		"longitude": 14.497929073009784,
 		"name": "Bleiweisova",
 		"ref_id": "701012",
-		"route_groups_on_station": ["45", "46", "47", "48", "51", "54", "56"]
+		"route_groups_on_station": ["45", "46", "47", "48", "51", "54", "56"],
+        "gtfs_id": "IJPP:1121830"
 	},
 	{
 		"latitude": 46.053508,
@@ -817,7 +818,8 @@
 			"76",
 			"78",
 			"82"
-		]
+		],
+		"gtfs_id": "IJPP:1126954"
 	},
 	{
 		"latitude": 46.057573121529174,
@@ -13074,12 +13076,6 @@
 		"longitude": 14.549092,
 		"name": "Nove Jarše-Šmartinska",
 		"gtfs_id": "IJPP:1121536"
-	},
-	{
-		"latitude": 46.0528,
-		"longitude": 14.497752,
-		"name": "Ljubljana Tivolska",
-		"gtfs_id": "IJPP:1121830"
 	},
 	{
 		"latitude": 46.561913,
@@ -32916,12 +32912,6 @@
 		"longitude": 14.975738,
 		"name": "Ljubija",
 		"gtfs_id": "IJPP:1126953"
-	},
-	{
-		"latitude": 46.057835,
-		"longitude": 14.508785,
-		"name": "Ljubljana AP",
-		"gtfs_id": "IJPP:1126954"
 	},
 	{
 		"latitude": 46.03695,
@@ -65706,18 +65696,6 @@
 		"longitude": 14.480428,
 		"name": "Kompas",
 		"gtfs_id": "IJPP:1167298"
-	},
-	{
-		"latitude": 46.057632,
-		"longitude": 14.509414,
-		"name": "Kolodvor",
-		"gtfs_id": "IJPP:1167299"
-	},
-	{
-		"latitude": 46.057552,
-		"longitude": 14.511281,
-		"name": "Kolodvor",
-		"gtfs_id": "IJPP:1167300"
 	},
 	{
 		"latitude": 46.05374,
