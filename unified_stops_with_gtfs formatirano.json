@@ -1498,7 +1498,7 @@
 		"ref_id": "202041",
 		"route_groups_on_station": ["2"],
 		"gtfs_id": "LPP:cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3",
-        "ijpp_id": "IJPP:1165675"
+		"ijpp_id": "IJPP:1165675"
 	},
 	{
 		"latitude": 46.05279928316414,
@@ -1547,7 +1547,7 @@
 		"ref_id": "202042",
 		"route_groups_on_station": ["2"],
 		"gtfs_id": "LPP:bd1a0fbd-1593-4552-a76f-681c59333d6b",
-        "ijpp_id": "IJPP:1165674"
+		"ijpp_id": "IJPP:1165674"
 	},
 	{
 		"latitude": 46.062639620654735,
@@ -9525,18 +9525,20 @@
 		"gtfs_id": "LPP:7d1d9e60-8a7d-4e50-86e5-f3a42a99d837"
 	},
 	{
-		"latitude": 45.95571739390739,
-		"longitude": 14.323584755972426,
+		"latitude": 45.958534,
+		"longitude": 14.319393,
 		"name": "Podgora pri Verdu",
 		"ref_id": "756112",
-		"route_groups_on_station": ["49"]
+		"route_groups_on_station": ["49"],
+        "gtfs_id": "IJPP:1128414"
 	},
 	{
-		"latitude": 45.95409377324445,
-		"longitude": 14.324800126659714,
+		"latitude": 45.958035,
+		"longitude": 14.32031,
 		"name": "Podgora pri Verdu",
 		"ref_id": "756111",
-		"route_groups_on_station": ["49"]
+		"route_groups_on_station": ["49"],
+        "gtfs_id": "IJPP:1128413"
 	},
 	{
 		"latitude": 45.987408817599274,
@@ -9578,20 +9580,6 @@
 		"route_groups_on_station": ["45", "49"]
 	},
 	{
-		"latitude": 45.946820604041505,
-		"longitude": 14.332192650125084,
-		"name": "Bistra",
-		"ref_id": "756101",
-		"route_groups_on_station": ["49"]
-	},
-	{
-		"latitude": 45.94631771753667,
-		"longitude": 14.332647691758266,
-		"name": "Bistra",
-		"ref_id": "756102",
-		"route_groups_on_station": ["49"]
-	},
-	{
 		"latitude": 45.93216338981427,
 		"longitude": 14.65550544282582,
 		"name": "Sp. Slivnica",
@@ -9616,18 +9604,12 @@
 		"gtfs_id": "IJPP:1131774"
 	},
 	{
-		"latitude": 45.92853436981437,
-		"longitude": 14.354751413155515,
-		"name": "Dol pri Borovnici Majer",
-		"ref_id": "756082",
-		"route_groups_on_station": ["49"]
-	},
-	{
 		"latitude": 45.92045668246606,
 		"longitude": 14.367445602401528,
 		"name": "Borovnica ŽP P+R",
 		"ref_id": "756131",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["45", "49"],
+        "gtfs_id": "IJPP:1167127"
 	},
 	{
 		"latitude": 45.973510308471475,
@@ -9638,25 +9620,11 @@
 		"gtfs_id": "IJPP:1131773"
 	},
 	{
-		"latitude": 45.92967612770333,
-		"longitude": 14.351066524692206,
-		"name": "Dol pri Borovnici Pivk",
-		"ref_id": "756091",
-		"route_groups_on_station": ["49"]
-	},
-	{
 		"latitude": 45.92256290098954,
 		"longitude": 14.362855283210038,
 		"name": "Borovnica K",
 		"ref_id": "756061",
 		"route_groups_on_station": ["45", "49"]
-	},
-	{
-		"latitude": 45.92566393620149,
-		"longitude": 14.357193047651657,
-		"name": "Dol pri Borovnici Majer",
-		"ref_id": "756081",
-		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 46.02876005670497,
@@ -9951,7 +9919,8 @@
 		"longitude": 14.30271933787432,
 		"name": "Verd K",
 		"ref_id": "756122",
-		"route_groups_on_station": ["49"]
+		"route_groups_on_station": ["49"],
+		"gtfs_id": "IJPP:1131496"
 	},
 	{
 		"latitude": 45.958350237775626,
@@ -10545,13 +10514,6 @@
 		"ref_id": "777031",
 		"route_groups_on_station": ["46"],
 		"gtfs_id": "IJPP:1130230"
-	},
-	{
-		"latitude": 45.9451779086008,
-		"longitude": 14.247053424883246,
-		"name": "Zaplana",
-		"ref_id": "706032",
-		"route_groups_on_station": ["48"]
 	},
 	{
 		"latitude": 45.944738750912734,
@@ -16655,12 +16617,16 @@
 		"latitude": 45.945805,
 		"longitude": 14.332839,
 		"name": "Bistra",
+        "ref_id": "756101",
+		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1123327"
 	},
 	{
 		"latitude": 45.94563,
 		"longitude": 14.333025,
 		"name": "Bistra",
+        "ref_id": "756102",
+		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1123328"
 	},
 	{
@@ -21899,18 +21865,24 @@
 		"latitude": 45.92838,
 		"longitude": 14.355065,
 		"name": "Dol pri Borovnici Majer",
+        "ref_id": "756081",
+		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124529"
 	},
 	{
 		"latitude": 45.92836,
 		"longitude": 14.354963,
 		"name": "Dol pri Borovnici Majer",
+        "ref_id": "756082",
+		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124530"
 	},
 	{
 		"latitude": 45.930157,
 		"longitude": 14.348372,
 		"name": "Dol pri Borovnici Pivk",
+        "ref_id": "756091",
+		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124531"
 	},
 	{
@@ -39278,18 +39250,6 @@
 		"gtfs_id": "IJPP:1128412"
 	},
 	{
-		"latitude": 45.958035,
-		"longitude": 14.32031,
-		"name": "Podgora/Verdu",
-		"gtfs_id": "IJPP:1128413"
-	},
-	{
-		"latitude": 45.958534,
-		"longitude": 14.319393,
-		"name": "Podgora/Verdu",
-		"gtfs_id": "IJPP:1128414"
-	},
-	{
 		"latitude": 46.43252,
 		"longitude": 16.049402,
 		"name": "Podgorci 60",
@@ -53246,12 +53206,6 @@
 		"gtfs_id": "IJPP:1131494"
 	},
 	{
-		"latitude": 45.958344,
-		"longitude": 14.303001,
-		"name": "Verd K",
-		"gtfs_id": "IJPP:1131496"
-	},
-	{
 		"latitude": 46.338436,
 		"longitude": 15.32492,
 		"name": "Verpete",
@@ -55721,6 +55675,8 @@
 		"latitude": 45.944893,
 		"longitude": 14.246942,
 		"name": "Zaplana",
+        "ref_id": "706032",
+		"route_groups_on_station": ["48"],
 		"gtfs_id": "IJPP:1132045"
 	},
 	{
@@ -65052,12 +65008,6 @@
 		"longitude": 16.179317,
 		"name": "Pavlovci K",
 		"gtfs_id": "IJPP:1167126"
-	},
-	{
-		"latitude": 45.92111,
-		"longitude": 14.36747,
-		"name": "Borovnica P+R",
-		"gtfs_id": "IJPP:1167127"
 	},
 	{
 		"latitude": 46.7845,
