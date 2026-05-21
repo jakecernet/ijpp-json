@@ -207,7 +207,8 @@
 			"54",
 			"56"
 		],
-		"gtfs_id": "LPP:e66e813a-722d-40f8-9ee9-1470d07bc200"
+		"gtfs_id": "LPP:e66e813a-722d-40f8-9ee9-1470d07bc200",
+		"ijpp_id": "IJPP:1165643"
 	},
 	{
 		"latitude": 46.051094,
@@ -288,7 +289,8 @@
 			"54",
 			"56"
 		],
-		"gtfs_id": "LPP:b59656a4-b6e7-4b87-977c-078c59088a50"
+		"gtfs_id": "LPP:b59656a4-b6e7-4b87-977c-078c59088a50",
+		"ijpp_id": "IJPP:1165643"
 	},
 	{
 		"latitude": 46.05140527253405,
@@ -296,7 +298,8 @@
 		"name": "Zmajski most",
 		"ref_id": "501021",
 		"route_groups_on_station": ["13", "20", "68", "69", "76", "78", "82"],
-		"gtfs_id": "LPP:f073b9d9-a3e3-4d04-a209-0db55377b79e"
+		"gtfs_id": "LPP:f073b9d9-a3e3-4d04-a209-0db55377b79e",
+		"ijpp_id": "IJPP:1165697"
 	},
 	{
 		"latitude": 46.04580323252228,
@@ -372,7 +375,8 @@
 		"name": "Zmajski most",
 		"ref_id": "501022",
 		"route_groups_on_station": ["13", "20", "68", "69", "76", "78", "82"],
-		"gtfs_id": "LPP:639551cf-fe23-4363-8ccd-655bc5d4119e"
+		"gtfs_id": "LPP:639551cf-fe23-4363-8ccd-655bc5d4119e",
+		"ijpp_id": "IJPP:1165698"
 	},
 	{
 		"latitude": 46.0406662371267,
@@ -388,7 +392,7 @@
 		"name": "Bleiweisova",
 		"ref_id": "701012",
 		"route_groups_on_station": ["45", "46", "47", "48", "51", "54", "56"],
-        "gtfs_id": "IJPP:1121830"
+		"gtfs_id": "IJPP:1121830"
 	},
 	{
 		"latitude": 46.053508,
@@ -1080,7 +1084,8 @@
 			"54",
 			"56"
 		],
-		"gtfs_id": "LPP:25c85d19-456c-4188-b563-15ad467a54c7"
+		"gtfs_id": "LPP:25c85d19-456c-4188-b563-15ad467a54c7",
+		"ijpp_id": "IJPP:1165696"
 	},
 	{
 		"latitude": 46.04229840964592,
@@ -1097,7 +1102,8 @@
 			"54",
 			"56"
 		],
-		"gtfs_id": "LPP:7294875b-8482-484a-b04d-95b921612001"
+		"gtfs_id": "LPP:7294875b-8482-484a-b04d-95b921612001",
+		"ijpp_id": "IJPP:1165697"
 	},
 	{
 		"latitude": 46.05132018323867,
@@ -1177,7 +1183,8 @@
 		"name": "Viadukt",
 		"ref_id": "202011",
 		"route_groups_on_station": ["2", "12", "27"],
-		"gtfs_id": "LPP:f14a6236-8af2-47bf-9270-432377662a63"
+		"gtfs_id": "LPP:f14a6236-8af2-47bf-9270-432377662a63",
+		"ijpp_id": "IJPP:1165693"
 	},
 	{
 		"latitude": 46.03879042176055,
@@ -1217,7 +1224,8 @@
 		"name": "Viadukt",
 		"ref_id": "202012",
 		"route_groups_on_station": ["2", "12", "27"],
-		"gtfs_id": "LPP:712ee105-4fab-498a-af5c-496ca9830f5f"
+		"gtfs_id": "LPP:712ee105-4fab-498a-af5c-496ca9830f5f",
+		"ijpp_id": "IJPP:1165695"
 	},
 	{
 		"latitude": 46.0638771403112,
@@ -1489,7 +1497,8 @@
 		"name": "Savsko naselje",
 		"ref_id": "202041",
 		"route_groups_on_station": ["2"],
-		"gtfs_id": "LPP:cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3"
+		"gtfs_id": "LPP:cbf8e64b-fd0d-48ec-8fb1-03b298cc13b3",
+        "ijpp_id": "IJPP:1165675"
 	},
 	{
 		"latitude": 46.05279928316414,
@@ -1537,7 +1546,8 @@
 		"name": "Savsko naselje",
 		"ref_id": "202042",
 		"route_groups_on_station": ["2"],
-		"gtfs_id": "LPP:bd1a0fbd-1593-4552-a76f-681c59333d6b"
+		"gtfs_id": "LPP:bd1a0fbd-1593-4552-a76f-681c59333d6b",
+        "ijpp_id": "IJPP:1165674"
 	},
 	{
 		"latitude": 46.062639620654735,
@@ -2973,7 +2983,7 @@
 		"name": "Nove Žale",
 		"ref_id": "203072",
 		"route_groups_on_station": ["19"],
-		"gtfs_id": "IJPP:1167285"
+		"gtfs_id": "LPP:ba846253-4c87-4120-8f1c-05a563bf3999"
 	},
 	{
 		"latitude": 46.069188852808324,
@@ -62464,24 +62474,6 @@
 		"gtfs_id": "IJPP:1165637"
 	},
 	{
-		"latitude": 46.0459,
-		"longitude": 14.50617,
-		"name": "Ljubljana Gornji trg",
-		"gtfs_id": "IJPP:1165638"
-	},
-	{
-		"latitude": 46.045757,
-		"longitude": 14.506447,
-		"name": "Ljubljana Gornji trg",
-		"gtfs_id": "IJPP:1165639"
-	},
-	{
-		"latitude": 46.04569,
-		"longitude": 14.490499,
-		"name": "Ljubljana Hajdrihova",
-		"gtfs_id": "IJPP:1165643"
-	},
-	{
 		"latitude": 46.075054,
 		"longitude": 14.564007,
 		"name": "Ljubljana Hrastje",
@@ -62632,18 +62624,6 @@
 		"gtfs_id": "IJPP:1165673"
 	},
 	{
-		"latitude": 46.06273,
-		"longitude": 14.524814,
-		"name": "Ljubljana Središka",
-		"gtfs_id": "IJPP:1165674"
-	},
-	{
-		"latitude": 46.06224,
-		"longitude": 14.524264,
-		"name": "Ljubljana Središka",
-		"gtfs_id": "IJPP:1165675"
-	},
-	{
 		"latitude": 46.069405,
 		"longitude": 14.510483,
 		"name": "Ljubljana Stadion",
@@ -62710,12 +62690,6 @@
 		"gtfs_id": "IJPP:1165686"
 	},
 	{
-		"latitude": 46.046944,
-		"longitude": 14.493499,
-		"name": "Ljubljana Tobačna",
-		"gtfs_id": "IJPP:1165689"
-	},
-	{
 		"latitude": 46.087185,
 		"longitude": 14.474129,
 		"name": "Ljubljana Trata",
@@ -62726,42 +62700,6 @@
 		"longitude": 14.474781,
 		"name": "Ljubljana Trata",
 		"gtfs_id": "IJPP:1165692"
-	},
-	{
-		"latitude": 46.059402,
-		"longitude": 14.52067,
-		"name": "Ljubljana Viadukt",
-		"gtfs_id": "IJPP:1165693"
-	},
-	{
-		"latitude": 46.05955,
-		"longitude": 14.521011,
-		"name": "Ljubljana Viadukt",
-		"gtfs_id": "IJPP:1165695"
-	},
-	{
-		"latitude": 46.042095,
-		"longitude": 14.477969,
-		"name": "Ljubljana Vič",
-		"gtfs_id": "IJPP:1165696"
-	},
-	{
-		"latitude": 46.04225,
-		"longitude": 14.477897,
-		"name": "Ljubljana Vič",
-		"gtfs_id": "IJPP:1165697"
-	},
-	{
-		"latitude": 46.05225,
-		"longitude": 14.510301,
-		"name": "Ljubljana Zmajski most",
-		"gtfs_id": "IJPP:1165698"
-	},
-	{
-		"latitude": 46.051476,
-		"longitude": 14.510698,
-		"name": "Ljubljana Zmajski most",
-		"gtfs_id": "IJPP:1165699"
 	},
 	{
 		"latitude": 46.061195,
@@ -65170,18 +65108,6 @@
 		"gtfs_id": "IJPP:1167144"
 	},
 	{
-		"latitude": 46.046204,
-		"longitude": 14.501886,
-		"name": "Križanke",
-		"gtfs_id": "IJPP:1167145"
-	},
-	{
-		"latitude": 46.04601,
-		"longitude": 14.502236,
-		"name": "Križanke",
-		"gtfs_id": "IJPP:1167146"
-	},
-	{
 		"latitude": 46.076794,
 		"longitude": 14.488728,
 		"name": "Litostrojska",
@@ -65602,42 +65528,6 @@
 		"gtfs_id": "IJPP:1167275"
 	},
 	{
-		"latitude": 46.06573,
-		"longitude": 14.521732,
-		"name": "Savske stolpnice",
-		"gtfs_id": "IJPP:1167276"
-	},
-	{
-		"latitude": 46.065914,
-		"longitude": 14.52319,
-		"name": "Savske stolpnice",
-		"gtfs_id": "IJPP:1167277"
-	},
-	{
-		"latitude": 46.0721,
-		"longitude": 14.529806,
-		"name": "Na Žalah",
-		"gtfs_id": "IJPP:1167282"
-	},
-	{
-		"latitude": 46.071682,
-		"longitude": 14.529719,
-		"name": "Na Žalah",
-		"gtfs_id": "IJPP:1167283"
-	},
-	{
-		"latitude": 46.07459,
-		"longitude": 14.5319,
-		"name": "Nove Žale",
-		"gtfs_id": "IJPP:1167284"
-	},
-	{
-		"latitude": 46.079468,
-		"longitude": 14.5365505,
-		"name": "Tomačevo",
-		"gtfs_id": "IJPP:1167286"
-	},
-	{
 		"latitude": 46.100395,
 		"longitude": 14.459653,
 		"name": "Vižmarje",
@@ -65720,90 +65610,6 @@
 		"longitude": 14.52097,
 		"name": "Klinični center",
 		"gtfs_id": "IJPP:1167305"
-	},
-	{
-		"latitude": 46.05421,
-		"longitude": 14.528155,
-		"name": "Bolnica",
-		"gtfs_id": "IJPP:1167306"
-	},
-	{
-		"latitude": 46.054398,
-		"longitude": 14.529384,
-		"name": "Bolnica",
-		"gtfs_id": "IJPP:1167307"
-	},
-	{
-		"latitude": 46.055782,
-		"longitude": 14.534569,
-		"name": "Tržnica Moste",
-		"gtfs_id": "IJPP:1167308"
-	},
-	{
-		"latitude": 46.0555,
-		"longitude": 14.533942,
-		"name": "Tržnica Moste",
-		"gtfs_id": "IJPP:1167309"
-	},
-	{
-		"latitude": 46.05608,
-		"longitude": 14.539926,
-		"name": "Zaloška",
-		"gtfs_id": "IJPP:1167310"
-	},
-	{
-		"latitude": 46.055866,
-		"longitude": 14.542466,
-		"name": "Zaloška",
-		"gtfs_id": "IJPP:1167311"
-	},
-	{
-		"latitude": 46.05435,
-		"longitude": 14.553347,
-		"name": "Brodarjev trg",
-		"gtfs_id": "IJPP:1167312"
-	},
-	{
-		"latitude": 46.054245,
-		"longitude": 14.553275,
-		"name": "Brodarjev trg",
-		"gtfs_id": "IJPP:1167313"
-	},
-	{
-		"latitude": 46.05467,
-		"longitude": 14.559172,
-		"name": "Preglov trg",
-		"gtfs_id": "IJPP:1167314"
-	},
-	{
-		"latitude": 46.05455,
-		"longitude": 14.558416,
-		"name": "Preglov trg",
-		"gtfs_id": "IJPP:1167315"
-	},
-	{
-		"latitude": 46.056202,
-		"longitude": 14.549719,
-		"name": "Pot na Fužine",
-		"gtfs_id": "IJPP:1167316"
-	},
-	{
-		"latitude": 46.054665,
-		"longitude": 14.564083,
-		"name": "Rusjanov trg",
-		"gtfs_id": "IJPP:1167318"
-	},
-	{
-		"latitude": 46.054554,
-		"longitude": 14.562907,
-		"name": "Rusjanov trg",
-		"gtfs_id": "IJPP:1167319"
-	},
-	{
-		"latitude": 46.054863,
-		"longitude": 14.567428,
-		"name": "Chengdujska",
-		"gtfs_id": "IJPP:1167320"
 	},
 	{
 		"latitude": 46.054493,
@@ -65930,18 +65736,6 @@
 		"longitude": 14.512112,
 		"name": "Barje",
 		"gtfs_id": "IJPP:1167388"
-	},
-	{
-		"latitude": 46.068344,
-		"longitude": 14.527697,
-		"name": "Tomačevska",
-		"gtfs_id": "IJPP:1167389"
-	},
-	{
-		"latitude": 46.068157,
-		"longitude": 14.526932,
-		"name": "Tomačevska",
-		"gtfs_id": "IJPP:1167390"
 	},
 	{
 		"latitude": 45.831066,
@@ -66220,12 +66014,6 @@
 		"gtfs_id": "IJPP:1167461"
 	},
 	{
-		"latitude": 46.062977,
-		"longitude": 14.526012,
-		"name": "Središka",
-		"gtfs_id": "IJPP:1167471"
-	},
-	{
 		"latitude": 46.141132,
 		"longitude": 14.59265,
 		"name": "Domžale kolodvor",
@@ -66284,12 +66072,6 @@
 		"longitude": 14.534623,
 		"name": "Črnuče",
 		"gtfs_id": "IJPP:1167487"
-	},
-	{
-		"latitude": 46.0626,
-		"longitude": 14.525025,
-		"name": "Središka",
-		"gtfs_id": "IJPP:1167488"
 	},
 	{
 		"latitude": 46.447506,
@@ -67142,18 +66924,6 @@
 		"longitude": 15.307347,
 		"name": "Stranje pri Škocjanu",
 		"gtfs_id": "IJPP:1167733"
-	},
-	{
-		"latitude": 46.09491,
-		"longitude": 14.584475,
-		"name": "Ljubljana Goropečnikova",
-		"gtfs_id": "IJPP:1167737"
-	},
-	{
-		"latitude": 46.09523,
-		"longitude": 14.584649,
-		"name": "Ljubljana Goropečnikova",
-		"gtfs_id": "IJPP:1167738"
 	},
 	{
 		"latitude": 46.394875,
@@ -68420,12 +68190,6 @@
 		"longitude": 14.534554,
 		"name": "OŠ Maksa Pečarja",
 		"gtfs_id": "LPP:b6816891-4b0d-4bda-8e12-176194efaefe"
-	},
-	{
-		"latitude": 46.074524,
-		"longitude": 14.532018,
-		"name": "Nove Žale",
-		"gtfs_id": "LPP:ba846253-4c87-4120-8f1c-05a563bf3999"
 	},
 	{
 		"latitude": 46.038132,
