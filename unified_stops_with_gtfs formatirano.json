@@ -975,7 +975,8 @@
 		"name": "Tivoli",
 		"ref_id": "801012",
 		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60"],
-		"gtfs_id": "IJPP:1165687"
+		"gtfs_id": "LPP:0b4a072e-6c2d-4c71-ab80-2b7142df81de",
+		"ijpp_id": "IJPP:1165687"
 	},
 	{
 		"latitude": 46.03547957549881,
@@ -1017,7 +1018,8 @@
 		"name": "Tivoli",
 		"ref_id": "801011",
 		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60"],
-		"gtfs_id": "LPP:7484317c-269f-425f-8118-23eedab4e5f1"
+		"gtfs_id": "LPP:7484317c-269f-425f-8118-23eedab4e5f1",
+		"ijpp_id": "IJPP:1165686"
 	},
 	{
 		"latitude": 46.02697684662573,
@@ -1041,7 +1043,8 @@
 		"name": "Friškovec",
 		"ref_id": "301011",
 		"route_groups_on_station": ["2", "9", "12", "25", "27"],
-		"gtfs_id": "LPP:c22879e5-8e90-4540-9a74-5f139208e492"
+		"gtfs_id": "LPP:c22879e5-8e90-4540-9a74-5f139208e492",
+		"ijpp_id": "IJPP:1165635"
 	},
 	{
 		"latitude": 46.050298762788245,
@@ -1821,7 +1824,8 @@
 		"name": "Kino Šiška",
 		"ref_id": "802022",
 		"route_groups_on_station": ["1", "3", "5", "8", "22", "25", "60"],
-		"gtfs_id": "LPP:9cfac7e2-9653-4e52-a6d3-27756d27f817"
+		"gtfs_id": "LPP:9cfac7e2-9653-4e52-a6d3-27756d27f817",
+		"ijpp_id": "IJPP:1165649"
 	},
 	{
 		"latitude": 46.04729758992993,
@@ -1879,7 +1883,8 @@
 		"name": "Kino Šiška",
 		"ref_id": "802021",
 		"route_groups_on_station": ["1", "3", "5", "8", "22", "25", "60"],
-		"gtfs_id": "LPP:9afb36ea-c2ae-4bbb-9644-3a6c65bb1c7d"
+		"gtfs_id": "LPP:9afb36ea-c2ae-4bbb-9644-3a6c65bb1c7d",
+		"ijpp_id": "IJPP:1165648"
 	},
 	{
 		"latitude": 46.05403353847386,
@@ -2381,7 +2386,8 @@
 		"name": "Slovenija avto",
 		"ref_id": "803011",
 		"route_groups_on_station": ["1", "3", "5", "8", "22", "25", "60"],
-		"gtfs_id": "LPP:484b5c91-1220-43ba-af79-84e712fcc46b"
+		"gtfs_id": "LPP:484b5c91-1220-43ba-af79-84e712fcc46b",
+        "ijpp_id": "IJPP:1165667"
 	},
 	{
 		"latitude": 46.04955144419521,
@@ -2501,7 +2507,8 @@
 		"name": "Remiza",
 		"ref_id": "803014",
 		"route_groups_on_station": ["1", "25", "60"],
-		"gtfs_id": "LPP:1c0ae078-cca7-40c8-aeda-1187a12ddfee"
+		"gtfs_id": "LPP:1c0ae078-cca7-40c8-aeda-1187a12ddfee",
+        "ijpp_id": "IJPP:1165662"
 	},
 	{
 		"latitude": 46.05350691802458,
@@ -2895,7 +2902,8 @@
 		"name": "Kodrova",
 		"ref_id": "203101",
 		"route_groups_on_station": ["2", "7", "12", "24", "27"],
-		"gtfs_id": "LPP:f2b27cbd-5207-4281-8f67-6369d0c50a9b"
+		"gtfs_id": "LPP:f2b27cbd-5207-4281-8f67-6369d0c50a9b",
+		"ijpp_id": "IJPP:1165650"
 	},
 	{
 		"latitude": 46.07438475031148,
@@ -2991,7 +2999,8 @@
 		"name": "Kodrova",
 		"ref_id": "203102",
 		"route_groups_on_station": ["2", "7", "12", "24"],
-		"gtfs_id": "LPP:1f9fad8e-d59c-494c-bdd1-1983afacb755"
+		"gtfs_id": "LPP:1f9fad8e-d59c-494c-bdd1-1983afacb755",
+		"ijpp_id": "IJPP:1165651"
 	},
 	{
 		"latitude": 46.063812390867284,
@@ -3215,7 +3224,8 @@
 		"name": "Žito",
 		"ref_id": "203151",
 		"route_groups_on_station": ["2", "7", "12", "24"],
-		"gtfs_id": "LPP:59faa0f0-34b1-47cd-ba3a-3b6f0d684c00"
+		"gtfs_id": "LPP:59faa0f0-34b1-47cd-ba3a-3b6f0d684c00",
+		"ijpp_id": "IJPP:1167400"
 	},
 	{
 		"latitude": 46.0520526416731,
@@ -3327,7 +3337,8 @@
 		"name": "Žito",
 		"ref_id": "203152",
 		"route_groups_on_station": ["2", "7", "12", "24"],
-		"gtfs_id": "LPP:cf6f67f5-f7df-4462-828b-481134217fad"
+		"gtfs_id": "LPP:cf6f67f5-f7df-4462-828b-481134217fad",
+		"ijpp_id": "IJPP:1167401"
 	},
 	{
 		"latitude": 46.00479754260627,
@@ -4225,7 +4236,8 @@
 		"name": "Hrastje",
 		"ref_id": "204062",
 		"route_groups_on_station": ["12", "24"],
-		"gtfs_id": "LPP:0b6960bb-2431-48c3-9e64-3cbf5c57ea96"
+		"gtfs_id": "LPP:0b6960bb-2431-48c3-9e64-3cbf5c57ea96",
+		"ijpp_id": "IJPP:1165646"
 	},
 	{
 		"latitude": 46.038628958711215,
@@ -4241,7 +4253,8 @@
 		"name": "Hrastje",
 		"ref_id": "204061",
 		"route_groups_on_station": ["12", "24"],
-		"gtfs_id": "LPP:169789c5-0251-47a6-800a-74ff3dffe04d"
+		"gtfs_id": "LPP:169789c5-0251-47a6-800a-74ff3dffe04d",
+		"ijpp_id": "IJPP:1165645"
 	},
 	{
 		"latitude": 46.03854628483832,
@@ -4420,14 +4433,6 @@
 		"gtfs_id": "LPP:15eaf9b9-db6d-4586-9ad2-5bfa99719bfd"
 	},
 	{
-		"latitude": 46.07663810059167,
-		"longitude": 14.568353875679334,
-		"name": "Sneberje",
-		"ref_id": "204072",
-		"route_groups_on_station": ["12", "24"],
-		"gtfs_id": "LPP:f4c5028b-48a4-4d0e-a91c-81a858923ddd"
-	},
-	{
 		"latitude": 46.08215987039985,
 		"longitude": 14.44389475105038,
 		"name": "Zakrajškova",
@@ -4489,7 +4494,8 @@
 		"name": "Sneberje",
 		"ref_id": "204071",
 		"route_groups_on_station": ["12", "24"],
-		"gtfs_id": "LPP:bc66f88b-1412-44cb-b921-030d27335261"
+		"gtfs_id": "LPP:bc66f88b-1412-44cb-b921-030d27335261",
+		"ijpp_id": "IJPP:1165671"
 	},
 	{
 		"latitude": 46.08158888147001,
@@ -4741,7 +4747,8 @@
 		"longitude": 14.575243672574633,
 		"name": "Trbeže",
 		"ref_id": "204251",
-		"route_groups_on_station": ["24"]
+		"route_groups_on_station": ["24"],
+		"gtfs_id": "LPP:b4766c35-4ab9-4af3-aa76-1b1f40735685"
 	},
 	{
 		"latitude": 46.05405154022176,
@@ -5490,7 +5497,8 @@
 		"name": "Šentjakob",
 		"ref_id": "204153",
 		"route_groups_on_station": ["12"],
-		"gtfs_id": "LPP:9143c575-806f-4ba0-81bc-8199f0b0b4d0"
+		"gtfs_id": "LPP:9143c575-806f-4ba0-81bc-8199f0b0b4d0",
+		"ijpp_id": "IJPP:1165682"
 	},
 	{
 		"latitude": 45.971795620798964,
@@ -5505,7 +5513,8 @@
 		"name": "Šentjakob",
 		"ref_id": "204154",
 		"route_groups_on_station": ["12"],
-		"gtfs_id": "LPP:c6dd10bd-c21f-4a0c-9c7d-99e488a173d4"
+		"gtfs_id": "LPP:c6dd10bd-c21f-4a0c-9c7d-99e488a173d4",
+		"ijpp_id": "IJPP:1165683"
 	},
 	{
 		"latitude": 45.97166407380813,
@@ -5917,7 +5926,8 @@
 		"name": "Podgorica",
 		"ref_id": "204222",
 		"route_groups_on_station": ["12"],
-		"gtfs_id": "LPP:b4b7f450-4397-42d2-9d1e-39f786eecc2e"
+		"gtfs_id": "LPP:b4b7f450-4397-42d2-9d1e-39f786eecc2e",
+		"ijpp_id": "IJPP:1165658"
 	},
 	{
 		"latitude": 46.06638997762551,
@@ -5949,7 +5959,8 @@
 		"name": "Podgorica",
 		"ref_id": "204221",
 		"route_groups_on_station": ["12"],
-		"gtfs_id": "LPP:352f5cae-25c9-41c5-ab70-268bf64107f0"
+		"gtfs_id": "LPP:352f5cae-25c9-41c5-ab70-268bf64107f0",
+		"ijpp_id": "IJPP:1165659"
 	},
 	{
 		"latitude": 46.108691985234685,
@@ -9530,7 +9541,7 @@
 		"name": "Podgora pri Verdu",
 		"ref_id": "756112",
 		"route_groups_on_station": ["49"],
-        "gtfs_id": "IJPP:1128414"
+		"gtfs_id": "IJPP:1128414"
 	},
 	{
 		"latitude": 45.958035,
@@ -9538,7 +9549,7 @@
 		"name": "Podgora pri Verdu",
 		"ref_id": "756111",
 		"route_groups_on_station": ["49"],
-        "gtfs_id": "IJPP:1128413"
+		"gtfs_id": "IJPP:1128413"
 	},
 	{
 		"latitude": 45.987408817599274,
@@ -9609,7 +9620,7 @@
 		"name": "Borovnica ŽP P+R",
 		"ref_id": "756131",
 		"route_groups_on_station": ["45", "49"],
-        "gtfs_id": "IJPP:1167127"
+		"gtfs_id": "IJPP:1167127"
 	},
 	{
 		"latitude": 45.973510308471475,
@@ -13012,42 +13023,6 @@
 		"longitude": 14.553877,
 		"name": "Ježa",
 		"gtfs_id": "IJPP:1121487"
-	},
-	{
-		"latitude": 46.06453,
-		"longitude": 14.529133,
-		"name": "Flajšmanova",
-		"gtfs_id": "IJPP:1121505"
-	},
-	{
-		"latitude": 46.066666,
-		"longitude": 14.533035,
-		"name": "Šola Jarše",
-		"gtfs_id": "IJPP:1121512"
-	},
-	{
-		"latitude": 46.067234,
-		"longitude": 14.53474,
-		"name": "Šola Jarše",
-		"gtfs_id": "IJPP:1121513"
-	},
-	{
-		"latitude": 46.06841,
-		"longitude": 14.536776,
-		"name": "Jarše",
-		"gtfs_id": "IJPP:1121522"
-	},
-	{
-		"latitude": 46.068718,
-		"longitude": 14.538613,
-		"name": "Jarše",
-		"gtfs_id": "IJPP:1121523"
-	},
-	{
-		"latitude": 46.070396,
-		"longitude": 14.549092,
-		"name": "Nove Jarše-Šmartinska",
-		"gtfs_id": "IJPP:1121536"
 	},
 	{
 		"latitude": 46.561913,
@@ -16617,7 +16592,7 @@
 		"latitude": 45.945805,
 		"longitude": 14.332839,
 		"name": "Bistra",
-        "ref_id": "756101",
+		"ref_id": "756101",
 		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1123327"
 	},
@@ -16625,7 +16600,7 @@
 		"latitude": 45.94563,
 		"longitude": 14.333025,
 		"name": "Bistra",
-        "ref_id": "756102",
+		"ref_id": "756102",
 		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1123328"
 	},
@@ -21865,7 +21840,7 @@
 		"latitude": 45.92838,
 		"longitude": 14.355065,
 		"name": "Dol pri Borovnici Majer",
-        "ref_id": "756081",
+		"ref_id": "756081",
 		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124529"
 	},
@@ -21873,7 +21848,7 @@
 		"latitude": 45.92836,
 		"longitude": 14.354963,
 		"name": "Dol pri Borovnici Majer",
-        "ref_id": "756082",
+		"ref_id": "756082",
 		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124530"
 	},
@@ -21881,7 +21856,7 @@
 		"latitude": 45.930157,
 		"longitude": 14.348372,
 		"name": "Dol pri Borovnici Pivk",
-        "ref_id": "756091",
+		"ref_id": "756091",
 		"route_groups_on_station": ["49"],
 		"gtfs_id": "IJPP:1124531"
 	},
@@ -55675,7 +55650,7 @@
 		"latitude": 45.944893,
 		"longitude": 14.246942,
 		"name": "Zaplana",
-        "ref_id": "706032",
+		"ref_id": "706032",
 		"route_groups_on_station": ["48"],
 		"gtfs_id": "IJPP:1132045"
 	},
@@ -62382,18 +62357,6 @@
 		"gtfs_id": "IJPP:1165626"
 	},
 	{
-		"latitude": 46.091385,
-		"longitude": 14.57492,
-		"name": "Ljubljana Belinka",
-		"gtfs_id": "IJPP:1165627"
-	},
-	{
-		"latitude": 46.091244,
-		"longitude": 14.575483,
-		"name": "Ljubljana Belinka",
-		"gtfs_id": "IJPP:1165628"
-	},
-	{
 		"latitude": 46.102245,
 		"longitude": 14.529735,
 		"name": "Ljubljana Rogovilc",
@@ -62416,54 +62379,6 @@
 		"longitude": 14.465262,
 		"name": "Ljubljana Dolgi most",
 		"gtfs_id": "IJPP:1165632"
-	},
-	{
-		"latitude": 46.05742,
-		"longitude": 14.518437,
-		"name": "Ljubljana Friškovec",
-		"gtfs_id": "IJPP:1165635"
-	},
-	{
-		"latitude": 46.05753,
-		"longitude": 14.516628,
-		"name": "Ljubljana Friškovec",
-		"gtfs_id": "IJPP:1165637"
-	},
-	{
-		"latitude": 46.075054,
-		"longitude": 14.564007,
-		"name": "Ljubljana Hrastje",
-		"gtfs_id": "IJPP:1165645"
-	},
-	{
-		"latitude": 46.07478,
-		"longitude": 14.563841,
-		"name": "Ljubljana Hrastje",
-		"gtfs_id": "IJPP:1165646"
-	},
-	{
-		"latitude": 46.06964,
-		"longitude": 14.489526,
-		"name": "Ljubljana Kino Šiška",
-		"gtfs_id": "IJPP:1165648"
-	},
-	{
-		"latitude": 46.069202,
-		"longitude": 14.490311,
-		"name": "Ljubljana Kino Šiška",
-		"gtfs_id": "IJPP:1165649"
-	},
-	{
-		"latitude": 46.06915,
-		"longitude": 14.539835,
-		"name": "Ljubljana Kodrova",
-		"gtfs_id": "IJPP:1165650"
-	},
-	{
-		"latitude": 46.06919,
-		"longitude": 14.541612,
-		"name": "Ljubljana Kodrova",
-		"gtfs_id": "IJPP:1165651"
 	},
 	{
 		"latitude": 46.04455,
@@ -62490,18 +62405,6 @@
 		"gtfs_id": "IJPP:1165657"
 	},
 	{
-		"latitude": 46.097843,
-		"longitude": 14.586998,
-		"name": "Ljubljana Podgorica",
-		"gtfs_id": "IJPP:1165658"
-	},
-	{
-		"latitude": 46.09808,
-		"longitude": 14.587036,
-		"name": "Ljubljana Podgorica",
-		"gtfs_id": "IJPP:1165659"
-	},
-	{
 		"latitude": 46.035473,
 		"longitude": 14.52409,
 		"name": "Ljubljana Rakovnik",
@@ -62512,12 +62415,6 @@
 		"longitude": 14.522834,
 		"name": "Ljubljana Rakovnik",
 		"gtfs_id": "IJPP:1165661"
-	},
-	{
-		"latitude": 46.074295,
-		"longitude": 14.485482,
-		"name": "Ljubljana Remiza",
-		"gtfs_id": "IJPP:1165662"
 	},
 	{
 		"latitude": 46.018368,
@@ -62544,28 +62441,13 @@
 		"gtfs_id": "IJPP:1165666"
 	},
 	{
-		"latitude": 46.072987,
-		"longitude": 14.486411,
-		"name": "Ljubljana Slovenija avto",
-		"gtfs_id": "IJPP:1165667"
-	},
-	{
-		"latitude": 46.073883,
-		"longitude": 14.486591,
-		"name": "Ljubljana Slovenija avto",
-		"gtfs_id": "IJPP:1165669"
-	},
-	{
 		"latitude": 46.077927,
 		"longitude": 14.569572,
-		"name": "Ljubljana Sneberje",
-		"gtfs_id": "IJPP:1165670"
-	},
-	{
-		"latitude": 46.07789,
-		"longitude": 14.569254,
-		"name": "Ljubljana Sneberje",
-		"gtfs_id": "IJPP:1165671"
+		"name": "Sneberje",
+		"ref_id": "204072",
+		"route_groups_on_station": ["12", "24"],
+		"gtfs_id": "LPP:f4c5028b-48a4-4d0e-a91c-81a858923ddd",
+		"ijpp_id": "IJPP:1165670"
 	},
 	{
 		"latitude": 46.023796,
@@ -62604,30 +62486,6 @@
 		"gtfs_id": "IJPP:1165679"
 	},
 	{
-		"latitude": 46.091362,
-		"longitude": 14.582795,
-		"name": "Ljubljana Šentjakob",
-		"gtfs_id": "IJPP:1165680"
-	},
-	{
-		"latitude": 46.091194,
-		"longitude": 14.58165,
-		"name": "Ljubljana Šentjakob",
-		"gtfs_id": "IJPP:1165681"
-	},
-	{
-		"latitude": 46.090378,
-		"longitude": 14.582758,
-		"name": "Ljubljana Šentjakob",
-		"gtfs_id": "IJPP:1165682"
-	},
-	{
-		"latitude": 46.09047,
-		"longitude": 14.582931,
-		"name": "Ljubljana Šentjakob",
-		"gtfs_id": "IJPP:1165683"
-	},
-	{
 		"latitude": 46.096783,
 		"longitude": 14.465047,
 		"name": "Ljubljana Šentvid",
@@ -62638,12 +62496,6 @@
 		"longitude": 14.466712,
 		"name": "Ljubljana Šentvid",
 		"gtfs_id": "IJPP:1165685"
-	},
-	{
-		"latitude": 46.06042,
-		"longitude": 14.497217,
-		"name": "Ljubljana Tivoli",
-		"gtfs_id": "IJPP:1165686"
 	},
 	{
 		"latitude": 46.087185,
@@ -65082,30 +64934,6 @@
 		"gtfs_id": "IJPP:1167154"
 	},
 	{
-		"latitude": 46.04408,
-		"longitude": 14.511286,
-		"name": "Privoz",
-		"gtfs_id": "IJPP:1167157"
-	},
-	{
-		"latitude": 46.044052,
-		"longitude": 14.510962,
-		"name": "Privoz",
-		"gtfs_id": "IJPP:1167158"
-	},
-	{
-		"latitude": 46.063812,
-		"longitude": 14.494472,
-		"name": "Stara cerkev",
-		"gtfs_id": "IJPP:1167161"
-	},
-	{
-		"latitude": 46.064835,
-		"longitude": 14.494296,
-		"name": "Stara cerkev",
-		"gtfs_id": "IJPP:1167162"
-	},
-	{
 		"latitude": 46.11042,
 		"longitude": 14.445957,
 		"name": "Stanežiče",
@@ -65490,78 +65318,6 @@
 		"gtfs_id": "IJPP:1167290"
 	},
 	{
-		"latitude": 46.09257,
-		"longitude": 14.469368,
-		"name": "Podgora",
-		"gtfs_id": "IJPP:1167291"
-	},
-	{
-		"latitude": 46.093678,
-		"longitude": 14.468744,
-		"name": "Podgora",
-		"gtfs_id": "IJPP:1167292"
-	},
-	{
-		"latitude": 46.091003,
-		"longitude": 14.471102,
-		"name": "Prušnikova",
-		"gtfs_id": "IJPP:1167293"
-	},
-	{
-		"latitude": 46.08981,
-		"longitude": 14.471826,
-		"name": "Prušnikova",
-		"gtfs_id": "IJPP:1167294"
-	},
-	{
-		"latitude": 46.08393,
-		"longitude": 14.477392,
-		"name": "Dravlje",
-		"gtfs_id": "IJPP:1167295"
-	},
-	{
-		"latitude": 46.083626,
-		"longitude": 14.478015,
-		"name": "Dravlje",
-		"gtfs_id": "IJPP:1167296"
-	},
-	{
-		"latitude": 46.079906,
-		"longitude": 14.48022,
-		"name": "Kompas",
-		"gtfs_id": "IJPP:1167297"
-	},
-	{
-		"latitude": 46.080204,
-		"longitude": 14.480428,
-		"name": "Kompas",
-		"gtfs_id": "IJPP:1167298"
-	},
-	{
-		"latitude": 46.05374,
-		"longitude": 14.519204,
-		"name": "Poliklinika",
-		"gtfs_id": "IJPP:1167302"
-	},
-	{
-		"latitude": 46.05363,
-		"longitude": 14.51907,
-		"name": "Poliklinika",
-		"gtfs_id": "IJPP:1167303"
-	},
-	{
-		"latitude": 46.05241,
-		"longitude": 14.52076,
-		"name": "Klinični center",
-		"gtfs_id": "IJPP:1167304"
-	},
-	{
-		"latitude": 46.05231,
-		"longitude": 14.52097,
-		"name": "Klinični center",
-		"gtfs_id": "IJPP:1167305"
-	},
-	{
 		"latitude": 46.054493,
 		"longitude": 14.57682,
 		"name": "Studenec",
@@ -65610,30 +65366,6 @@
 		"gtfs_id": "IJPP:1167331"
 	},
 	{
-		"latitude": 46.070866,
-		"longitude": 14.580202,
-		"name": "Zadobrova",
-		"gtfs_id": "IJPP:1167332"
-	},
-	{
-		"latitude": 46.05471,
-		"longitude": 14.503902,
-		"name": "Gosposvetska",
-		"gtfs_id": "IJPP:1167336"
-	},
-	{
-		"latitude": 46.07734,
-		"longitude": 14.4824,
-		"name": "Aleja",
-		"gtfs_id": "IJPP:1167340"
-	},
-	{
-		"latitude": 46.07684,
-		"longitude": 14.482335,
-		"name": "Aleja",
-		"gtfs_id": "IJPP:1167341"
-	},
-	{
 		"latitude": 46.134262,
 		"longitude": 14.438582,
 		"name": "Sp. Pirniče",
@@ -65676,12 +65408,6 @@
 		"gtfs_id": "IJPP:1167373"
 	},
 	{
-		"latitude": 46.05616,
-		"longitude": 14.50204,
-		"name": "Gosposvetska",
-		"gtfs_id": "IJPP:1167386"
-	},
-	{
 		"latitude": 46.014828,
 		"longitude": 14.512112,
 		"name": "Barje",
@@ -65698,18 +65424,6 @@
 		"longitude": 14.964471,
 		"name": "Dvor/Žužemb.",
 		"gtfs_id": "IJPP:1167394"
-	},
-	{
-		"latitude": 46.069862,
-		"longitude": 14.545117,
-		"name": "Žito",
-		"gtfs_id": "IJPP:1167400"
-	},
-	{
-		"latitude": 46.069878,
-		"longitude": 14.546862,
-		"name": "Žito",
-		"gtfs_id": "IJPP:1167401"
 	},
 	{
 		"latitude": 45.551632,
@@ -66544,18 +66258,6 @@
 		"longitude": 14.93312,
 		"name": "Lavamund Badesee (A)",
 		"gtfs_id": "IJPP:1167633"
-	},
-	{
-		"latitude": 46.13416,
-		"longitude": 14.594604,
-		"name": "Domžale Krakovska cesta",
-		"gtfs_id": "IJPP:1167634"
-	},
-	{
-		"latitude": 46.134106,
-		"longitude": 14.594512,
-		"name": "Domžale Krakovska cesta",
-		"gtfs_id": "IJPP:1167635"
 	},
 	{
 		"latitude": 46.129482,
@@ -67470,18 +67172,6 @@
 		"gtfs_id": "IJPP:1167956"
 	},
 	{
-		"latitude": 46.110107,
-		"longitude": 14.593456,
-		"name": "Dragomelj sever",
-		"gtfs_id": "IJPP:1167957"
-	},
-	{
-		"latitude": 46.110104,
-		"longitude": 14.59335,
-		"name": "Dragomelj sever",
-		"gtfs_id": "IJPP:1167958"
-	},
-	{
 		"latitude": 46.14282,
 		"longitude": 14.392515,
 		"name": "Goričane kopališče",
@@ -68028,12 +67718,6 @@
 		"gtfs_id": "IJPP:1168151"
 	},
 	{
-		"latitude": 46.060333,
-		"longitude": 14.497625,
-		"name": "Tivoli",
-		"gtfs_id": "LPP:0b4a072e-6c2d-4c71-ab80-2b7142df81de"
-	},
-	{
 		"latitude": 46.035954,
 		"longitude": 14.624615,
 		"name": "Pod Sivnikom",
@@ -68122,12 +67806,6 @@
 		"longitude": 14.525635,
 		"name": "Polanškova",
 		"gtfs_id": "LPP:9fa0b90f-dba1-4eca-8802-589425d3e8fd"
-	},
-	{
-		"latitude": 46.078091,
-		"longitude": 14.574941,
-		"name": "Trbeže",
-		"gtfs_id": "LPP:b4766c35-4ab9-4af3-aa76-1b1f40735685"
 	},
 	{
 		"latitude": 46.109253,
