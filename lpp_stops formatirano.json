@@ -172,17 +172,7 @@
 		"longitude": 14.493442460567477,
 		"name": "Tobačna",
 		"ref_id": "602042",
-		"route_groups_on_station": [
-			"1",
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["1", "6", "46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.051409918009185,
@@ -246,25 +236,14 @@
 		"longitude": 14.490460044451936,
 		"name": "Hajdrihova",
 		"ref_id": "602031",
-		"route_groups_on_station": [
-			"1",
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["1", "6", "46", "47", "48", "49", "54"]
 	},
 	{
 		"latitude": 46.05140527253405,
 		"longitude": 14.510719016944469,
 		"name": "Zmajski most",
 		"ref_id": "501021",
-		"route_groups_on_station": ["13", "20", "68", "69", "76", "78", "82"]
+		"route_groups_on_station": ["13", "20", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.04580323252228,
@@ -292,16 +271,7 @@
 		"longitude": 14.498143747963594,
 		"name": "Bleiweisova",
 		"ref_id": "701011",
-		"route_groups_on_station": [
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["46", "47", "48", "49", "54"]
 	},
 	{
 		"latitude": 46.04206743341863,
@@ -333,7 +303,7 @@
 		"longitude": 14.510248521884751,
 		"name": "Zmajski most",
 		"ref_id": "501022",
-		"route_groups_on_station": ["13", "20", "68", "69", "76", "78", "82"]
+		"route_groups_on_station": ["13", "20", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.0406662371267,
@@ -347,7 +317,7 @@
 		"longitude": 14.497929073009784,
 		"name": "Bleiweisova",
 		"ref_id": "701012",
-		"route_groups_on_station": ["45", "46", "47", "48", "51", "54", "56"]
+		"route_groups_on_station": ["46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.053762229983064,
@@ -421,7 +391,7 @@
 		"longitude": 14.516998075097007,
 		"name": "Strelišče",
 		"ref_id": "503011",
-		"route_groups_on_station": ["3", "27", "68", "69", "76", "78", "82"]
+		"route_groups_on_station": ["3", "27", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.05110624679304,
@@ -459,18 +429,18 @@
 		"route_groups_on_station": ["5", "13", "20"]
 	},
 	{
-		"latitude": 46.05490626935668,
-		"longitude": 14.503716949310403,
-		"name": "Gosposvetska",
-		"ref_id": "700011",
-		"route_groups_on_station": ["1", "3", "5", "7", "8", "25"]
-	},
-	{
 		"latitude": 46.049783383901925,
 		"longitude": 14.516542468239784,
 		"name": "Ambrožev trg",
 		"ref_id": "502014",
 		"route_groups_on_station": ["2", "5", "13", "20"]
+	},
+	{
+		"latitude": 46.05490626935668,
+		"longitude": 14.503716949310403,
+		"name": "Gosposvetska",
+		"ref_id": "700011",
+		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60", "Ž"]
 	},
 	{
 		"latitude": 46.03286746834803,
@@ -519,7 +489,7 @@
 		"longitude": 14.518193134575956,
 		"name": "Strelišče",
 		"ref_id": "503012",
-		"route_groups_on_station": ["3", "68", "69", "76", "78", "82"]
+		"route_groups_on_station": ["3", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.03660886519545,
@@ -554,7 +524,7 @@
 		"longitude": 14.502123332668676,
 		"name": "Gosposvetska",
 		"ref_id": "700012",
-		"route_groups_on_station": ["1", "3", "5", "7", "8", "25"]
+		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60", "Ž"]
 	},
 	{
 		"latitude": 46.05620922714199,
@@ -577,8 +547,8 @@
 			"20",
 			"25",
 			"27",
-			"51",
-			"56"
+			"60",
+			"Ž"
 		]
 	},
 	{
@@ -617,8 +587,8 @@
 			"20",
 			"25",
 			"27",
-			"51",
-			"56"
+			"60",
+			"Ž"
 		]
 	},
 	{
@@ -661,27 +631,20 @@
 		"longitude": 14.483851925771793,
 		"name": "Vič Glince",
 		"ref_id": "703081",
-		"route_groups_on_station": ["6", "46", "47", "48", "51", "54", "56"]
+		"route_groups_on_station": ["6", "46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.043975188677365,
 		"longitude": 14.48376150394095,
 		"name": "Vič Glince",
 		"ref_id": "703082",
-		"route_groups_on_station": ["6", "46", "47", "48", "51", "54", "56"]
+		"route_groups_on_station": ["6", "46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.05261046471199,
 		"longitude": 14.488079046188197,
 		"name": "Svetčeva",
 		"ref_id": "702031",
-		"route_groups_on_station": ["18"]
-	},
-	{
-		"latitude": 46.05771980693072,
-		"longitude": 14.508122616029567,
-		"name": "KOLODVOR",
-		"ref_id": "300015",
 		"route_groups_on_station": ["18"]
 	},
 	{
@@ -696,7 +659,7 @@
 		"longitude": 14.509347111277467,
 		"name": "Kolodvor",
 		"ref_id": "300011",
-		"route_groups_on_station": ["2", "9", "12", "25", "27"]
+		"route_groups_on_station": ["2", "9", "25", "27"]
 	},
 	{
 		"latitude": 46.04893425272288,
@@ -713,33 +676,11 @@
 		"route_groups_on_station": ["9", "25"]
 	},
 	{
-		"latitude": 46.05772491004307,
-		"longitude": 14.509928175090725,
-		"name": "Ljubljana AP",
-		"ref_id": "300013",
-		"route_groups_on_station": [
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"51",
-			"54",
-			"56",
-			"60",
-			"68",
-			"69",
-			"76",
-			"78",
-			"82"
-		]
-	},
-	{
 		"latitude": 46.057573121529174,
 		"longitude": 14.511195682031877,
 		"name": "Kolodvor",
 		"ref_id": "300012",
-		"route_groups_on_station": ["2", "9", "12", "25", "27"]
+		"route_groups_on_station": ["2", "9", "25", "Ž"]
 	},
 	{
 		"latitude": 46.04799928880887,
@@ -840,6 +781,38 @@
 		"route_groups_on_station": ["16"]
 	},
 	{
+		"latitude": 46.05781556673777,
+		"longitude": 14.514663567249709,
+		"name": "KOLODVOR",
+		"ref_id": "300015",
+		"route_groups_on_station": ["18"]
+	},
+	{
+		"latitude": 46.05786142761612,
+		"longitude": 14.514671714831085,
+		"name": "Ljubljana AP",
+		"ref_id": "300013",
+		"route_groups_on_station": [
+			"46",
+			"47",
+			"48",
+			"49",
+			"54",
+			"60",
+			"68",
+			"76",
+			"78",
+			"82"
+		]
+	},
+	{
+		"latitude": 46.05790190389297,
+		"longitude": 14.514673069268666,
+		"name": "SŽ KOLODVOR",
+		"ref_id": "300014",
+		"route_groups_on_station": ["Ž"]
+	},
+	{
 		"latitude": 46.035272096240476,
 		"longitude": 14.483460129051377,
 		"name": "Koprska",
@@ -851,14 +824,14 @@
 		"longitude": 14.509243464488492,
 		"name": "Navje",
 		"ref_id": "100012",
-		"route_groups_on_station": ["3", "11", "12"]
+		"route_groups_on_station": ["3", "11", "18", "27", "60"]
 	},
 	{
 		"latitude": 46.057534905230185,
 		"longitude": 14.516734590603274,
 		"name": "Friškovec",
 		"ref_id": "301012",
-		"route_groups_on_station": ["2", "9", "12", "25", "27"]
+		"route_groups_on_station": ["2", "9", "25"]
 	},
 	{
 		"latitude": 46.06024925863737,
@@ -892,11 +865,12 @@
 			"7",
 			"8",
 			"11",
-			"12",
 			"13",
 			"14",
+			"18",
 			"19",
-			"20"
+			"20",
+			"60"
 		]
 	},
 	{
@@ -904,7 +878,7 @@
 		"longitude": 14.497162927751866,
 		"name": "Tivoli",
 		"ref_id": "801011",
-		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60"]
+		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60", "Ž"]
 	},
 	{
 		"latitude": 46.02697684662573,
@@ -925,7 +899,21 @@
 		"longitude": 14.518346572914368,
 		"name": "Friškovec",
 		"ref_id": "301011",
-		"route_groups_on_station": ["2", "9", "12", "25", "27"]
+		"route_groups_on_station": ["2", "9", "25", "27"]
+	},
+	{
+		"latitude": 46.059873172190045,
+		"longitude": 14.51228272108693,
+		"name": "Navje",
+		"ref_id": "100011",
+		"route_groups_on_station": ["6", "12", "27"]
+	},
+	{
+		"latitude": 46.06103930477155,
+		"longitude": 14.500231770152823,
+		"name": "SŽ ŠIŠKA",
+		"ref_id": "801021",
+		"route_groups_on_station": ["Ž"]
 	},
 	{
 		"latitude": 46.050298762788245,
@@ -939,40 +927,31 @@
 		"longitude": 14.507648311161578,
 		"name": "Razstavišče",
 		"ref_id": "100022",
-		"route_groups_on_station": ["6", "7", "8", "11", "13", "14", "19", "20"]
+		"route_groups_on_station": [
+			"6",
+			"7",
+			"8",
+			"11",
+			"12",
+			"13",
+			"14",
+			"19",
+			"20"
+		]
 	},
 	{
 		"latitude": 46.042101680979414,
 		"longitude": 14.477929299515761,
 		"name": "Vič",
 		"ref_id": "703091",
-		"route_groups_on_station": [
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["6", "46", "47", "48", "49", "54"]
 	},
 	{
 		"latitude": 46.04229840964592,
 		"longitude": 14.477842231927482,
 		"name": "Vič",
 		"ref_id": "703092",
-		"route_groups_on_station": [
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["6", "46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.05132018323867,
@@ -996,18 +975,18 @@
 		"route_groups_on_station": ["18"]
 	},
 	{
-		"latitude": 46.06103968748721,
-		"longitude": 14.5132960445235,
-		"name": "ŽELEZNA",
+		"latitude": 46.060966284535326,
+		"longitude": 14.51328040801712,
+		"name": "ŽELEZNA-1",
 		"ref_id": "201011",
-		"route_groups_on_station": ["3", "11", "12"]
+		"route_groups_on_station": ["3", "11", "18", "60"]
 	},
 	{
-		"latitude": 46.06125433750317,
-		"longitude": 14.513248855397979,
-		"name": "ŽELEZNA",
+		"latitude": 46.06117544323874,
+		"longitude": 14.513201625686275,
+		"name": "ŽELEZNA-2",
 		"ref_id": "201012",
-		"route_groups_on_station": ["6"]
+		"route_groups_on_station": ["6", "12"]
 	},
 	{
 		"latitude": 46.0295826802633,
@@ -1038,11 +1017,25 @@
 		"route_groups_on_station": ["14"]
 	},
 	{
+		"latitude": 46.05982185683901,
+		"longitude": 14.519309880522414,
+		"name": "Viadukt",
+		"ref_id": "202014",
+		"route_groups_on_station": ["6", "12", "27"]
+	},
+	{
+		"latitude": 46.059931803460174,
+		"longitude": 14.519338128269277,
+		"name": "Viadukt",
+		"ref_id": "202013",
+		"route_groups_on_station": ["12", "27"]
+	},
+	{
 		"latitude": 46.059411374727475,
 		"longitude": 14.520621868483126,
 		"name": "Viadukt",
 		"ref_id": "202011",
-		"route_groups_on_station": ["2", "12", "27"]
+		"route_groups_on_station": ["2", "27"]
 	},
 	{
 		"latitude": 46.03879042176055,
@@ -1077,7 +1070,7 @@
 		"longitude": 14.520962056123448,
 		"name": "Viadukt",
 		"ref_id": "202012",
-		"route_groups_on_station": ["2", "12", "27"]
+		"route_groups_on_station": ["2"]
 	},
 	{
 		"latitude": 46.0638771403112,
@@ -1140,7 +1133,7 @@
 		"longitude": 14.511629429888021,
 		"name": "Bežigrad",
 		"ref_id": "101032",
-		"route_groups_on_station": ["6", "7", "13", "20", "22"]
+		"route_groups_on_station": ["6", "7", "12", "13", "20", "22"]
 	},
 	{
 		"latitude": 46.03051463866298,
@@ -1161,7 +1154,17 @@
 		"longitude": 14.51170293033344,
 		"name": "Bežigrad",
 		"ref_id": "101031",
-		"route_groups_on_station": ["3", "7", "11", "12", "13", "20", "22"]
+		"route_groups_on_station": [
+			"3",
+			"6",
+			"7",
+			"11",
+			"13",
+			"18",
+			"20",
+			"22",
+			"60"
+		]
 	},
 	{
 		"latitude": 46.063847193176215,
@@ -1294,7 +1297,7 @@
 		"longitude": 14.517277139330432,
 		"name": "Prekmurska",
 		"ref_id": "202021",
-		"route_groups_on_station": ["7", "22"]
+		"route_groups_on_station": ["6", "7", "22"]
 	},
 	{
 		"latitude": 46.067106081972895,
@@ -1360,18 +1363,18 @@
 		"route_groups_on_station": ["2"]
 	},
 	{
-		"latitude": 46.062639620654735,
-		"longitude": 14.525022074090455,
-		"name": "Središka",
-		"ref_id": "202091",
-		"route_groups_on_station": ["2", "7", "12", "22", "27"]
-	},
-	{
 		"latitude": 46.048021660613614,
 		"longitude": 14.537373749385686,
 		"name": "Štepanja vas",
 		"ref_id": "403041",
 		"route_groups_on_station": ["13"]
+	},
+	{
+		"latitude": 46.062639620654735,
+		"longitude": 14.525022074090455,
+		"name": "Središka",
+		"ref_id": "202091",
+		"route_groups_on_station": ["12", "27"]
 	},
 	{
 		"latitude": 46.02655857600485,
@@ -1441,7 +1444,7 @@
 		"longitude": 14.525992128110037,
 		"name": "Središka",
 		"ref_id": "202092",
-		"route_groups_on_station": ["2", "7", "12", "22", "24", "27"]
+		"route_groups_on_station": ["12", "27"]
 	},
 	{
 		"latitude": 46.05582129835412,
@@ -1483,7 +1486,7 @@
 		"longitude": 14.521659883003316,
 		"name": "Savske stolpnice",
 		"ref_id": "202031",
-		"route_groups_on_station": ["7", "19", "22", "24"]
+		"route_groups_on_station": ["7", "19", "22"]
 	},
 	{
 		"latitude": 46.0300681866742,
@@ -1504,25 +1507,7 @@
 		"longitude": 14.467279308861954,
 		"name": "Dolgi most",
 		"ref_id": "703111",
-		"route_groups_on_station": [
-			"6",
-			"16",
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"51",
-			"54",
-			"56"
-		]
-	},
-	{
-		"latitude": 46.06981305536522,
-		"longitude": 14.503500198954502,
-		"name": "Podmilščakova",
-		"ref_id": "102051",
-		"route_groups_on_station": ["14"]
+		"route_groups_on_station": ["6", "16", "46", "47", "48", "49", "54"]
 	},
 	{
 		"latitude": 46.06934803362496,
@@ -1530,6 +1515,13 @@
 		"name": "Stadion",
 		"ref_id": "102041",
 		"route_groups_on_station": ["6", "8", "11"]
+	},
+	{
+		"latitude": 46.06981305536522,
+		"longitude": 14.503500198954502,
+		"name": "Podmilščakova",
+		"ref_id": "102051",
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.068150547632754,
@@ -1550,7 +1542,7 @@
 		"longitude": 14.523151688978432,
 		"name": "Savske stolpnice",
 		"ref_id": "202032",
-		"route_groups_on_station": ["7", "19"]
+		"route_groups_on_station": ["7", "19", "22"]
 	},
 	{
 		"latitude": 46.0514727843489,
@@ -1588,8 +1580,8 @@
 		"route_groups_on_station": ["7"]
 	},
 	{
-		"latitude": 46.06356733604986,
-		"longitude": 14.529311306024777,
+		"latitude": 46.06320191573933,
+		"longitude": 14.529534522282958,
 		"name": "ZELENA JAMA",
 		"ref_id": "202051",
 		"route_groups_on_station": ["2"]
@@ -1627,24 +1619,14 @@
 		"longitude": 14.465192140963854,
 		"name": "Dolgi most",
 		"ref_id": "703112",
-		"route_groups_on_station": [
-			"6",
-			"16",
-			"45",
-			"46",
-			"47",
-			"48",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["6", "16", "46", "47", "48", "54"]
 	},
 	{
 		"latitude": 46.06454972375176,
 		"longitude": 14.529110050210523,
 		"name": "Flajšmanova",
 		"ref_id": "202082",
-		"route_groups_on_station": ["2", "7", "12", "22", "24", "27"]
+		"route_groups_on_station": ["7", "12", "22", "24", "27"]
 	},
 	{
 		"latitude": 46.069672634930896,
@@ -1675,6 +1657,13 @@
 		"route_groups_on_station": ["3"]
 	},
 	{
+		"latitude": 46.06586582988122,
+		"longitude": 14.527225807260837,
+		"name": "Žale",
+		"ref_id": "202062",
+		"route_groups_on_station": ["2", "7", "22", "24"]
+	},
+	{
 		"latitude": 46.02810821503795,
 		"longitude": 14.535834768836576,
 		"name": "Gornji Rudnik",
@@ -1703,13 +1692,6 @@
 		"route_groups_on_station": ["2"]
 	},
 	{
-		"latitude": 46.06543819044026,
-		"longitude": 14.529160889938133,
-		"name": "Pokopališka",
-		"ref_id": "203012",
-		"route_groups_on_station": ["2", "7", "24"]
-	},
-	{
 		"latitude": 46.06341287923119,
 		"longitude": 14.532358946095755,
 		"name": "Rožičeva",
@@ -1721,7 +1703,7 @@
 		"longitude": 14.463680046008538,
 		"name": "D. MOST P+R",
 		"ref_id": "704011",
-		"route_groups_on_station": ["1", "6"]
+		"route_groups_on_station": ["1", "6", "51", "56"]
 	},
 	{
 		"latitude": 46.05607475610472,
@@ -1729,13 +1711,6 @@
 		"name": "Zaloška",
 		"ref_id": "303021",
 		"route_groups_on_station": ["2", "9", "11", "20", "25"]
-	},
-	{
-		"latitude": 46.06547919959305,
-		"longitude": 14.529408012844387,
-		"name": "Pokopališka",
-		"ref_id": "203011",
-		"route_groups_on_station": ["2"]
 	},
 	{
 		"latitude": 46.02408037822856,
@@ -1773,25 +1748,25 @@
 		"route_groups_on_station": ["19"]
 	},
 	{
-		"latitude": 46.066879036371525,
-		"longitude": 14.527576264894677,
-		"name": "Žale",
-		"ref_id": "202062",
-		"route_groups_on_station": ["2", "7", "24"]
-	},
-	{
-		"latitude": 46.066996563711,
-		"longitude": 14.527413355764159,
-		"name": "Žale",
-		"ref_id": "202061",
-		"route_groups_on_station": ["2"]
-	},
-	{
 		"latitude": 46.045770584256154,
 		"longitude": 14.544234572607893,
 		"name": "Bilečanska",
 		"ref_id": "403072",
 		"route_groups_on_station": ["24"]
+	},
+	{
+		"latitude": 46.066585997533686,
+		"longitude": 14.528299232696487,
+		"name": "Žale",
+		"ref_id": "202061",
+		"route_groups_on_station": ["2", "7", "22", "24"]
+	},
+	{
+		"latitude": 46.07254437631708,
+		"longitude": 14.498787465107913,
+		"name": "Tiki",
+		"ref_id": "802062",
+		"route_groups_on_station": ["18"]
 	},
 	{
 		"latitude": 46.047159171279375,
@@ -1806,6 +1781,13 @@
 		"name": "Barje",
 		"ref_id": "604022",
 		"route_groups_on_station": ["19"]
+	},
+	{
+		"latitude": 46.07270124851344,
+		"longitude": 14.498486770026041,
+		"name": "Tiki",
+		"ref_id": "802061",
+		"route_groups_on_station": ["18"]
 	},
 	{
 		"latitude": 46.056480792297926,
@@ -1836,13 +1818,6 @@
 		"route_groups_on_station": ["14"]
 	},
 	{
-		"latitude": 46.07278131778543,
-		"longitude": 14.495826643069645,
-		"name": "Tiki",
-		"ref_id": "802062",
-		"route_groups_on_station": ["18"]
-	},
-	{
 		"latitude": 46.047598508830816,
 		"longitude": 14.545067372638025,
 		"name": "Emona",
@@ -1862,13 +1837,6 @@
 		"name": "Podvozna pot",
 		"ref_id": "704181",
 		"route_groups_on_station": ["6", "16"]
-	},
-	{
-		"latitude": 46.07293166899967,
-		"longitude": 14.495129225060635,
-		"name": "Tiki",
-		"ref_id": "802061",
-		"route_groups_on_station": ["18"]
 	},
 	{
 		"latitude": 46.0558576919422,
@@ -1959,7 +1927,7 @@
 		"longitude": 14.460900025751602,
 		"name": "Podvozna pot",
 		"ref_id": "704182",
-		"route_groups_on_station": ["6"]
+		"route_groups_on_station": ["6", "51", "56"]
 	},
 	{
 		"latitude": 46.03278653338745,
@@ -2085,14 +2053,7 @@
 		"longitude": 14.505082095563719,
 		"name": "Vodovodna",
 		"ref_id": "102072",
-		"route_groups_on_station": ["14", "18"]
-	},
-	{
-		"latitude": 46.07319708065566,
-		"longitude": 14.486220460529562,
-		"name": "Slovenija avto",
-		"ref_id": "803011",
-		"route_groups_on_station": ["1", "3", "5", "8", "22", "25", "60"]
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.04955144419521,
@@ -2100,6 +2061,13 @@
 		"name": "Nusdorferjeva",
 		"ref_id": "303082",
 		"route_groups_on_station": ["5", "9"]
+	},
+	{
+		"latitude": 46.07319708065566,
+		"longitude": 14.486220460529562,
+		"name": "Slovenija avto",
+		"ref_id": "803011",
+		"route_groups_on_station": ["1", "3", "5", "8", "22", "25", "60"]
 	},
 	{
 		"latitude": 46.01247058266134,
@@ -2183,14 +2151,7 @@
 		"longitude": 14.540037881418083,
 		"name": "Spodnji Rudnik",
 		"ref_id": "504021",
-		"route_groups_on_station": ["3", "68", "69", "76", "78", "82"]
-	},
-	{
-		"latitude": 46.053835216185185,
-		"longitude": 14.547819367238972,
-		"name": "ŠTEPANJSKO NAS.",
-		"ref_id": "303041",
-		"route_groups_on_station": ["5"]
+		"route_groups_on_station": ["3", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.07420732673931,
@@ -2200,18 +2161,18 @@
 		"route_groups_on_station": ["1", "25", "60"]
 	},
 	{
-		"latitude": 46.05350691802458,
-		"longitude": 14.548228174641642,
+		"latitude": 46.05351386408759,
+		"longitude": 14.548128011728108,
 		"name": "ŠTEPANJSKO NAS.",
-		"ref_id": "303043",
-		"route_groups_on_station": ["9"]
+		"ref_id": "303041",
+		"route_groups_on_station": ["5", "9"]
 	},
 	{
 		"latitude": 46.0767543116052,
 		"longitude": 14.50550581891603,
 		"name": "Brinje",
 		"ref_id": "103021",
-		"route_groups_on_station": ["14", "18"]
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.0696429716875,
@@ -2246,7 +2207,7 @@
 		"longitude": 14.540343188201916,
 		"name": "Spodnji Rudnik",
 		"ref_id": "504022",
-		"route_groups_on_station": ["3", "68", "69", "76", "78", "82"]
+		"route_groups_on_station": ["3", "68", "76", "78", "82"]
 	},
 	{
 		"latitude": 46.07167395145397,
@@ -2291,18 +2252,18 @@
 		"route_groups_on_station": ["2", "7", "12", "24", "27"]
 	},
 	{
-		"latitude": 46.0467942160046,
-		"longitude": 14.551751469871746,
-		"name": "Rast",
-		"ref_id": "403062",
-		"route_groups_on_station": ["13"]
-	},
-	{
 		"latitude": 46.01004190440209,
 		"longitude": 14.501586572375906,
 		"name": "Brglezov štradon",
 		"ref_id": "614021",
 		"route_groups_on_station": ["19"]
+	},
+	{
+		"latitude": 46.0467942160046,
+		"longitude": 14.551751469871746,
+		"name": "Rast",
+		"ref_id": "403062",
+		"route_groups_on_station": ["13"]
 	},
 	{
 		"latitude": 46.01835161509226,
@@ -2351,7 +2312,7 @@
 		"longitude": 14.50626734741082,
 		"name": "Brinje",
 		"ref_id": "103022",
-		"route_groups_on_station": ["14", "18"]
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.062088961210804,
@@ -2507,7 +2468,6 @@
 		"ref_id": "704051",
 		"route_groups_on_station": [
 			"6",
-			"45",
 			"46",
 			"47",
 			"48",
@@ -2630,13 +2590,6 @@
 		"route_groups_on_station": ["2", "7", "12", "24"]
 	},
 	{
-		"latitude": 46.063812390867284,
-		"longitude": 14.547685805074263,
-		"name": "BTC-Merkur",
-		"ref_id": "203242",
-		"route_groups_on_station": ["24"]
-	},
-	{
 		"latitude": 46.041224012488975,
 		"longitude": 14.55597344502107,
 		"name": "Krožna pot",
@@ -2644,20 +2597,18 @@
 		"route_groups_on_station": ["24"]
 	},
 	{
+		"latitude": 46.063812390867284,
+		"longitude": 14.547685805074263,
+		"name": "BTC-Merkur",
+		"ref_id": "203242",
+		"route_groups_on_station": ["24"]
+	},
+	{
 		"latitude": 46.03365161563964,
 		"longitude": 14.452145910168529,
 		"name": "Dolgi most Rotar",
 		"ref_id": "704052",
-		"route_groups_on_station": [
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"51",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["6", "46", "47", "48", "51", "54", "56"]
 	},
 	{
 		"latitude": 46.06345838123261,
@@ -2755,7 +2706,7 @@
 		"longitude": 14.507373952144524,
 		"name": "Pohorskega bataljona",
 		"ref_id": "103062",
-		"route_groups_on_station": ["14", "18"]
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.0562640987001,
@@ -2783,7 +2734,7 @@
 		"longitude": 14.507272972279083,
 		"name": "Pohorskega bataljona",
 		"ref_id": "103061",
-		"route_groups_on_station": ["14", "18"]
+		"route_groups_on_station": ["14"]
 	},
 	{
 		"latitude": 46.082206253889694,
@@ -2821,18 +2772,18 @@
 		"route_groups_on_station": ["3", "18"]
 	},
 	{
-		"latitude": 46.06990084322027,
-		"longitude": 14.545038907167656,
-		"name": "Žito",
-		"ref_id": "203151",
-		"route_groups_on_station": ["2", "7", "12", "24"]
-	},
-	{
 		"latitude": 46.0520526416731,
 		"longitude": 14.448148909939905,
 		"name": "BOKALCE",
 		"ref_id": "704041",
 		"route_groups_on_station": ["14"]
+	},
+	{
+		"latitude": 46.06990084322027,
+		"longitude": 14.545038907167656,
+		"name": "Žito",
+		"ref_id": "203151",
+		"route_groups_on_station": ["2", "7", "12", "24"]
 	},
 	{
 		"latitude": 46.04552077289621,
@@ -2856,18 +2807,18 @@
 		"route_groups_on_station": ["11"]
 	},
 	{
-		"latitude": 46.07994380182011,
-		"longitude": 14.480160249455926,
-		"name": "Kompas",
-		"ref_id": "803031",
-		"route_groups_on_station": ["1", "25"]
-	},
-	{
 		"latitude": 46.08044142663494,
 		"longitude": 14.52435971982523,
 		"name": "C. STOŽICE P+R",
 		"ref_id": "103173",
 		"route_groups_on_station": ["13", "18", "24"]
+	},
+	{
+		"latitude": 46.07994380182011,
+		"longitude": 14.480160249455926,
+		"name": "Kompas",
+		"ref_id": "803031",
+		"route_groups_on_station": ["1", "25"]
 	},
 	{
 		"latitude": 46.06522300905034,
@@ -3206,13 +3157,6 @@
 		"route_groups_on_station": ["5"]
 	},
 	{
-		"latitude": 46.079454122137804,
-		"longitude": 14.465120644598933,
-		"name": "KAMNA GORICA",
-		"ref_id": "803181",
-		"route_groups_on_station": ["23"]
-	},
-	{
 		"latitude": 46.052132876991635,
 		"longitude": 14.565950217680992,
 		"name": "FUŽINE P+R",
@@ -3232,13 +3176,6 @@
 		"name": "Havptmance",
 		"ref_id": "604041",
 		"route_groups_on_station": ["19"]
-	},
-	{
-		"latitude": 46.07425960143249,
-		"longitude": 14.455667726391813,
-		"name": "Pod Kamno Gorico",
-		"ref_id": "804193",
-		"route_groups_on_station": ["23"]
 	},
 	{
 		"latitude": 46.08586857518195,
@@ -3273,7 +3210,7 @@
 		"longitude": 14.453938463984318,
 		"name": "Omersova",
 		"ref_id": "804201",
-		"route_groups_on_station": ["5", "23"]
+		"route_groups_on_station": ["5"]
 	},
 	{
 		"latitude": 46.086704501484974,
@@ -3301,14 +3238,14 @@
 		"longitude": 14.452891556212226,
 		"name": "Omersova",
 		"ref_id": "804202",
-		"route_groups_on_station": ["5", "23"]
+		"route_groups_on_station": ["5"]
 	},
 	{
 		"latitude": 46.029595645162175,
 		"longitude": 14.439836280552415,
 		"name": "Na Gmajnici",
 		"ref_id": "704062",
-		"route_groups_on_station": ["6", "45", "46", "47", "48", "54", "56"]
+		"route_groups_on_station": ["6", "46", "47", "48", "54", "56"]
 	},
 	{
 		"latitude": 46.08999320304481,
@@ -3357,16 +3294,7 @@
 		"longitude": 14.439073144068358,
 		"name": "Na Gmajnici",
 		"ref_id": "704061",
-		"route_groups_on_station": [
-			"6",
-			"45",
-			"46",
-			"47",
-			"48",
-			"49",
-			"54",
-			"56"
-		]
+		"route_groups_on_station": ["6", "46", "47", "48", "49", "54", "56"]
 	},
 	{
 		"latitude": 46.0902077278098,
@@ -3415,7 +3343,7 @@
 		"longitude": 14.450082904363898,
 		"name": "Murkova",
 		"ref_id": "804211",
-		"route_groups_on_station": ["5", "23"]
+		"route_groups_on_station": ["5"]
 	},
 	{
 		"latitude": 46.09063017127221,
@@ -3423,13 +3351,6 @@
 		"name": "Ruski car",
 		"ref_id": "103132",
 		"route_groups_on_station": ["6", "8", "11"]
-	},
-	{
-		"latitude": 46.0779913931611,
-		"longitude": 14.455469889811692,
-		"name": "Krivec",
-		"ref_id": "804412",
-		"route_groups_on_station": ["23"]
 	},
 	{
 		"latitude": 46.037425043529595,
@@ -3451,13 +3372,6 @@
 		"name": "Trata",
 		"ref_id": "804011",
 		"route_groups_on_station": ["1", "25", "60"]
-	},
-	{
-		"latitude": 46.07848384105958,
-		"longitude": 14.455398359458208,
-		"name": "Krivec",
-		"ref_id": "804411",
-		"route_groups_on_station": ["23"]
 	},
 	{
 		"latitude": 45.99992145590606,
@@ -3485,7 +3399,7 @@
 		"longitude": 14.448434218110016,
 		"name": "Murkova",
 		"ref_id": "804212",
-		"route_groups_on_station": ["5", "23"]
+		"route_groups_on_station": ["5"]
 	},
 	{
 		"latitude": 46.089302215825114,
@@ -3555,14 +3469,14 @@
 		"longitude": 14.458467139435953,
 		"name": "Zapuže",
 		"ref_id": "804381",
-		"route_groups_on_station": ["22", "23"]
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 46.08344225294732,
 		"longitude": 14.458579264758509,
 		"name": "Zapuže",
 		"ref_id": "804382",
-		"route_groups_on_station": ["22", "23"]
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 46.09352497210702,
@@ -3625,7 +3539,7 @@
 		"longitude": 14.443897770003396,
 		"name": "PODUTIK",
 		"ref_id": "804221",
-		"route_groups_on_station": ["5", "23"]
+		"route_groups_on_station": ["5"]
 	},
 	{
 		"latitude": 46.0945585542683,
@@ -3653,7 +3567,7 @@
 		"longitude": 14.455612329233134,
 		"name": "Kamnogoriška",
 		"ref_id": "804391",
-		"route_groups_on_station": ["22", "23"]
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 46.0545680008407,
@@ -3670,18 +3584,18 @@
 		"route_groups_on_station": ["56"]
 	},
 	{
-		"latitude": 46.08359239164463,
-		"longitude": 14.45559801501054,
-		"name": "Kamnogoriška",
-		"ref_id": "804392",
-		"route_groups_on_station": ["22", "23"]
-	},
-	{
 		"latitude": 46.03916061491306,
 		"longitude": 14.429097205143602,
 		"name": "Podsmreka GD",
 		"ref_id": "715031",
 		"route_groups_on_station": ["56"]
+	},
+	{
+		"latitude": 46.08359239164463,
+		"longitude": 14.45559801501054,
+		"name": "Kamnogoriška",
+		"ref_id": "804392",
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 45.99734534120731,
@@ -3747,18 +3661,18 @@
 		"route_groups_on_station": ["11", "20", "25", "27"]
 	},
 	{
-		"latitude": 46.08206429124962,
-		"longitude": 14.450661070256245,
-		"name": "Dolnice",
-		"ref_id": "804401",
-		"route_groups_on_station": ["22", "23"]
-	},
-	{
 		"latitude": 46.04692008268994,
 		"longitude": 14.42726114203812,
 		"name": "Draževnik",
 		"ref_id": "715011",
 		"route_groups_on_station": ["56"]
+	},
+	{
+		"latitude": 46.08206429124962,
+		"longitude": 14.450661070256245,
+		"name": "Dolnice",
+		"ref_id": "804401",
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 46.04327217720917,
@@ -3779,7 +3693,7 @@
 		"longitude": 14.450289721043827,
 		"name": "Dolnice",
 		"ref_id": "804402",
-		"route_groups_on_station": ["22", "23"]
+		"route_groups_on_station": ["22"]
 	},
 	{
 		"latitude": 46.0429388708784,
@@ -3817,6 +3731,13 @@
 		"route_groups_on_station": ["21"]
 	},
 	{
+		"latitude": 46.04977006324174,
+		"longitude": 14.424676669133472,
+		"name": "Razori K",
+		"ref_id": "714043",
+		"route_groups_on_station": ["56"]
+	},
+	{
 		"latitude": 46.0506939515184,
 		"longitude": 14.424764182178144,
 		"name": "Razori K",
@@ -3824,8 +3745,8 @@
 		"route_groups_on_station": ["51"]
 	},
 	{
-		"latitude": 46.0982228303039,
-		"longitude": 14.514019674405032,
+		"latitude": 46.09823019023547,
+		"longitude": 14.514031152448895,
 		"name": "JEŽICA P+R",
 		"ref_id": "104321",
 		"route_groups_on_station": ["11"]
@@ -3849,7 +3770,7 @@
 		"longitude": 14.554267062027478,
 		"name": "Lavrica pri Malči",
 		"ref_id": "504082",
-		"route_groups_on_station": ["3", "68", "69", "76", "82"]
+		"route_groups_on_station": ["3", "68", "76", "82"]
 	},
 	{
 		"latitude": 46.05096922003402,
@@ -3919,7 +3840,7 @@
 		"longitude": 14.555257361117198,
 		"name": "Lavrica pri Malči",
 		"ref_id": "504081",
-		"route_groups_on_station": ["3", "68", "69", "76", "82"]
+		"route_groups_on_station": ["3", "68", "76", "82"]
 	},
 	{
 		"latitude": 46.053756979112066,
@@ -4175,10 +4096,10 @@
 	},
 	{
 		"latitude": 46.05405154022176,
-		"longitude": 14.417336113125163,
+		"longitude": 14.417336113125161,
 		"name": "Dobrova",
 		"ref_id": "725014",
-		"route_groups_on_station": ["51", "56"]
+		"route_groups_on_station": ["56"]
 	},
 	{
 		"latitude": 46.09615906996367,
@@ -4269,7 +4190,14 @@
 		"longitude": 14.531403235979742,
 		"name": "Rogovilc",
 		"ref_id": "104112",
-		"route_groups_on_station": ["6", "21", "28"]
+		"route_groups_on_station": ["6", "21"]
+	},
+	{
+		"latitude": 46.10291157376913,
+		"longitude": 14.530357988591737,
+		"name": "Primožičeva",
+		"ref_id": "104113",
+		"route_groups_on_station": ["28"]
 	},
 	{
 		"latitude": 45.990974512306586,
@@ -4304,7 +4232,7 @@
 		"longitude": 14.417820967419498,
 		"name": "Pri Poku",
 		"ref_id": "704081",
-		"route_groups_on_station": ["6", "45", "46", "47", "48", "49", "54"]
+		"route_groups_on_station": ["6", "46", "47", "48", "49", "54"]
 	},
 	{
 		"latitude": 46.05420808650067,
@@ -4332,7 +4260,7 @@
 		"longitude": 14.533932175404896,
 		"name": "Črnuče",
 		"ref_id": "104162",
-		"route_groups_on_station": ["21", "28"]
+		"route_groups_on_station": ["21"]
 	},
 	{
 		"latitude": 46.074371509223,
@@ -4381,7 +4309,14 @@
 		"longitude": 14.534587367601016,
 		"name": "Črnuče",
 		"ref_id": "104163",
-		"route_groups_on_station": ["21", "28"]
+		"route_groups_on_station": ["21"]
+	},
+	{
+		"latitude": 46.0575413050107,
+		"longitude": 14.413141905763013,
+		"name": "OŠ Dobrova",
+		"ref_id": "725151",
+		"route_groups_on_station": ["51"]
 	},
 	{
 		"latitude": 46.10026245614144,
@@ -4389,6 +4324,13 @@
 		"name": "Vižmarje",
 		"ref_id": "804251",
 		"route_groups_on_station": ["1", "25"]
+	},
+	{
+		"latitude": 46.105934526073824,
+		"longitude": 14.525825354440183,
+		"name": "Polanškova",
+		"ref_id": "104121",
+		"route_groups_on_station": ["28"]
 	},
 	{
 		"latitude": 46.10072171936247,
@@ -4412,6 +4354,13 @@
 		"route_groups_on_station": ["1", "15", "25"]
 	},
 	{
+		"latitude": 46.10636402184764,
+		"longitude": 14.52563491232641,
+		"name": "Polanškova",
+		"ref_id": "104122",
+		"route_groups_on_station": ["28"]
+	},
+	{
 		"latitude": 46.10426394377084,
 		"longitude": 14.536041912278947,
 		"name": "ČRNUČE",
@@ -4433,6 +4382,13 @@
 		"route_groups_on_station": ["6"]
 	},
 	{
+		"latitude": 46.10497124824782,
+		"longitude": 14.53455485128624,
+		"name": "OŠ Maksa Pečarja",
+		"ref_id": "104152",
+		"route_groups_on_station": ["28"]
+	},
+	{
 		"latitude": 45.989455726118834,
 		"longitude": 14.451918201260836,
 		"name": "Jurečič",
@@ -4445,6 +4401,13 @@
 		"name": "Zadvor-2",
 		"ref_id": "404151",
 		"route_groups_on_station": ["24"]
+	},
+	{
+		"latitude": 46.10548101785228,
+		"longitude": 14.534547285800205,
+		"name": "OŠ Maksa Pečarja",
+		"ref_id": "104151",
+		"route_groups_on_station": ["28"]
 	},
 	{
 		"latitude": 46.0358791993324,
@@ -4510,13 +4473,6 @@
 		"route_groups_on_station": ["10"]
 	},
 	{
-		"latitude": 46.07387356662772,
-		"longitude": 14.58807975035689,
-		"name": "Za travniki",
-		"ref_id": "204371",
-		"route_groups_on_station": ["10"]
-	},
-	{
 		"latitude": 46.103804674143994,
 		"longitude": 14.462717935916995,
 		"name": "Na klancu",
@@ -4524,11 +4480,18 @@
 		"route_groups_on_station": ["1", "8", "15"]
 	},
 	{
+		"latitude": 46.07387356662772,
+		"longitude": 14.58807975035689,
+		"name": "Za travniki",
+		"ref_id": "204371",
+		"route_groups_on_station": ["10"]
+	},
+	{
 		"latitude": 46.017975899778676,
 		"longitude": 14.415209588940364,
 		"name": "Šolska",
 		"ref_id": "744011",
-		"route_groups_on_station": ["6", "45", "49"]
+		"route_groups_on_station": ["6", "49"]
 	},
 	{
 		"latitude": 46.10012841548064,
@@ -4557,6 +4520,13 @@
 		"name": "Zasavska",
 		"ref_id": "104172",
 		"route_groups_on_station": ["21"]
+	},
+	{
+		"latitude": 46.107490560188374,
+		"longitude": 14.532882587901701,
+		"name": "Pot v Hrastovec",
+		"ref_id": "104142",
+		"route_groups_on_station": ["28"]
 	},
 	{
 		"latitude": 46.10394803076309,
@@ -4591,7 +4561,7 @@
 		"longitude": 14.414465625719654,
 		"name": "Šolska",
 		"ref_id": "744012",
-		"route_groups_on_station": ["6", "45"]
+		"route_groups_on_station": ["6"]
 	},
 	{
 		"latitude": 46.035091856863076,
@@ -4601,11 +4571,32 @@
 		"route_groups_on_station": ["24", "26"]
 	},
 	{
+		"latitude": 46.10834153155846,
+		"longitude": 14.532181889550563,
+		"name": "Pot v Hrastovec",
+		"ref_id": "104141",
+		"route_groups_on_station": ["28"]
+	},
+	{
+		"latitude": 46.10925109513891,
+		"longitude": 14.52765439216046,
+		"name": "Pot v Smrečje",
+		"ref_id": "104131",
+		"route_groups_on_station": ["28"]
+	},
+	{
 		"latitude": 46.072639448172936,
 		"longitude": 14.591217693318125,
 		"name": "Cesta v Zajčjo Dobravo",
 		"ref_id": "204341",
 		"route_groups_on_station": ["10"]
+	},
+	{
+		"latitude": 46.109280252079,
+		"longitude": 14.528425506844416,
+		"name": "Pot v Smrečje",
+		"ref_id": "104132",
+		"route_groups_on_station": ["28"]
 	},
 	{
 		"latitude": 46.0721559460294,
@@ -4724,7 +4715,7 @@
 		"longitude": 14.413039088479925,
 		"name": "Japelj",
 		"ref_id": "744021",
-		"route_groups_on_station": ["6", "45", "49"]
+		"route_groups_on_station": ["6", "49"]
 	},
 	{
 		"latitude": 45.97361503719094,
@@ -4780,7 +4771,7 @@
 		"longitude": 14.412720498036956,
 		"name": "Japelj",
 		"ref_id": "744022",
-		"route_groups_on_station": ["6", "45"]
+		"route_groups_on_station": ["6"]
 	},
 	{
 		"latitude": 46.109222438049215,
@@ -4811,8 +4802,8 @@
 		"route_groups_on_station": ["26"]
 	},
 	{
-		"latitude": 46.0628700289552,
-		"longitude": 14.603294144520376,
+		"latitude": 46.06287002895763,
+		"longitude": 14.603294144579284,
 		"name": "ZALOG",
 		"ref_id": "204313",
 		"route_groups_on_station": ["10", "11", "20"]
@@ -4990,14 +4981,14 @@
 		"longitude": 14.571328208626074,
 		"name": "Škofljica žaga",
 		"ref_id": "504111",
-		"route_groups_on_station": ["3", "68", "69", "76", "82"]
+		"route_groups_on_station": ["3", "68", "76", "82"]
 	},
 	{
 		"latitude": 46.002210457831026,
 		"longitude": 14.413484914264643,
 		"name": "Erbežnik",
 		"ref_id": "745021",
-		"route_groups_on_station": ["6", "45", "49"]
+		"route_groups_on_station": ["6", "49"]
 	},
 	{
 		"latitude": 46.11311395579182,
@@ -5011,7 +5002,7 @@
 		"longitude": 14.571655094526289,
 		"name": "Škofljica žaga",
 		"ref_id": "504112",
-		"route_groups_on_station": ["3", "68", "69", "76", "82"]
+		"route_groups_on_station": ["3", "68", "76", "82"]
 	},
 	{
 		"latitude": 46.10600477457727,
@@ -5025,7 +5016,7 @@
 		"longitude": 14.413228318177623,
 		"name": "Erbežnik",
 		"ref_id": "745022",
-		"route_groups_on_station": ["6", "45"]
+		"route_groups_on_station": ["6"]
 	},
 	{
 		"latitude": 46.06912965153969,
@@ -5238,18 +5229,18 @@
 		"route_groups_on_station": ["12"]
 	},
 	{
-		"latitude": 46.108691985234685,
-		"longitude": 14.43656553702543,
-		"name": "STANEŽIČE nas.",
-		"ref_id": "804361",
-		"route_groups_on_station": ["15"]
-	},
-	{
 		"latitude": 45.98557870505172,
 		"longitude": 14.581021774590248,
 		"name": "Škofljica Javornik",
 		"ref_id": "505012",
 		"route_groups_on_station": ["3"]
+	},
+	{
+		"latitude": 46.108691985234685,
+		"longitude": 14.43656553702543,
+		"name": "STANEŽIČE nas.",
+		"ref_id": "804361",
+		"route_groups_on_station": ["15"]
 	},
 	{
 		"latitude": 46.12346616182464,
@@ -5347,7 +5338,7 @@
 		"longitude": 14.407908190270291,
 		"name": "Mostiček",
 		"ref_id": "745031",
-		"route_groups_on_station": ["6", "45", "49"]
+		"route_groups_on_station": ["6", "49"]
 	},
 	{
 		"latitude": 46.06114259207496,
@@ -5389,7 +5380,7 @@
 		"longitude": 14.575408695102059,
 		"name": "ŠKOFLJICA obrač.",
 		"ref_id": "515013",
-		"route_groups_on_station": ["3", "82", "83", "85"]
+		"route_groups_on_station": ["3", "82", "85"]
 	},
 	{
 		"latitude": 46.12584179665756,
@@ -5445,7 +5436,7 @@
 		"longitude": 14.406388063379588,
 		"name": "Mostiček",
 		"ref_id": "745032",
-		"route_groups_on_station": ["6", "45"]
+		"route_groups_on_station": ["6"]
 	},
 	{
 		"latitude": 46.124333879150306,
@@ -5662,14 +5653,14 @@
 		"longitude": 14.575073171419504,
 		"name": "Glinek/Škofljici",
 		"ref_id": "515022",
-		"route_groups_on_station": ["82", "83"]
+		"route_groups_on_station": ["82"]
 	},
 	{
 		"latitude": 45.971236728517816,
 		"longitude": 14.575342666735196,
 		"name": "Glinek/Škofljici",
 		"ref_id": "515021",
-		"route_groups_on_station": ["82", "83"]
+		"route_groups_on_station": ["82"]
 	},
 	{
 		"latitude": 45.97142830289433,
@@ -5684,6 +5675,13 @@
 		"name": "OŠ Jezero",
 		"ref_id": "745101",
 		"route_groups_on_station": ["19"]
+	},
+	{
+		"latitude": 45.971468453992486,
+		"longitude": 14.576797943085204,
+		"name": "Glinek Gumnišče",
+		"ref_id": "515131",
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.1063265595395,
@@ -5728,20 +5726,6 @@
 		"route_groups_on_station": ["21"]
 	},
 	{
-		"latitude": 45.98792810229136,
-		"longitude": 14.402508401882203,
-		"name": "Notranje Gorice",
-		"ref_id": "745041",
-		"route_groups_on_station": ["45", "49"]
-	},
-	{
-		"latitude": 45.98802731670307,
-		"longitude": 14.40235278587318,
-		"name": "Notranje Gorice",
-		"ref_id": "745042",
-		"route_groups_on_station": ["45"]
-	},
-	{
 		"latitude": 45.98782126198792,
 		"longitude": 14.401721615912663,
 		"name": "NOT. GORICE",
@@ -5753,7 +5737,7 @@
 		"longitude": 14.420023031199985,
 		"name": "Podpeč",
 		"ref_id": "745121",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 45.955773087858915,
@@ -5802,7 +5786,7 @@
 		"longitude": 14.419578384660202,
 		"name": "Podpeč",
 		"ref_id": "745122",
-		"route_groups_on_station": ["43", "44", "45"]
+		"route_groups_on_station": ["43", "44"]
 	},
 	{
 		"latitude": 45.98154823449373,
@@ -5810,6 +5794,13 @@
 		"name": "Mali vrh",
 		"ref_id": "505041",
 		"route_groups_on_station": ["3"]
+	},
+	{
+		"latitude": 45.96659504170537,
+		"longitude": 14.574677919431664,
+		"name": "Gumnišče center",
+		"ref_id": "515141",
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.966444699709136,
@@ -5938,25 +5929,18 @@
 		"route_groups_on_station": ["54"]
 	},
 	{
-		"latitude": 46.04021516959985,
-		"longitude": 14.64010755657157,
-		"name": "Javor",
-		"ref_id": "405011",
-		"route_groups_on_station": ["26"]
-	},
-	{
-		"latitude": 46.0401976664313,
-		"longitude": 14.640260124901438,
-		"name": "Javor",
-		"ref_id": "405012",
-		"route_groups_on_station": ["26"]
-	},
-	{
 		"latitude": 46.066273820736555,
 		"longitude": 14.636826562655052,
 		"name": "Ostrovrhar",
 		"ref_id": "204362",
 		"route_groups_on_station": ["10"]
+	},
+	{
+		"latitude": 45.963512812267425,
+		"longitude": 14.57755254417614,
+		"name": "Gumnišče 1",
+		"ref_id": "515151",
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.06658460318867,
@@ -6078,13 +6062,6 @@
 		"route_groups_on_station": ["10"]
 	},
 	{
-		"latitude": 46.03806446831156,
-		"longitude": 14.645587100170655,
-		"name": "Baron",
-		"ref_id": "405122",
-		"route_groups_on_station": ["26"]
-	},
-	{
 		"latitude": 45.946872115013534,
 		"longitude": 14.531846513115976,
 		"name": "Dobravica K",
@@ -6113,18 +6090,18 @@
 		"route_groups_on_station": ["26"]
 	},
 	{
-		"latitude": 46.14197542436657,
-		"longitude": 14.478438704852067,
-		"name": "Povodje",
-		"ref_id": "825012",
-		"route_groups_on_station": ["60"]
-	},
-	{
 		"latitude": 45.944455995463684,
 		"longitude": 14.5095235216287,
 		"name": "Iška vas šola",
 		"ref_id": "625061",
 		"route_groups_on_station": ["19"]
+	},
+	{
+		"latitude": 46.14197542436657,
+		"longitude": 14.478438704852067,
+		"name": "Povodje",
+		"ref_id": "825012",
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.943875186728775,
@@ -6134,18 +6111,18 @@
 		"route_groups_on_station": ["19"]
 	},
 	{
-		"latitude": 45.96652855958623,
-		"longitude": 14.41156112555091,
-		"name": "Podpeč/Lj. Jereb",
-		"ref_id": "745071",
-		"route_groups_on_station": ["43", "44", "45", "49"]
-	},
-	{
 		"latitude": 45.96675408383295,
 		"longitude": 14.411183835285117,
 		"name": "Podpeč/Lj. Jereb",
 		"ref_id": "745072",
-		"route_groups_on_station": ["43", "44", "45"]
+		"route_groups_on_station": ["43", "44"]
+	},
+	{
+		"latitude": 45.96652855958623,
+		"longitude": 14.41156112555091,
+		"name": "Podpeč/Lj. Jereb",
+		"ref_id": "745071",
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 46.135732714426126,
@@ -6204,6 +6181,13 @@
 		"route_groups_on_station": ["15"]
 	},
 	{
+		"latitude": 45.960380158638294,
+		"longitude": 14.58574521680999,
+		"name": "Gornje Blato Center",
+		"ref_id": "515161",
+		"route_groups_on_station": ["85"]
+	},
+	{
 		"latitude": 45.96017967863793,
 		"longitude": 14.585601486392024,
 		"name": "Gornje Blato Center",
@@ -6250,7 +6234,7 @@
 		"longitude": 14.613113515617206,
 		"name": "Šmarje",
 		"ref_id": "505061",
-		"route_groups_on_station": ["3", "68", "69"]
+		"route_groups_on_station": ["3", "68"]
 	},
 	{
 		"latitude": 46.03681190252358,
@@ -6285,7 +6269,7 @@
 		"longitude": 14.614011537226595,
 		"name": "Šmarje",
 		"ref_id": "505062",
-		"route_groups_on_station": ["3", "68", "69"]
+		"route_groups_on_station": ["3", "68"]
 	},
 	{
 		"latitude": 45.940589220367535,
@@ -6306,14 +6290,14 @@
 		"longitude": 14.572836392470187,
 		"name": "Pijava Gorica",
 		"ref_id": "515032",
-		"route_groups_on_station": ["82", "83", "85"]
+		"route_groups_on_station": ["82", "85"]
 	},
 	{
 		"latitude": 45.95216635201268,
 		"longitude": 14.57270164501195,
 		"name": "Pijava Gorica",
 		"ref_id": "515031",
-		"route_groups_on_station": ["82", "83", "85"]
+		"route_groups_on_station": ["82", "85"]
 	},
 	{
 		"latitude": 45.95292447664041,
@@ -6330,6 +6314,13 @@
 		"route_groups_on_station": ["19"]
 	},
 	{
+		"latitude": 45.9527239683525,
+		"longitude": 14.574965407530954,
+		"name": "Cesta na Drenik 2",
+		"ref_id": "515211",
+		"route_groups_on_station": ["85"]
+	},
+	{
 		"latitude": 45.957623431560684,
 		"longitude": 14.586679474182091,
 		"name": "Gornje Blato 1",
@@ -6337,18 +6328,25 @@
 		"route_groups_on_station": ["85"]
 	},
 	{
+		"latitude": 45.957823913594865,
+		"longitude": 14.587110666239266,
+		"name": "Gornje Blato 1",
+		"ref_id": "515171",
+		"route_groups_on_station": ["85"]
+	},
+	{
 		"latitude": 45.96607137150805,
 		"longitude": 14.40315276154747,
 		"name": "Kamnik pod Krimom K.",
 		"ref_id": "745081",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 45.96597114267331,
 		"longitude": 14.402937159590207,
 		"name": "Kamnik pod Krimom K.",
 		"ref_id": "745082",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 46.13717813824867,
@@ -6369,7 +6367,7 @@
 		"longitude": 14.573060974614092,
 		"name": "Smrjene 4",
 		"ref_id": "515062",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.13750237964541,
@@ -6390,7 +6388,7 @@
 		"longitude": 14.573564032321858,
 		"name": "Smrjene 4",
 		"ref_id": "515061",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.03542673578734,
@@ -6411,14 +6409,14 @@
 		"longitude": 14.486481284641044,
 		"name": "Vojsko",
 		"ref_id": "826081",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.149429908160016,
 		"longitude": 14.486224060830544,
 		"name": "Vojsko",
 		"ref_id": "826082",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.952932897277066,
@@ -6440,6 +6438,13 @@
 		"name": "Študa trgovina",
 		"ref_id": "204472",
 		"route_groups_on_station": ["12"]
+	},
+	{
+		"latitude": 45.95142050206773,
+		"longitude": 14.580319389286867,
+		"name": "Cesta na Drenik 1",
+		"ref_id": "515201",
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.97346677805662,
@@ -6474,7 +6479,7 @@
 		"longitude": 14.416357802585313,
 		"name": "Preserje pod Krimom",
 		"ref_id": "746012",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 45.95508219109395,
@@ -6554,13 +6559,6 @@
 		"route_groups_on_station": ["26"]
 	},
 	{
-		"latitude": 46.0125278980418,
-		"longitude": 14.652871181954815,
-		"name": "Javor-2",
-		"ref_id": "425011",
-		"route_groups_on_station": ["26"]
-	},
-	{
 		"latitude": 45.94503528960891,
 		"longitude": 14.56781480352483,
 		"name": "Želimlje Rogovilec",
@@ -6568,10 +6566,24 @@
 		"route_groups_on_station": ["82", "85"]
 	},
 	{
+		"latitude": 46.0125278980418,
+		"longitude": 14.652871181954815,
+		"name": "Javor-2",
+		"ref_id": "425011",
+		"route_groups_on_station": ["26"]
+	},
+	{
 		"latitude": 45.9522725172052,
 		"longitude": 14.587056777045442,
 		"name": "Gornje Blato 2",
 		"ref_id": "515182",
+		"route_groups_on_station": ["85"]
+	},
+	{
+		"latitude": 45.95233516866087,
+		"longitude": 14.587398138708707,
+		"name": "Gornje Blato 2",
+		"ref_id": "515181",
 		"route_groups_on_station": ["85"]
 	},
 	{
@@ -6586,7 +6598,7 @@
 		"longitude": 14.40836267246086,
 		"name": "Kamnik pod Krimom",
 		"ref_id": "745091",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 46.02739994282043,
@@ -6600,7 +6612,7 @@
 		"longitude": 14.408200968537425,
 		"name": "Kamnik pod Krimom",
 		"ref_id": "745092",
-		"route_groups_on_station": ["43", "44", "45", "49"]
+		"route_groups_on_station": ["43", "44", "49"]
 	},
 	{
 		"latitude": 46.140682820797466,
@@ -6649,7 +6661,7 @@
 		"longitude": 14.48381477407614,
 		"name": "Skaručna",
 		"ref_id": "825022",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.13475429480188,
@@ -6722,18 +6734,11 @@
 		"route_groups_on_station": ["85"]
 	},
 	{
-		"latitude": 45.963064499582586,
-		"longitude": 14.391959495429552,
-		"name": "Prevalje pod Krimom",
-		"ref_id": "756012",
-		"route_groups_on_station": ["43", "45"]
-	},
-	{
-		"latitude": 45.9627136680721,
-		"longitude": 14.391995414284214,
-		"name": "Prevalje pod Krimom",
-		"ref_id": "756011",
-		"route_groups_on_station": ["43", "45", "49"]
+		"latitude": 45.94809923801249,
+		"longitude": 14.585601508774916,
+		"name": "Cesta na Drenik",
+		"ref_id": "515191",
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.137972158084374,
@@ -6764,18 +6769,18 @@
 		"route_groups_on_station": ["51"]
 	},
 	{
-		"latitude": 46.138282197964266,
-		"longitude": 14.413458964226148,
-		"name": "Medvoška a.p.",
-		"ref_id": "805011",
-		"route_groups_on_station": ["15", "25"]
-	},
-	{
 		"latitude": 45.99223254776388,
 		"longitude": 14.647859465854687,
 		"name": "MALI LIPOGLAV",
 		"ref_id": "415061",
 		"route_groups_on_station": ["26"]
+	},
+	{
+		"latitude": 46.138282197964266,
+		"longitude": 14.413458964226148,
+		"name": "Medvoška a.p.",
+		"ref_id": "805011",
+		"route_groups_on_station": ["15", "25"]
 	},
 	{
 		"latitude": 45.940505861010806,
@@ -6806,18 +6811,18 @@
 		"route_groups_on_station": ["12"]
 	},
 	{
-		"latitude": 46.1363312098906,
-		"longitude": 14.600285734265928,
-		"name": "Stadion Domžale",
-		"ref_id": "204462",
-		"route_groups_on_station": ["21"]
-	},
-	{
 		"latitude": 46.139255931727305,
 		"longitude": 14.594226363381672,
 		"name": "Domžale",
 		"ref_id": "105142",
 		"route_groups_on_station": ["12"]
+	},
+	{
+		"latitude": 46.1363312098906,
+		"longitude": 14.600285734265928,
+		"name": "Stadion Domžale",
+		"ref_id": "204462",
+		"route_groups_on_station": ["21"]
 	},
 	{
 		"latitude": 46.1359956649475,
@@ -6834,18 +6839,18 @@
 		"route_groups_on_station": ["42"]
 	},
 	{
+		"latitude": 46.15857765491188,
+		"longitude": 14.504426021073293,
+		"name": "Vesca",
+		"ref_id": "826061",
+		"route_groups_on_station": ["60"]
+	},
+	{
 		"latitude": 46.14312601076439,
 		"longitude": 14.420214171718435,
 		"name": "Verje",
 		"ref_id": "835011",
 		"route_groups_on_station": ["15"]
-	},
-	{
-		"latitude": 46.15857765491188,
-		"longitude": 14.504426021073293,
-		"name": "Vesca",
-		"ref_id": "826061",
-		"route_groups_on_station": ["60", "61"]
 	},
 	{
 		"latitude": 46.13636314220962,
@@ -6859,7 +6864,7 @@
 		"longitude": 14.504332643206624,
 		"name": "Vesca",
 		"ref_id": "826062",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.93174236169944,
@@ -6950,7 +6955,7 @@
 		"longitude": 14.51209760756026,
 		"name": "Selo Mali Dunaj",
 		"ref_id": "826101",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.13730697864327,
@@ -6964,7 +6969,7 @@
 		"longitude": 14.512415376236998,
 		"name": "Selo Mali Dunaj",
 		"ref_id": "826102",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.141754973411075,
@@ -7006,7 +7011,7 @@
 		"longitude": 14.49147191262685,
 		"name": "Polje obračališče",
 		"ref_id": "825031",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.16283138399854,
@@ -7062,7 +7067,7 @@
 		"longitude": 14.516415224594077,
 		"name": "Selo pri Vodicah",
 		"ref_id": "826052",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.0603776789922,
@@ -7097,21 +7102,21 @@
 		"longitude": 14.52792314218753,
 		"name": "Šinkov Turn hrib",
 		"ref_id": "826141",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.16369228221918,
 		"longitude": 14.516958989030844,
 		"name": "Selo pri Vodicah",
 		"ref_id": "826051",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.162913026893236,
 		"longitude": 14.52790687644108,
 		"name": "Šinkov Turn hrib",
 		"ref_id": "826142",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.14246770469306,
@@ -7191,18 +7196,11 @@
 		"route_groups_on_station": ["10", "26"]
 	},
 	{
-		"latitude": 45.95391725949867,
-		"longitude": 14.384179586317725,
-		"name": "Goričica pod Krimom",
-		"ref_id": "756022",
-		"route_groups_on_station": ["43", "45"]
-	},
-	{
-		"latitude": 45.95371674957222,
-		"longitude": 14.384305341864259,
-		"name": "Goričica pod Krimom",
-		"ref_id": "756021",
-		"route_groups_on_station": ["45", "49"]
+		"latitude": 46.165762894155066,
+		"longitude": 14.487081841121505,
+		"name": "Repnje Benk",
+		"ref_id": "825041",
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.03224567827987,
@@ -7212,18 +7210,11 @@
 		"route_groups_on_station": ["10", "26"]
 	},
 	{
-		"latitude": 46.165762894155066,
-		"longitude": 14.487081841121505,
-		"name": "Repnje Benk",
-		"ref_id": "825041",
-		"route_groups_on_station": ["60"]
-	},
-	{
 		"latitude": 46.165855427841294,
 		"longitude": 14.487012456772064,
 		"name": "Repnje Benk",
 		"ref_id": "825042",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.02452766825769,
@@ -7237,14 +7228,14 @@
 		"longitude": 14.531887219845629,
 		"name": "Šinkov Turn",
 		"ref_id": "826132",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.165085100324106,
 		"longitude": 14.532080510532218,
 		"name": "Šinkov Turn",
 		"ref_id": "826131",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.02460916398535,
@@ -7258,42 +7249,42 @@
 		"longitude": 14.577570569418782,
 		"name": "Smrjene 1",
 		"ref_id": "515092",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.93351528435648,
 		"longitude": 14.582915562942237,
 		"name": "Smrjene 2",
 		"ref_id": "515082",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.93338365419072,
 		"longitude": 14.582870646732665,
 		"name": "Smrjene 2",
 		"ref_id": "515081",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.931641207260654,
 		"longitude": 14.577822099363289,
 		"name": "Smrjene 1",
 		"ref_id": "515091",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.93622911986659,
 		"longitude": 14.590973476050191,
 		"name": "Smrjene 3",
 		"ref_id": "515072",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.93626671710568,
 		"longitude": 14.591350770542515,
 		"name": "Smrjene 3",
 		"ref_id": "515071",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.06027042253331,
@@ -7349,7 +7340,7 @@
 		"longitude": 14.514407697326419,
 		"name": "Utik",
 		"ref_id": "826042",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.142725285345406,
@@ -7370,7 +7361,7 @@
 		"longitude": 14.513919263226184,
 		"name": "Utik",
 		"ref_id": "826041",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.142829673169466,
@@ -7384,14 +7375,14 @@
 		"longitude": 14.577528227749568,
 		"name": "Smrjene",
 		"ref_id": "515042",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.92923928456656,
 		"longitude": 14.577820177926,
 		"name": "Smrjene",
 		"ref_id": "515041",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.91976843449325,
@@ -7412,35 +7403,35 @@
 		"longitude": 14.538474823802236,
 		"name": "Koseze Stare",
 		"ref_id": "826122",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.16829018778316,
 		"longitude": 14.538626623803395,
 		"name": "Koseze Stare",
 		"ref_id": "826121",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.16979968438482,
 		"longitude": 14.527819026546734,
 		"name": "Koseze",
 		"ref_id": "826111",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.169867253898744,
 		"longitude": 14.527174271507942,
 		"name": "Koseze",
 		"ref_id": "826112",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.96168232310664,
 		"longitude": 14.644414715581515,
 		"name": "Stara pošta",
 		"ref_id": "505101",
-		"route_groups_on_station": ["3", "68", "69", "76", "78"]
+		"route_groups_on_station": ["3", "68", "76", "78"]
 	},
 	{
 		"latitude": 46.0332782070706,
@@ -7454,7 +7445,7 @@
 		"longitude": 14.481171169201739,
 		"name": "Repnje samostan",
 		"ref_id": "825052",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.17141527858509,
@@ -7482,7 +7473,7 @@
 		"longitude": 14.645290205500235,
 		"name": "Stara pošta",
 		"ref_id": "505102",
-		"route_groups_on_station": ["3", "68", "69", "76", "78"]
+		"route_groups_on_station": ["3", "68", "76", "78"]
 	},
 	{
 		"latitude": 46.158879161630004,
@@ -7517,14 +7508,14 @@
 		"longitude": 14.509067046257734,
 		"name": "Bukovica Anzel",
 		"ref_id": "826031",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.17311468012427,
 		"longitude": 14.508851471996872,
 		"name": "Bukovica Anzel",
 		"ref_id": "826032",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.15699107777286,
@@ -7559,14 +7550,14 @@
 		"longitude": 14.316024282495157,
 		"name": "POLHOV GRADEC",
 		"ref_id": "726012",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.065380316050266,
 		"longitude": 14.315824083772572,
 		"name": "POLHOV GRADEC",
 		"ref_id": "726011",
-		"route_groups_on_station": ["51", "52", "53"]
+		"route_groups_on_station": ["51", "52"]
 	},
 	{
 		"latitude": 45.993419008693635,
@@ -7587,7 +7578,7 @@
 		"longitude": 14.506082720633987,
 		"name": "Bukovica Plevevc",
 		"ref_id": "826022",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.97080613775066,
@@ -7622,28 +7613,28 @@
 		"longitude": 14.50541386636565,
 		"name": "Bukovica Plevevc",
 		"ref_id": "826021",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.966591300029584,
 		"longitude": 14.659056133612525,
 		"name": "Grosuplje Motel",
 		"ref_id": "506011",
-		"route_groups_on_station": ["68", "69", "72", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.966945584560364,
 		"longitude": 14.65996335528683,
 		"name": "Kongo",
 		"ref_id": "505172",
-		"route_groups_on_station": ["3", "68"]
+		"route_groups_on_station": ["3", "68", "72"]
 	},
 	{
 		"latitude": 45.96691821019334,
 		"longitude": 14.659962831183623,
 		"name": "Grosuplje Motel",
 		"ref_id": "506012",
-		"route_groups_on_station": ["68", "69", "72", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 46.17018928452006,
@@ -7671,7 +7662,7 @@
 		"longitude": 14.484556965278957,
 		"name": "Repnje kapelica",
 		"ref_id": "825062",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.16740966178726,
@@ -7762,7 +7753,7 @@
 		"longitude": 14.584200026673443,
 		"name": "Gradišče 1",
 		"ref_id": "515102",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.91104947288306,
@@ -7776,21 +7767,14 @@
 		"longitude": 14.5844515568738,
 		"name": "Gradišče 1",
 		"ref_id": "515101",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.07410383528298,
 		"longitude": 14.311891423564576,
 		"name": "Mačkov graben",
 		"ref_id": "736012",
-		"route_groups_on_station": ["51", "52"]
-	},
-	{
-		"latitude": 46.17453359743054,
-		"longitude": 14.447852194595455,
-		"name": "Hraše center",
-		"ref_id": "816012",
-		"route_groups_on_station": ["30"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.17573617557926,
@@ -7800,11 +7784,18 @@
 		"route_groups_on_station": ["30"]
 	},
 	{
+		"latitude": 46.17453359743054,
+		"longitude": 14.447852194595455,
+		"name": "Hraše center",
+		"ref_id": "816012",
+		"route_groups_on_station": ["30"]
+	},
+	{
 		"latitude": 46.074266990775754,
 		"longitude": 14.311548704875557,
 		"name": "Mačkov graben",
 		"ref_id": "736011",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.956534087848404,
@@ -7825,7 +7816,7 @@
 		"longitude": 14.653203187838898,
 		"name": "GROSUPLJE",
 		"ref_id": "505143",
-		"route_groups_on_station": ["3", "68", "69", "71", "72", "76", "78"]
+		"route_groups_on_station": ["3", "68", "71", "72", "76", "78"]
 	},
 	{
 		"latitude": 45.95897409810253,
@@ -7888,14 +7879,14 @@
 		"longitude": 14.58761361643267,
 		"name": "Gradišče 2",
 		"ref_id": "515111",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.9194538176305,
 		"longitude": 14.58779327681248,
 		"name": "Gradišče 2",
 		"ref_id": "515112",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.1438228447997,
@@ -7912,25 +7903,11 @@
 		"route_groups_on_station": ["3"]
 	},
 	{
-		"latitude": 45.942556347575405,
-		"longitude": 14.368647144591204,
-		"name": "Pako",
-		"ref_id": "756031",
-		"route_groups_on_station": ["45", "49"]
-	},
-	{
 		"latitude": 46.179575041126085,
 		"longitude": 14.467397860845908,
 		"name": "Zapoge",
 		"ref_id": "825082",
 		"route_groups_on_station": ["30"]
-	},
-	{
-		"latitude": 45.942575153155886,
-		"longitude": 14.368449511860366,
-		"name": "Pako",
-		"ref_id": "756032",
-		"route_groups_on_station": ["45"]
 	},
 	{
 		"latitude": 45.97760679646079,
@@ -7958,14 +7935,14 @@
 		"longitude": 14.478725752646472,
 		"name": "Dobruša lipa",
 		"ref_id": "825072",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 46.18038122170081,
 		"longitude": 14.471419167722201,
 		"name": "Zapoge obračališče",
 		"ref_id": "825111",
-		"route_groups_on_station": ["30", "60", "61"]
+		"route_groups_on_station": ["30", "60"]
 	},
 	{
 		"latitude": 45.93606836863276,
@@ -7982,24 +7959,31 @@
 		"route_groups_on_station": ["73"]
 	},
 	{
+		"latitude": 45.91873902981213,
+		"longitude": 14.588691580838969,
+		"name": "Gradišče 3",
+		"ref_id": "515122",
+		"route_groups_on_station": ["85"]
+	},
+	{
 		"latitude": 45.91831267802938,
 		"longitude": 14.588547841873647,
 		"name": "Gradišče 3",
 		"ref_id": "515121",
-		"route_groups_on_station": ["83", "85"]
-	},
-	{
-		"latitude": 46.02616102729813,
-		"longitude": 14.701832266302453,
-		"name": "Zg. Besnica",
-		"ref_id": "405071",
-		"route_groups_on_station": ["10", "26"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.02596117046022,
 		"longitude": 14.701799085778852,
 		"name": "Zg. Besnica",
 		"ref_id": "405072",
+		"route_groups_on_station": ["10", "26"]
+	},
+	{
+		"latitude": 46.02616102729813,
+		"longitude": 14.701832266302453,
+		"name": "Zg. Besnica",
+		"ref_id": "405071",
 		"route_groups_on_station": ["10", "26"]
 	},
 	{
@@ -8024,20 +8008,6 @@
 		"route_groups_on_station": ["73"]
 	},
 	{
-		"latitude": 46.058329310307116,
-		"longitude": 14.303143654473438,
-		"name": "Briše pri Polh.G.",
-		"ref_id": "726021",
-		"route_groups_on_station": ["53"]
-	},
-	{
-		"latitude": 46.05817559141701,
-		"longitude": 14.302530058271733,
-		"name": "Briše pri Polh.G.",
-		"ref_id": "726022",
-		"route_groups_on_station": ["53"]
-	},
-	{
 		"latitude": 45.95639588370712,
 		"longitude": 14.6611998895754,
 		"name": "Vodičar",
@@ -8049,7 +8019,7 @@
 		"longitude": 14.495819524136905,
 		"name": "Vodice OŠ",
 		"ref_id": "826092",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.94221001193184,
@@ -8077,7 +8047,7 @@
 		"longitude": 14.495367403238856,
 		"name": "Vodice OŠ",
 		"ref_id": "826091",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.9809149108619,
@@ -8092,20 +8062,6 @@
 		"name": "Krpan",
 		"ref_id": "536022",
 		"route_groups_on_station": ["3"]
-	},
-	{
-		"latitude": 46.04647250618379,
-		"longitude": 14.297407005405674,
-		"name": "Briše pri Polh.G.Koroš.",
-		"ref_id": "726031",
-		"route_groups_on_station": ["53"]
-	},
-	{
-		"latitude": 46.04655718493934,
-		"longitude": 14.297240120466007,
-		"name": "Briše pri Polh.G.Koroš.",
-		"ref_id": "726032",
-		"route_groups_on_station": ["53"]
 	},
 	{
 		"latitude": 45.904188696285146,
@@ -8126,14 +8082,14 @@
 		"longitude": 14.49153491425622,
 		"name": "VODICE",
 		"ref_id": "826012",
-		"route_groups_on_station": ["30", "60", "61"]
+		"route_groups_on_station": ["30", "60"]
 	},
 	{
 		"latitude": 46.18682958226959,
 		"longitude": 14.491309676616126,
 		"name": "VODICE",
 		"ref_id": "826011",
-		"route_groups_on_station": ["60", "61"]
+		"route_groups_on_station": ["60"]
 	},
 	{
 		"latitude": 45.944604643788516,
@@ -8199,13 +8155,6 @@
 		"route_groups_on_station": ["72"]
 	},
 	{
-		"latitude": 45.993780251239954,
-		"longitude": 14.697948338495152,
-		"name": "Troščine",
-		"ref_id": "535052",
-		"route_groups_on_station": ["72"]
-	},
-	{
 		"latitude": 45.983279049568125,
 		"longitude": 14.314516560762115,
 		"name": "Sinja Gorica",
@@ -8224,7 +8173,7 @@
 		"longitude": 14.297396100866276,
 		"name": "Horjul",
 		"ref_id": "716011",
-		"route_groups_on_station": ["50", "56"]
+		"route_groups_on_station": ["56"]
 	},
 	{
 		"latitude": 46.02266849027298,
@@ -8238,42 +8187,42 @@
 		"longitude": 14.363140229431497,
 		"name": "Breg pri Borovnici",
 		"ref_id": "756041",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.9360068689199,
 		"longitude": 14.362888697788705,
 		"name": "Breg pri Borovnici",
 		"ref_id": "756042",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 46.07981495459437,
 		"longitude": 14.300067215784082,
 		"name": "Petačev graben",
 		"ref_id": "736021",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.91136805000667,
 		"longitude": 14.589725524471884,
 		"name": "Vrh nad Želimljami GD",
 		"ref_id": "516051",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.07995907711218,
 		"longitude": 14.29984919213268,
 		"name": "Petačev graben",
 		"ref_id": "736022",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.91129943099682,
 		"longitude": 14.58964106009535,
 		"name": "Vrh nad Želimljami GD",
 		"ref_id": "516052",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.02046903666346,
@@ -8301,7 +8250,7 @@
 		"longitude": 14.590286218093919,
 		"name": "Vrh nad Želimljami 1",
 		"ref_id": "516061",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.90621259908745,
@@ -8315,21 +8264,21 @@
 		"longitude": 14.59014471505283,
 		"name": "Vrh nad Želimljami 1",
 		"ref_id": "516062",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.90833716698437,
 		"longitude": 14.591050527104326,
 		"name": "Vrh nad Želimljami 2",
 		"ref_id": "516071",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 45.90827747396579,
 		"longitude": 14.590896977587288,
 		"name": "Vrh nad Želimljami 2",
 		"ref_id": "516072",
-		"route_groups_on_station": ["83", "85"]
+		"route_groups_on_station": ["85"]
 	},
 	{
 		"latitude": 46.032247747715516,
@@ -8353,25 +8302,18 @@
 		"route_groups_on_station": ["46", "47", "48"]
 	},
 	{
-		"latitude": 45.97802751002902,
-		"longitude": 14.698630583196945,
-		"name": "Peč pri Polici",
-		"ref_id": "535081",
-		"route_groups_on_station": ["72"]
-	},
-	{
 		"latitude": 46.07296232288516,
 		"longitude": 14.289682199492091,
 		"name": "Smolnik žaga",
 		"ref_id": "736032",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.07251348055268,
 		"longitude": 14.289475881241037,
 		"name": "Smolnik žaga",
 		"ref_id": "736031",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.019505451897686,
@@ -8416,13 +8358,6 @@
 		"route_groups_on_station": ["10", "26"]
 	},
 	{
-		"latitude": 45.995009253860616,
-		"longitude": 14.296753075162243,
-		"name": "V. Ligojna",
-		"ref_id": "776051",
-		"route_groups_on_station": ["50"]
-	},
-	{
 		"latitude": 46.02096253548138,
 		"longitude": 14.287383385696641,
 		"name": "Ljubgojna",
@@ -8451,31 +8386,10 @@
 		"route_groups_on_station": ["72"]
 	},
 	{
-		"latitude": 45.99266611532476,
-		"longitude": 14.710155579841722,
-		"name": "Kožljevec",
-		"ref_id": "535062",
-		"route_groups_on_station": ["72"]
-	},
-	{
-		"latitude": 45.98744952573391,
-		"longitude": 14.707416585723532,
-		"name": "Žabja vas",
-		"ref_id": "535072",
-		"route_groups_on_station": ["72"]
-	},
-	{
 		"latitude": 45.95571739390739,
 		"longitude": 14.323584755972426,
 		"name": "Podgora pri Verdu",
 		"ref_id": "756112",
-		"route_groups_on_station": ["49"]
-	},
-	{
-		"latitude": 45.95409377324445,
-		"longitude": 14.324800126659714,
-		"name": "Podgora pri Verdu",
-		"ref_id": "756111",
 		"route_groups_on_station": ["49"]
 	},
 	{
@@ -8486,18 +8400,18 @@
 		"route_groups_on_station": ["72"]
 	},
 	{
-		"latitude": 45.9807146375975,
-		"longitude": 14.703861320558897,
-		"name": "POLICA/VIŠ. G.",
-		"ref_id": "535092",
-		"route_groups_on_station": ["72"]
+		"latitude": 45.95409377324445,
+		"longitude": 14.324800126659714,
+		"name": "Podgora pri Verdu",
+		"ref_id": "756111",
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.92512516735515,
 		"longitude": 14.36412765230422,
 		"name": "Borovnica most",
 		"ref_id": "756051",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.981038120634,
@@ -8511,7 +8425,7 @@
 		"longitude": 14.363878488834096,
 		"name": "Borovnica most",
 		"ref_id": "756052",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.946820604041505,
@@ -8560,7 +8474,7 @@
 		"longitude": 14.367445602401528,
 		"name": "Borovnica ŽP P+R",
 		"ref_id": "756131",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.973510308471475,
@@ -8581,7 +8495,7 @@
 		"longitude": 14.362855283210038,
 		"name": "Borovnica K",
 		"ref_id": "756061",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.92566393620149,
@@ -8605,20 +8519,6 @@
 		"route_groups_on_station": ["10", "26"]
 	},
 	{
-		"latitude": 46.04782420432977,
-		"longitude": 14.27819922060064,
-		"name": "Briše pri Polh.G.M.Voda",
-		"ref_id": "726042",
-		"route_groups_on_station": ["53"]
-	},
-	{
-		"latitude": 46.04774042292976,
-		"longitude": 14.278126801166898,
-		"name": "Briše pri Polh.G.M.Voda",
-		"ref_id": "726041",
-		"route_groups_on_station": ["53"]
-	},
-	{
 		"latitude": 45.93024953061642,
 		"longitude": 14.347992337541271,
 		"name": "Dol pri Borovnici Pivk",
@@ -8630,14 +8530,21 @@
 		"longitude": 14.362163379165796,
 		"name": "Borovnica K",
 		"ref_id": "756062",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
 	},
 	{
 		"latitude": 45.919391013820416,
 		"longitude": 14.364400370652039,
 		"name": "Borovnica Merc.",
 		"ref_id": "756071",
-		"route_groups_on_station": ["45", "49"]
+		"route_groups_on_station": ["49"]
+	},
+	{
+		"latitude": 46.06656727653333,
+		"longitude": 14.278168233086394,
+		"name": "Smolnik Zalog",
+		"ref_id": "736042",
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.88988115734755,
@@ -8647,18 +8554,11 @@
 		"route_groups_on_station": ["42"]
 	},
 	{
-		"latitude": 46.06656727653333,
-		"longitude": 14.278168233086394,
-		"name": "Smolnik Zalog",
-		"ref_id": "736042",
-		"route_groups_on_station": ["51", "52"]
-	},
-	{
 		"latitude": 46.06642679343911,
 		"longitude": 14.277787010893327,
 		"name": "Smolnik Zalog",
 		"ref_id": "736041",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.88935106792451,
@@ -8766,53 +8666,46 @@
 		"route_groups_on_station": ["44"]
 	},
 	{
-		"latitude": 45.973854675338416,
-		"longitude": 14.294918394661572,
-		"name": "Vrhnika OŠ AM Slomška",
-		"ref_id": "999091",
-		"route_groups_on_station": ["46", "47"]
-	},
-	{
 		"latitude": 45.98474784888761,
 		"longitude": 14.28763070205487,
 		"name": "Ligojna K",
 		"ref_id": "776041",
-		"route_groups_on_station": ["46", "50"]
+		"route_groups_on_station": ["46"]
 	},
 	{
 		"latitude": 46.06910422810058,
 		"longitude": 14.273374856352019,
 		"name": "Smolnik Setnik",
 		"ref_id": "736052",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.07653605801839,
 		"longitude": 14.275197585219319,
 		"name": "Smolnik Praprotnik",
 		"ref_id": "737012",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.07664698686362,
 		"longitude": 14.275045621460329,
 		"name": "Smolnik Praprotnik",
 		"ref_id": "737011",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.068800032926355,
 		"longitude": 14.272558667196508,
 		"name": "Smolnik Setnik",
 		"ref_id": "736051",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.96691353713679,
 		"longitude": 14.297835853818071,
 		"name": "Vrhnika Jazon",
 		"ref_id": "705091",
-		"route_groups_on_station": ["46", "49", "50"]
+		"route_groups_on_station": ["46", "49"]
 	},
 	{
 		"latitude": 45.965877397506034,
@@ -8829,32 +8722,18 @@
 		"route_groups_on_station": ["47", "48", "54"]
 	},
 	{
-		"latitude": 46.04478174826245,
-		"longitude": 14.268833540058186,
-		"name": "Butajnova Setnik",
-		"ref_id": "726051",
-		"route_groups_on_station": ["53"]
-	},
-	{
 		"latitude": 45.974017803221,
 		"longitude": 14.291693677366853,
 		"name": "St.Vrhnika K",
 		"ref_id": "776032",
-		"route_groups_on_station": ["46", "50"]
+		"route_groups_on_station": ["46"]
 	},
 	{
 		"latitude": 45.974281006377595,
 		"longitude": 14.291310161359704,
 		"name": "St.Vrhnika K",
 		"ref_id": "776031",
-		"route_groups_on_station": ["46", "50"]
-	},
-	{
-		"latitude": 46.04482400506984,
-		"longitude": 14.268554350559455,
-		"name": "Butajnova Setnik",
-		"ref_id": "726052",
-		"route_groups_on_station": ["53"]
+		"route_groups_on_station": ["46"]
 	},
 	{
 		"latitude": 45.95863317883416,
@@ -8882,14 +8761,14 @@
 		"longitude": 14.274044610038285,
 		"name": "Smolnik nad Hribom",
 		"ref_id": "737021",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.0831637003837,
 		"longitude": 14.27406059229191,
 		"name": "Smolnik nad Hribom",
 		"ref_id": "737022",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.01934323413516,
@@ -8915,7 +8794,7 @@
 	{
 		"latitude": 45.96283489304449,
 		"longitude": 14.294446578124962,
-		"name": "Vrhnika samop.",
+		"name": "Vrhnika ZD",
 		"ref_id": "776012",
 		"route_groups_on_station": ["47", "54"]
 	},
@@ -8938,19 +8817,19 @@
 		"longitude": 14.270823793420414,
 		"name": "Črni Vrh nad Vrhovci",
 		"ref_id": "737031",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 46.08514095038022,
 		"longitude": 14.270860772044943,
 		"name": "Črni Vrh nad Vrhovci",
 		"ref_id": "737032",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.96299238801223,
 		"longitude": 14.293734530543071,
-		"name": "Vrhnika samop.",
+		"name": "Vrhnika ZD",
 		"ref_id": "776011",
 		"route_groups_on_station": ["47", "54"]
 	},
@@ -9011,20 +8890,6 @@
 		"route_groups_on_station": ["71"]
 	},
 	{
-		"latitude": 46.04244987226127,
-		"longitude": 14.259211563201912,
-		"name": "Butajnova Čamernik",
-		"ref_id": "726061",
-		"route_groups_on_station": ["53"]
-	},
-	{
-		"latitude": 46.04251315801081,
-		"longitude": 14.258691077977529,
-		"name": "Butajnova Čamernik",
-		"ref_id": "726062",
-		"route_groups_on_station": ["53"]
-	},
-	{
 		"latitude": 45.960938698177756,
 		"longitude": 14.287746774950804,
 		"name": "Vrhnika hrib",
@@ -9074,13 +8939,6 @@
 		"route_groups_on_station": ["46"]
 	},
 	{
-		"latitude": 45.877962892104435,
-		"longitude": 14.569874897958204,
-		"name": "ZAPOTOK obr.",
-		"ref_id": "606001",
-		"route_groups_on_station": ["42"]
-	},
-	{
 		"latitude": 45.87642622452306,
 		"longitude": 14.5684784763771,
 		"name": "ZAPOTOK",
@@ -9127,7 +8985,7 @@
 		"longitude": 14.254479816903082,
 		"name": "ČRNI VRH",
 		"ref_id": "737041",
-		"route_groups_on_station": ["51", "52"]
+		"route_groups_on_station": ["52"]
 	},
 	{
 		"latitude": 45.88856949225527,
@@ -9186,20 +9044,6 @@
 		"route_groups_on_station": ["46"]
 	},
 	{
-		"latitude": 46.033028069831396,
-		"longitude": 14.236104588097529,
-		"name": "Butajnova",
-		"ref_id": "726071",
-		"route_groups_on_station": ["53"]
-	},
-	{
-		"latitude": 46.03311110058744,
-		"longitude": 14.235954076630009,
-		"name": "Butajnova",
-		"ref_id": "726072",
-		"route_groups_on_station": ["53"]
-	},
-	{
 		"latitude": 45.9380693512572,
 		"longitude": 14.723019006370226,
 		"name": "V. Loka pri Viš. G.",
@@ -9211,14 +9055,14 @@
 		"longitude": 14.743029550110673,
 		"name": "Višnja Gora",
 		"ref_id": "506021",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.95751338302533,
 		"longitude": 14.743783442934404,
 		"name": "Višnja Gora",
 		"ref_id": "506022",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.99702976456298,
@@ -9260,28 +9104,21 @@
 		"longitude": 14.22393125549381,
 		"name": "ŠENTJOŠT",
 		"ref_id": "716051",
-		"route_groups_on_station": ["53", "56"]
+		"route_groups_on_station": ["56"]
 	},
 	{
 		"latitude": 45.95470888319751,
 		"longitude": 14.751870372740882,
 		"name": "St.trg/Višnji G.",
 		"ref_id": "506031",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.9543951486432,
 		"longitude": 14.752196176666324,
 		"name": "St.trg/Višnji G.",
 		"ref_id": "506032",
-		"route_groups_on_station": ["68", "69", "76"]
-	},
-	{
-		"latitude": 46.03863577281351,
-		"longitude": 14.222162494086835,
-		"name": "Kurja vas/Šentjoštu",
-		"ref_id": "727012",
-		"route_groups_on_station": ["53"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 46.001681522444606,
@@ -9296,13 +9133,6 @@
 		"name": "M.Račna",
 		"ref_id": "526042",
 		"route_groups_on_station": ["78"]
-	},
-	{
-		"latitude": 46.03863310848642,
-		"longitude": 14.22191093260254,
-		"name": "Kurja vas/Šentjoštu",
-		"ref_id": "727011",
-		"route_groups_on_station": ["53"]
 	},
 	{
 		"latitude": 45.89873619841404,
@@ -9365,7 +9195,7 @@
 		"longitude": 14.759186613345218,
 		"name": "Podsmreka pri Višnji G.",
 		"ref_id": "506042",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 46.01516630813032,
@@ -9379,7 +9209,7 @@
 		"longitude": 14.759462617049845,
 		"name": "Podsmreka pri Višnji G.",
 		"ref_id": "506041",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 46.01492850405606,
@@ -9405,14 +9235,14 @@
 	{
 		"latitude": 45.9451779086008,
 		"longitude": 14.247053424883246,
-		"name": "Zaplana",
+		"name": "Logatec Cesarski Vrh",
 		"ref_id": "706032",
 		"route_groups_on_station": ["48"]
 	},
 	{
 		"latitude": 45.944738750912734,
 		"longitude": 14.24688360535307,
-		"name": "Zaplana",
+		"name": "Logatec Cesarski Vrh",
 		"ref_id": "706031",
 		"route_groups_on_station": ["48"]
 	},
@@ -9429,13 +9259,6 @@
 		"name": "Čušperk",
 		"ref_id": "526052",
 		"route_groups_on_station": ["78"]
-	},
-	{
-		"latitude": 46.04543730948518,
-		"longitude": 14.207730570629483,
-		"name": "Suhi Dol/Planino",
-		"ref_id": "727021",
-		"route_groups_on_station": ["53"]
 	},
 	{
 		"latitude": 46.02238256251978,
@@ -9498,28 +9321,14 @@
 		"longitude": 14.78022534448517,
 		"name": "Polževo K",
 		"ref_id": "507012",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.941152567386425,
 		"longitude": 14.780482718417264,
 		"name": "Polževo K",
 		"ref_id": "507011",
-		"route_groups_on_station": ["68", "69", "76"]
-	},
-	{
-		"latitude": 46.01162827758503,
-		"longitude": 14.190972419228327,
-		"name": "Smrečje/Vrhniko vrh",
-		"ref_id": "999911",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.0116686581663,
-		"longitude": 14.190850410995441,
-		"name": "Smrečje/Vrhniko vrh",
-		"ref_id": "999912",
-		"route_groups_on_station": ["46"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.85807328081509,
@@ -9527,20 +9336,6 @@
 		"name": "Predstruge",
 		"ref_id": "517031",
 		"route_groups_on_station": ["78"]
-	},
-	{
-		"latitude": 46.01090694720869,
-		"longitude": 14.186347713968377,
-		"name": "Na Pili",
-		"ref_id": "999902",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.01080464904515,
-		"longitude": 14.186314702319498,
-		"name": "Na Pili",
-		"ref_id": "999901",
-		"route_groups_on_station": ["46"]
 	},
 	{
 		"latitude": 45.85786443591243,
@@ -9554,42 +9349,14 @@
 		"longitude": 14.787112720337445,
 		"name": "M.Hudo",
 		"ref_id": "507021",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.93754460519699,
 		"longitude": 14.78828672304727,
 		"name": "M.Hudo",
 		"ref_id": "507022",
-		"route_groups_on_station": ["68", "69", "76"]
-	},
-	{
-		"latitude": 46.01731191409128,
-		"longitude": 14.178090070103615,
-		"name": "Orel/Žireh",
-		"ref_id": "999891",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.01773191095832,
-		"longitude": 14.177823400776143,
-		"name": "Orel/Žireh",
-		"ref_id": "999892",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.023913402045395,
-		"longitude": 14.176816672440108,
-		"name": "Podlesec/Žireh",
-		"ref_id": "999882",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.02392187052654,
-		"longitude": 14.17657535398377,
-		"name": "Podlesec/Žireh",
-		"ref_id": "999881",
-		"route_groups_on_station": ["46"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.85802641192726,
@@ -9610,35 +9377,35 @@
 		"longitude": 14.807041818131319,
 		"name": "Stična K",
 		"ref_id": "507051",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.95609793032385,
 		"longitude": 14.807072527395714,
 		"name": "Stična K",
 		"ref_id": "507052",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.94724884579361,
 		"longitude": 14.802703952000918,
 		"name": "Stična KZ",
 		"ref_id": "507041",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.947042276589315,
 		"longitude": 14.802836763771682,
 		"name": "Stična KZ",
 		"ref_id": "507042",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.94516826621331,
 		"longitude": 14.803212716741,
 		"name": "Ivančna Gorica ŠC",
 		"ref_id": "507071",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.917332710578904,
@@ -9652,7 +9419,7 @@
 		"longitude": 14.8034458623127,
 		"name": "Ivančna Gorica ŠC",
 		"ref_id": "507072",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.917267847313184,
@@ -9680,14 +9447,14 @@
 		"longitude": 14.807303672657099,
 		"name": "Ivančna Gorica ŠC",
 		"ref_id": "507073",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.93830820570865,
 		"longitude": 14.803081756275493,
 		"name": "Ivančna Gorica",
 		"ref_id": "507031",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.93827688063728,
@@ -9708,14 +9475,14 @@
 		"longitude": 14.814375186512981,
 		"name": "Vir pri Stični",
 		"ref_id": "507061",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.949550235594415,
 		"longitude": 14.814641445707885,
 		"name": "Vir pri Stični",
 		"ref_id": "507062",
-		"route_groups_on_station": ["68", "69"]
+		"route_groups_on_station": ["68"]
 	},
 	{
 		"latitude": 45.91562693964177,
@@ -9732,25 +9499,11 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.930990970677755,
-		"longitude": 14.805090890489204,
-		"name": "Mrzlo polje",
-		"ref_id": "567011",
-		"route_groups_on_station": ["76"]
-	},
-	{
 		"latitude": 45.91526502554035,
 		"longitude": 14.213166177987208,
 		"name": "Blekova vas",
 		"ref_id": "707011",
 		"route_groups_on_station": ["48"]
-	},
-	{
-		"latitude": 46.0261646856038,
-		"longitude": 14.157901886851466,
-		"name": "Anžon",
-		"ref_id": "999871",
-		"route_groups_on_station": ["46"]
 	},
 	{
 		"latitude": 45.9259708250888,
@@ -9760,25 +9513,11 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 46.02632293657717,
-		"longitude": 14.157448195145797,
-		"name": "Anžon",
-		"ref_id": "999872",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 45.9200175341028,
-		"longitude": 14.805899790811857,
-		"name": "G.vas/Muljavi K",
-		"ref_id": "567031",
-		"route_groups_on_station": ["76"]
-	},
-	{
 		"latitude": 45.945094479838794,
 		"longitude": 14.824949380454553,
 		"name": "Griže/Stični",
 		"ref_id": "507091",
-		"route_groups_on_station": ["68", "69"]
+		"route_groups_on_station": ["68"]
 	},
 	{
 		"latitude": 45.91945415777302,
@@ -9792,7 +9531,7 @@
 		"longitude": 14.825932290764065,
 		"name": "Griže/Stični",
 		"ref_id": "507092",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.911823161982056,
@@ -9809,46 +9548,32 @@
 		"route_groups_on_station": ["48"]
 	},
 	{
-		"latitude": 46.027750908194655,
-		"longitude": 14.149302462197925,
-		"name": "Debenc",
-		"ref_id": "999862",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.02767323365137,
-		"longitude": 14.14921474140384,
-		"name": "Debenc",
-		"ref_id": "999861",
-		"route_groups_on_station": ["46"]
-	},
-	{
 		"latitude": 45.947985627985645,
 		"longitude": 14.832597346184096,
 		"name": "Glogovica K",
 		"ref_id": "507141",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.94797054222559,
 		"longitude": 14.832906484648529,
 		"name": "Glogovica K",
 		"ref_id": "507142",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.953616237729705,
 		"longitude": 14.836943208366485,
 		"name": "Šentvid pri Stični",
 		"ref_id": "507111",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.953491652508816,
 		"longitude": 14.83807843095536,
 		"name": "Šentvid pri Stični",
 		"ref_id": "507112",
-		"route_groups_on_station": ["68", "69", "76"]
+		"route_groups_on_station": ["68", "76"]
 	},
 	{
 		"latitude": 45.90194773611018,
@@ -9858,80 +9583,10 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.84312851172744,
-		"longitude": 14.718567057248265,
-		"name": "Zagorica/Dobrepolju",
-		"ref_id": "517101",
-		"route_groups_on_station": ["78"]
-	},
-	{
-		"latitude": 45.90199198735132,
-		"longitude": 14.80044518580376,
-		"name": "Muljava",
-		"ref_id": "567041",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 46.037155236796934,
-		"longitude": 14.136890400516808,
-		"name": "Noč",
-		"ref_id": "999852",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.03708304182098,
-		"longitude": 14.136765211176606,
-		"name": "Noč",
-		"ref_id": "999851",
-		"route_groups_on_station": ["46"]
-	},
-	{
 		"latitude": 45.89358683693427,
 		"longitude": 14.799636454836453,
 		"name": "Znojilje K",
 		"ref_id": "567052",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.89378755911172,
-		"longitude": 14.79990596400918,
-		"name": "Znojilje K",
-		"ref_id": "567051",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.947176980744416,
-		"longitude": 14.844657215516989,
-		"name": "Šentvid pri Stični K",
-		"ref_id": "507122",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.94696801398794,
-		"longitude": 14.845026426606882,
-		"name": "Šentvid pri Stični K",
-		"ref_id": "507121",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 46.040713500377734,
-		"longitude": 14.132498479856164,
-		"name": "Račeva",
-		"ref_id": "999842",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.040640553495535,
-		"longitude": 14.13233152791417,
-		"name": "Račeva",
-		"ref_id": "999841",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 45.88245317543458,
-		"longitude": 14.793020480460202,
-		"name": "Gabrovčec K",
-		"ref_id": "567061",
 		"route_groups_on_station": ["76"]
 	},
 	{
@@ -9954,34 +9609,6 @@
 		"name": "Kalce/Logatcu",
 		"ref_id": "707032",
 		"route_groups_on_station": ["48"]
-	},
-	{
-		"latitude": 46.044203928334994,
-		"longitude": 14.12629601871857,
-		"name": "Ganter",
-		"ref_id": "999832",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.04414264327767,
-		"longitude": 14.126236514791522,
-		"name": "Ganter",
-		"ref_id": "999831",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 45.94127777573384,
-		"longitude": 14.850640896131273,
-		"name": "Šentvid pri Stični ŽP",
-		"ref_id": "507131",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.94111745354236,
-		"longitude": 14.850572376902829,
-		"name": "Šentvid pri Stični ŽP",
-		"ref_id": "507132",
-		"route_groups_on_station": ["69"]
 	},
 	{
 		"latitude": 45.87948766958989,
@@ -10012,130 +9639,11 @@
 		"route_groups_on_station": ["48"]
 	},
 	{
-		"latitude": 46.04734106628648,
-		"longitude": 14.120344641729272,
-		"name": "Nova vas/Žireh",
-		"ref_id": "999822",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 46.047237545859225,
-		"longitude": 14.1201391207353,
-		"name": "Nova vas/Žireh",
-		"ref_id": "999821",
-		"route_groups_on_station": ["46"]
-	},
-	{
 		"latitude": 45.873711000618385,
 		"longitude": 14.806211651563434,
 		"name": "V. Lese",
 		"ref_id": "528032",
 		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.87383649701158,
-		"longitude": 14.806553021690451,
-		"name": "V. Lese",
-		"ref_id": "528031",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.956790965977746,
-		"longitude": 14.872889168007413,
-		"name": "Selo pri Radohovi vasi",
-		"ref_id": "508061",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.95681602337105,
-		"longitude": 14.873140702065054,
-		"name": "Selo pri Radohovi vasi",
-		"ref_id": "508062",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.946865511731396,
-		"longitude": 14.868621725715911,
-		"name": "Grm",
-		"ref_id": "508051",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.94687804176848,
-		"longitude": 14.868828342254044,
-		"name": "Grm",
-		"ref_id": "508052",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.93221846842681,
-		"longitude": 14.860922483333907,
-		"name": "Dob/Šentvidu",
-		"ref_id": "508011",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.932074294896566,
-		"longitude": 14.860994344414252,
-		"name": "Dob/Šentvidu",
-		"ref_id": "508012",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.96894464068342,
-		"longitude": 14.881298002212784,
-		"name": "Temenica",
-		"ref_id": "508081",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 46.04736395304069,
-		"longitude": 14.109424569369244,
-		"name": "Žiri",
-		"ref_id": "999812",
-		"route_groups_on_station": ["46"]
-	},
-	{
-		"latitude": 45.964847745853874,
-		"longitude": 14.879896453979395,
-		"name": "Praproče pri Temenici",
-		"ref_id": "508071",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.964697389251114,
-		"longitude": 14.880165948059606,
-		"name": "Praproče pri Temenici",
-		"ref_id": "508072",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.945115621035356,
-		"longitude": 14.872990132099076,
-		"name": "Radohova vas/Šentvidu",
-		"ref_id": "508042",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.945003380664104,
-		"longitude": 14.87299502003907,
-		"name": "Radohova vas/Šentvidu",
-		"ref_id": "508041",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.93844861275663,
-		"longitude": 14.873517326393793,
-		"name": "Škoflje/Šentvidu",
-		"ref_id": "508031",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.938530088191655,
-		"longitude": 14.873732929450295,
-		"name": "Škoflje/Šentvidu",
-		"ref_id": "508032",
-		"route_groups_on_station": ["69"]
 	},
 	{
 		"latitude": 45.87056062960139,
@@ -10145,27 +9653,6 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.87057317399507,
-		"longitude": 14.819488907774407,
-		"name": "Marinča vas",
-		"ref_id": "528041",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.93320235129171,
-		"longitude": 14.873481194104547,
-		"name": "Boga vas",
-		"ref_id": "508021",
-		"route_groups_on_station": ["69"]
-	},
-	{
-		"latitude": 45.93316474031717,
-		"longitude": 14.873588992514739,
-		"name": "Boga vas",
-		"ref_id": "508022",
-		"route_groups_on_station": ["69"]
-	},
-	{
 		"latitude": 45.84800236900173,
 		"longitude": 14.813918515003694,
 		"name": "Kužljevec K",
@@ -10173,45 +9660,10 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.84811536942841,
-		"longitude": 14.814080219503207,
-		"name": "Kužljevec K",
-		"ref_id": "528111",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.86058788143652,
-		"longitude": 14.833394811483501,
-		"name": "Zagradec/Krki",
-		"ref_id": "528052",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.86059415097435,
-		"longitude": 14.833826010689853,
-		"name": "Zagradec/Krki",
-		"ref_id": "528051",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.8545307778444,
-		"longitude": 14.829316180837175,
-		"name": "Grintovec/Zagradcu",
-		"ref_id": "528101",
-		"route_groups_on_station": ["76"]
-	},
-	{
 		"latitude": 45.85458099256269,
 		"longitude": 14.829477881340603,
 		"name": "Grintovec/Zagradcu",
 		"ref_id": "528102",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.857041531837766,
-		"longitude": 14.833053348209067,
-		"name": "Dečja vas pri Zagradcu",
-		"ref_id": "528091",
 		"route_groups_on_station": ["76"]
 	},
 	{
@@ -10229,13 +9681,6 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.8337810561754,
-		"longitude": 14.815516855801835,
-		"name": "Kal/Ambrusu K",
-		"ref_id": "528121",
-		"route_groups_on_station": ["76"]
-	},
-	{
 		"latitude": 45.83220485264162,
 		"longitude": 14.816900205045574,
 		"name": "Kal/Ambrusu",
@@ -10243,24 +9688,10 @@
 		"route_groups_on_station": ["76"]
 	},
 	{
-		"latitude": 45.83231788425988,
-		"longitude": 14.817061911011628,
-		"name": "Kal/Ambrusu",
-		"ref_id": "528131",
-		"route_groups_on_station": ["76"]
-	},
-	{
 		"latitude": 45.82899583209125,
 		"longitude": 14.816882085198761,
 		"name": "Kamni Vrh",
 		"ref_id": "528142",
-		"route_groups_on_station": ["76"]
-	},
-	{
-		"latitude": 45.82883882824775,
-		"longitude": 14.81702581053586,
-		"name": "Kamni Vrh",
-		"ref_id": "528141",
 		"route_groups_on_station": ["76"]
 	},
 	{
