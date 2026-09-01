@@ -232,7 +232,8 @@
 			"19",
 			"27"
 		],
-		"gtfs_id": "LPP:b905ae6a-f1e1-4057-8923-481902ed5a8e"
+		"gtfs_id": "LPP:b905ae6a-f1e1-4057-8923-481902ed5a8e",
+        "ijpp_id": "IJPP:1167156"
 	},
 	{
 		"latitude": 46.05078363662649,
@@ -259,7 +260,8 @@
 			"19",
 			"27"
 		],
-		"gtfs_id": "LPP:5d7f28a6-2a2a-4333-aa06-48edfb652f86"
+		"gtfs_id": "LPP:5d7f28a6-2a2a-4333-aa06-48edfb652f86",
+        "ijpp_id": "IJPP:1167155"
 	},
 	{
 		"latitude": 46.05035292803693,
@@ -398,7 +400,8 @@
 			"19",
 			"27"
 		],
-		"gtfs_id": "LPP:a719a87c-4e93-4387-a6d1-2631a487f7e0"
+		"gtfs_id": "LPP:a719a87c-4e93-4387-a6d1-2631a487f7e0",
+        "ijpp_id": "IJPP:1167370"
 	},
 	{
 		"latitude": 46.05032206120224,
@@ -519,7 +522,8 @@
 		"name": "Gosposvetska",
 		"ref_id": "700011",
 		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60", "Ž"],
-		"gtfs_id": "LPP:16578e36-c682-4083-bd29-4973445dc0fe"
+		"gtfs_id": "LPP:16578e36-c682-4083-bd29-4973445dc0fe",
+        "ijpp_id": "IJPP:1167386"
 	},
 	{
 		"latitude": 46.03286746834803,
@@ -618,7 +622,7 @@
 		"ref_id": "700012",
 		"route_groups_on_station": ["1", "3", "5", "7", "8", "25", "60", "Ž"],
 		"gtfs_id": "LPP:717dda7e-d793-4697-8f60-b64ee8b1edc4",
-		"ijpp_id": "IJPP:1167386"
+		"ijpp_id": "IJPP:1167336"
 	},
 	{
 		"latitude": 46.05620922714199,
@@ -644,7 +648,8 @@
 			"60",
 			"Ž"
 		],
-		"gtfs_id": "LPP:295616c0-387b-4f60-a337-7743cd6be04e"
+		"gtfs_id": "LPP:295616c0-387b-4f60-a337-7743cd6be04e",
+        "ijpp_id": "IJPP:1167196"
 	},
 	{
 		"latitude": 46.03320228899749,
@@ -688,7 +693,8 @@
 			"60",
 			"Ž"
 		],
-		"gtfs_id": "LPP:c87db9be-1fba-4102-a743-0ee4317dd5af"
+		"gtfs_id": "LPP:c87db9be-1fba-4102-a743-0ee4317dd5af",
+        "ijpp_id": "IJPP:1167197"
 	},
 	{
 		"latitude": 46.05249921677039,
@@ -936,7 +942,8 @@
 			"76",
 			"78",
 			"82"
-		]
+		],
+		"gtfs_id": "IJPP:1126954"
 	},
 	{
 		"latitude": 46.05790190389297,
@@ -944,8 +951,7 @@
 		"name": "SŽ KOLODVOR",
 		"ref_id": "300014",
 		"route_groups_on_station": ["Ž"],
-		"gtfs_id": "LPP:e65047c0-c01e-4727-b466-78e107c81ee4",
-		"ijpp_id": "IJPP:1126954"
+		"gtfs_id": "LPP:e65047c0-c01e-4727-b466-78e107c81ee4"
 	},
 	{
 		"latitude": 46.035272096240476,
@@ -61387,18 +61393,6 @@
 		"gtfs_id": "IJPP:1167143"
 	},
 	{
-		"latitude": 46.0520603,
-		"longitude": 14.5035618,
-		"name": "Pošta",
-		"gtfs_id": "IJPP:1167155"
-	},
-	{
-		"latitude": 46.0510953,
-		"longitude": 14.5029324,
-		"name": "Konzorcij",
-		"gtfs_id": "IJPP:1167156"
-	},
-	{
 		"latitude": 46.1008851,
 		"longitude": 14.460836,
 		"name": "Kosmačeva",
@@ -61421,18 +61415,6 @@
 		"longitude": 14.4176321,
 		"name": "Verje",
 		"gtfs_id": "IJPP:1167195"
-	},
-	{
-		"latitude": 46.0566679,
-		"longitude": 14.5057384,
-		"name": "Bavarski dvor",
-		"gtfs_id": "IJPP:1167196"
-	},
-	{
-		"latitude": 46.0552639,
-		"longitude": 14.5049104,
-		"name": "Bavarski dvor",
-		"gtfs_id": "IJPP:1167197"
 	},
 	{
 		"latitude": 46.0633168,
@@ -61489,22 +61471,10 @@
 		"gtfs_id": "IJPP:1167332"
 	},
 	{
-		"latitude": 46.0547113,
-		"longitude": 14.5039021,
-		"name": "Gosposvetska",
-		"gtfs_id": "IJPP:1167336"
-	},
-	{
 		"latitude": 45.987955,
 		"longitude": 14.401773,
 		"name": "Notranje Gorice",
 		"gtfs_id": "IJPP:1167368"
-	},
-	{
-		"latitude": 46.0539839,
-		"longitude": 14.5044448,
-		"name": "Ajdovščina/Lj.",
-		"gtfs_id": "IJPP:1167370"
 	},
 	{
 		"latitude": 46.0148274,
